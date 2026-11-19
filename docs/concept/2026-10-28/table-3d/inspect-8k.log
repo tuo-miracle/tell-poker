@@ -1,0 +1,20 @@
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+23:18:01 | INFO: Data are loaded, start creating Blender stuff
+23:18:01 | INFO: Blender create Mesh node meshes[0]
+23:18:01 | INFO: glTF import finished in 0.01s
+INSPECT OBJ tripo_node_e1aad945-790a-4445-aa98-43448119566a MESH parent None loc (0.0, 0.0, 0.0) scale (1.0, 1.0, 1.0)
+INSPECT   MESH verts 5855 polys 8002 tris 8002 uv ['UVMap'] vgroups 0 shapekeys 0 [] mats ['tripo_material_e1aad945-790a-4445-aa98-43448119566a'] mods []
+INSPECT   BOUNDS(Blender Z-up) min (-0.5002, -0.3123, 0.0) max (0.5002, 0.3122, 0.39) size (1.0004, 0.6245, 0.39)
+INSPECT   WELD verts 5855 -> 4003 after weld: non-manifold edges 52 boundary edges 26 faces 8002
+/Users/laichanean/WebstormProject/vr-poker/docs/concept/2026-10-28/table-3d/inspect.py:44: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if m.use_nodes:
+INSPECT MAT tripo_material_e1aad945-790a-4445-aa98-43448119566a [('poker_table_3d_model_basecolor', (2048, 2048), ['Base Color@Principled BSDF'])]
+INSPECT IMG poker_table_3d_model_basecolor (2048, 2048) sRGB
+INSPECT TOTAL tris 8002 verts 5855
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

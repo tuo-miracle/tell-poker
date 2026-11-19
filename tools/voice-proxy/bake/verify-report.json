@@ -1,0 +1,2865 @@
+{
+ "date": "2026-10-14T15:54:03.431Z",
+ "model": "gemini-3.8-flash",
+ "promptNote": "see bake/qa.ts PROMPT",
+ "ttsModel": "eleven_multilingual_v2",
+ "checked": 428,
+ "passed": 428,
+ "failed": 0,
+ "warnings": 26,
+ "geminiCalls": 0,
+ "medians": {
+  "pip": 0.36136054421768743,
+  "rocco": 0.4179591836734695,
+  "vex": 0.37442176870748295,
+  "dot": 0.3004081632653065
+ },
+ "failures": [],
+ "warned": [
+  {
+   "id": "pip.tank.01",
+   "intended": "Take your time! No pressure. Ha.",
+   "heard": [
+    "Take your time. No pressure. Huh.",
+    "Take your time. No pressure. Huh."
+   ],
+   "note": "blind transcription: substituted: ha→huh; guided check says it matches"
+  },
+  {
+   "id": "pip.bad.01",
+   "intended": "Aw, come on, cards.",
+   "heard": [
+    "Oh, come on, cards.",
+    "Oh, come on, cards."
+   ],
+   "note": "blind transcription: substituted: aw→oh; guided check says it matches"
+  },
+  {
+   "id": "rocco.tank.03",
+   "intended": "Long think. Somebody's scared.",
+   "heard": [
+    "Long think, somebody scared.",
+    "Long think, somebody scared."
+   ],
+   "note": "blind transcription: missing: 's; guided check says it matches"
+  },
+  {
+   "id": "dot.river.01",
+   "intended": "And the river.",
+   "heard": [
+    "in the river.",
+    "In the river."
+   ],
+   "note": "blind transcription: substituted: and→in; guided check says it matches"
+  },
+  {
+   "id": "dot.hello.first",
+   "intended": "Hi, I'm Dot. Let's play one together.",
+   "heard": [
+    "Hi, I'm Dad. Let's play one together.",
+    "Hi, I'm Dad. Let's play one together."
+   ],
+   "note": "blind transcription: substituted: dot→dad; guided check says it matches"
+  },
+  {
+   "id": "dot.tutorial.call",
+   "intended": "Vex bet 20. Pinch your chips — lift higher to grab more — and toss them in to call.",
+   "heard": [
+    "Next bet twenty, pinch your chips, lift higher to grab more, and toss them in to call.",
+    "Next bet, twenty. Pinch your chips, lift higher to grab more, and toss them in to call."
+   ],
+   "note": "blind transcription: substituted: vex→next; guided check says it matches"
+  },
+  {
+   "id": "dot.invalid.invalidbet",
+   "intended": "That bet doesn't work.",
+   "heard": [
+    "that that doesn't work.",
+    "That bed doesn't work."
+   ],
+   "note": "blind transcription: substituted: bet→that; guided check says it matches"
+  },
+  {
+   "id": "dot.pot.you",
+   "intended": "Pot goes to you!",
+   "heard": [
+    "Puck goes to you.",
+    "Pack goes to you."
+   ],
+   "note": "blind transcription: substituted: pot→puck; guided check says it matches"
+  },
+  {
+   "id": "dot.sidepot.you",
+   "intended": "Side pot to you!",
+   "heard": [
+    "Side part to you.",
+    "Side part to you."
+   ],
+   "note": "blind transcription: substituted: pot→part; guided check says it matches"
+  },
+  {
+   "id": "dot.pot.pip",
+   "intended": "Pot goes to Pip!",
+   "heard": [
+    "Park goes to pip.",
+    "Part goes to Pip."
+   ],
+   "note": "blind transcription: substituted: pot→park; guided check says it matches"
+  },
+  {
+   "id": "dot.pot.rocco",
+   "intended": "Pot goes to Rocco!",
+   "heard": [
+    "Poconos, Morocco.",
+    "Pack goes to Rocco."
+   ],
+   "note": "blind transcription: substituted: pot→pack; guided check says it matches"
+  },
+  {
+   "id": "dot.pot.vex",
+   "intended": "Pot goes to Vex!",
+   "heard": [
+    "Park goes to Vex.",
+    "Park goes to Vex"
+   ],
+   "note": "blind transcription: substituted: pot→park; guided check says it matches"
+  },
+  {
+   "id": "dot.sidepot.vex",
+   "intended": "Side pot to Vex!",
+   "heard": [
+    "Side parts of X.",
+    "Side parts of X."
+   ],
+   "note": "blind transcription: substituted: pot→parts, to→of, vex→x; guided check says it matches"
+  },
+  {
+   "id": "dot.sidepot.split",
+   "intended": "Side pot is split.",
+   "heard": [
+    "Sidepod is split.",
+    "Sidepod is split."
+   ],
+   "note": "blind transcription: missing: pot; substituted: side→sidepod; guided check says it matches"
+  },
+  {
+   "id": "dot.seg.tells_read",
+   "intended": "tells read",
+   "heard": [
+    "Tails red?",
+    "Tails red?"
+   ],
+   "note": "blind transcription: substituted: tells→tails, read→red; guided check says it matches"
+  },
+  {
+   "id": "pip.live.held.1",
+   "intended": "H-how much are you thinking?",
+   "heard": [
+    "How much are you thinking?",
+    "How much are you thinking?"
+   ],
+   "note": "blind transcription: missing: h; guided check says it matches"
+  },
+  {
+   "id": "vex.live.cards.2",
+   "intended": "Fold, then.",
+   "heard": [
+    "Fold them.",
+    "fold them"
+   ],
+   "note": "blind transcription: substituted: then→them; guided check says it matches"
+  },
+  {
+   "id": "pip.seg.vex_has",
+   "intended": "Vex has",
+   "heard": [
+    "Vexes.",
+    "Vexes"
+   ],
+   "note": "blind transcription: missing: has; substituted: vex→vexes; guided check says it matches"
+  },
+  {
+   "id": "rocco.seg.vex_has",
+   "intended": "Vex has",
+   "heard": [
+    "that's has",
+    "Sex has"
+   ],
+   "note": "blind transcription: substituted: vex→sex; guided check says it matches"
+  },
+  {
+   "id": "rocco.seg.pot_is",
+   "intended": "The pot is",
+   "heard": [
+    "A part is",
+    "The parties"
+   ],
+   "note": "blind transcription: substituted: the→a, pot→part; guided check says it matches"
+  },
+  {
+   "id": "dot.seg.vex_has",
+   "intended": "Vex has",
+   "heard": [
+    "Vexes",
+    "Vexes."
+   ],
+   "note": "blind transcription: missing: has; substituted: vex→vexes; guided check says it matches"
+  },
+  {
+   "id": "dot.seg.pot_is",
+   "intended": "The pot is",
+   "heard": [
+    "The pie is",
+    "The part is"
+   ],
+   "note": "blind transcription: substituted: pot→pie; guided check says it matches"
+  },
+  {
+   "id": "dot.seg.blinds_are",
+   "intended": "Blinds are",
+   "heard": [
+    "lines are",
+    "lines are"
+   ],
+   "note": "blind transcription: substituted: blinds→lines; guided check says it matches"
+  },
+  {
+   "id": "pip.num.six",
+   "intended": "six",
+   "heard": [
+    "Sex",
+    "Sechs."
+   ],
+   "note": "blind transcription: substituted: six→sex; guided check says it matches"
+  },
+  {
+   "id": "vex.num.ten",
+   "intended": "ten",
+   "heard": [
+    "dünn",
+    "Then"
+   ],
+   "note": "blind transcription: substituted: ten→then; guided check says it matches"
+  },
+  {
+   "id": "dot.num.one",
+   "intended": "one",
+   "heard": [
+    "You got it.",
+    "Hello."
+   ],
+   "note": "blind transcription: substituted: one→hello; guided check says it matches"
+  }
+ ],
+ "results": [
+  {
+   "id": "pip.value.01",
+   "ok": true,
+   "seconds": 2.64,
+   "heard": "Oh. Um, I'll put some in."
+  },
+  {
+   "id": "pip.value.02",
+   "ok": true,
+   "seconds": 3,
+   "heard": "Is this good? I think this is good."
+  },
+  {
+   "id": "pip.nervous.01",
+   "ok": true,
+   "seconds": 2.74,
+   "heard": "Totally normal wager. Nothing to see here."
+  },
+  {
+   "id": "pip.nervous.02",
+   "ok": true,
+   "seconds": 1.57,
+   "heard": "Why is it so warm in here?"
+  },
+  {
+   "id": "pip.unsure.01",
+   "ok": true,
+   "seconds": 1.99,
+   "heard": "Mmm, hm-mm."
+  },
+  {
+   "id": "pip.unsure.02",
+   "ok": true,
+   "seconds": 1.57,
+   "heard": "Wait, what beats what again?"
+  },
+  {
+   "id": "pip.fold.01",
+   "ok": true,
+   "seconds": 1.38,
+   "heard": "Nope, not today."
+  },
+  {
+   "id": "pip.fold.02",
+   "ok": true,
+   "seconds": 2.09,
+   "heard": "I'll just sit this one out."
+  },
+  {
+   "id": "pip.tank.01",
+   "ok": true,
+   "seconds": 2.38,
+   "heard": "Take your time. No pressure. Huh.",
+   "note": "blind transcription: substituted: ha→huh; guided check says it matches"
+  },
+  {
+   "id": "pip.slam.01",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "Eep, you scared me."
+  },
+  {
+   "id": "pip.slam.02",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "Whoa. Okay. Okay."
+  },
+  {
+   "id": "pip.bigbet.01",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "That's a lot of chips."
+  },
+  {
+   "id": "pip.stare.01",
+   "ok": true,
+   "seconds": 1.57,
+   "heard": "Why are you looking at me?"
+  },
+  {
+   "id": "pip.stare.02",
+   "ok": true,
+   "seconds": 1.75,
+   "heard": "Stop it, I can feel you staring."
+  },
+  {
+   "id": "pip.good.01",
+   "ok": true,
+   "seconds": 2.27,
+   "heard": "Ooh, ooh, I mean, okay."
+  },
+  {
+   "id": "pip.bad.01",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "Oh, come on, cards.",
+   "note": "blind transcription: substituted: aw→oh; guided check says it matches"
+  },
+  {
+   "id": "pip.win.01",
+   "ok": true,
+   "seconds": 1.99,
+   "heard": "I won? I actually won!"
+  },
+  {
+   "id": "pip.win.02",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "Beginner's luck, maybe?"
+  },
+  {
+   "id": "pip.lose.01",
+   "ok": true,
+   "seconds": 2.32,
+   "heard": "Okay, learning experience"
+  },
+  {
+   "id": "pip.lose.02",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "I'll get the hang of this."
+  },
+  {
+   "id": "rocco.value.01",
+   "ok": true,
+   "seconds": 1.8,
+   "heard": "Pay up, friend, pay up."
+  },
+  {
+   "id": "rocco.value.02",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "You know what time it is."
+  },
+  {
+   "id": "rocco.value.03",
+   "ok": true,
+   "seconds": 2.38,
+   "heard": "Chips in, feeling generous?"
+  },
+  {
+   "id": "rocco.nervous.01",
+   "ok": true,
+   "seconds": 2.04,
+   "heard": "Big bet, bigger heart."
+  },
+  {
+   "id": "rocco.nervous.02",
+   "ok": true,
+   "seconds": 2.4,
+   "heard": "Go ahead, call. I dare you."
+  },
+  {
+   "id": "rocco.unsure.01",
+   "ok": true,
+   "seconds": 2.4,
+   "heard": "Eh, let's see where this goes."
+  },
+  {
+   "id": "rocco.fold.01",
+   "ok": true,
+   "seconds": 2.59,
+   "heard": "Fine. Your pot, enjoy it.",
+   "note": "first transcription disagreed: substituted: pot→part"
+  },
+  {
+   "id": "rocco.fold.02",
+   "ok": true,
+   "seconds": 1.72,
+   "heard": "I'm saving my ammo."
+  },
+  {
+   "id": "rocco.tank.01",
+   "ok": true,
+   "seconds": 2.82,
+   "heard": "Thinking hard, huh? That's a tell."
+  },
+  {
+   "id": "rocco.tank.02",
+   "ok": true,
+   "seconds": 1.72,
+   "heard": "Clock's ticking, champ."
+  },
+  {
+   "id": "rocco.tank.03",
+   "ok": true,
+   "seconds": 2.51,
+   "heard": "Long think, somebody scared.",
+   "note": "blind transcription: missing: 's; guided check says it matches"
+  },
+  {
+   "id": "rocco.slam.01",
+   "ok": true,
+   "seconds": 1.96,
+   "heard": "Hey, easy on the felt."
+  },
+  {
+   "id": "rocco.slam.02",
+   "ok": true,
+   "seconds": 2.17,
+   "heard": "Whoa, you break it, you buy it."
+  },
+  {
+   "id": "rocco.bigbet.01",
+   "ok": true,
+   "seconds": 2.14,
+   "heard": "Oh, so we're doing this now?"
+  },
+  {
+   "id": "rocco.bigbet.02",
+   "ok": true,
+   "seconds": 2.22,
+   "heard": "Cute, Bet. Real cute.",
+   "note": "first transcription disagreed: substituted: bet→pet"
+  },
+  {
+   "id": "rocco.stare.01",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Like what you see?"
+  },
+  {
+   "id": "rocco.stare.02",
+   "ok": true,
+   "seconds": 1.75,
+   "heard": "Staring won't save you."
+  },
+  {
+   "id": "rocco.good.01",
+   "ok": true,
+   "seconds": 2.14,
+   "heard": "Now that's my kind of card."
+  },
+  {
+   "id": "rocco.bad.01",
+   "ok": true,
+   "seconds": 1.62,
+   "heard": "Who ordered that card?"
+  },
+  {
+   "id": "rocco.win.01",
+   "ok": true,
+   "seconds": 1.57,
+   "heard": "Rocco eats again."
+  },
+  {
+   "id": "rocco.win.02",
+   "ok": true,
+   "seconds": 2.27,
+   "heard": "Told you. I always tell you."
+  },
+  {
+   "id": "rocco.lose.01",
+   "ok": true,
+   "seconds": 2.46,
+   "heard": "Lucky, pure dumb luck."
+  },
+  {
+   "id": "rocco.lose.02",
+   "ok": true,
+   "seconds": 1.99,
+   "heard": "Enjoy it, it won't last."
+  },
+  {
+   "id": "vex.value.01",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "Bet."
+  },
+  {
+   "id": "vex.value.02",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Your move."
+  },
+  {
+   "id": "vex.nervous.01",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Let's make it interesting."
+  },
+  {
+   "id": "vex.nervous.02",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "I've decided"
+  },
+  {
+   "id": "vex.unsure.01",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Interesting."
+  },
+  {
+   "id": "vex.fold.01",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Not worth it."
+  },
+  {
+   "id": "vex.fold.02",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Pass."
+  },
+  {
+   "id": "vex.tank.01",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "Take all the time you need."
+  },
+  {
+   "id": "vex.tank.02",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "Doubt is expensive."
+  },
+  {
+   "id": "vex.slam.01",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Careful."
+  },
+  {
+   "id": "vex.bigbet.01",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Noted."
+  },
+  {
+   "id": "vex.bigbet.02",
+   "ok": true,
+   "seconds": 1.75,
+   "heard": "Is that supposed to scare me?"
+  },
+  {
+   "id": "vex.stare.01",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "Find anything?"
+  },
+  {
+   "id": "vex.stare.02",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Keep looking."
+  },
+  {
+   "id": "vex.good.01",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "Good."
+  },
+  {
+   "id": "vex.bad.01",
+   "ok": true,
+   "seconds": 0.71,
+   "heard": "Hmm."
+  },
+  {
+   "id": "vex.win.01",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "as expected."
+  },
+  {
+   "id": "vex.lose.01",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "This time"
+  },
+  {
+   "id": "dot.welcome.01",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Welcome to the table."
+  },
+  {
+   "id": "dot.welcome.02",
+   "ok": true,
+   "seconds": 1.91,
+   "heard": "Fresh deck, good luck everyone."
+  },
+  {
+   "id": "dot.yourturn.01",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Action is on you."
+  },
+  {
+   "id": "dot.yourturn.02",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "Your call, friend."
+  },
+  {
+   "id": "dot.yourturn.03",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Whenever you're ready."
+  },
+  {
+   "id": "dot.flop.01",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "Here comes the flop."
+  },
+  {
+   "id": "dot.flop.02",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "Three on the board."
+  },
+  {
+   "id": "dot.turn.01",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "The turn."
+  },
+  {
+   "id": "dot.turn.02",
+   "ok": true,
+   "seconds": 1.62,
+   "heard": "Fourth card coming up."
+  },
+  {
+   "id": "dot.river.01",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "In the river.",
+   "note": "blind transcription: substituted: and→in; guided check says it matches"
+  },
+  {
+   "id": "dot.river.02",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Last card."
+  },
+  {
+   "id": "dot.showdown.01",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Cards up, please."
+  },
+  {
+   "id": "dot.showdown.02",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Let's see them."
+  },
+  {
+   "id": "dot.winner.01",
+   "ok": true,
+   "seconds": 1.31,
+   "heard": "Pot goes to the winner."
+  },
+  {
+   "id": "dot.winner.02",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Chips coming your way."
+  },
+  {
+   "id": "dot.allin.01",
+   "ok": true,
+   "seconds": 1.31,
+   "heard": "We have an all-in"
+  },
+  {
+   "id": "dot.check",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Check."
+  },
+  {
+   "id": "dot.hello.first",
+   "ok": true,
+   "seconds": 2.17,
+   "heard": "Hi, I'm Dad. Let's play one together.",
+   "note": "blind transcription: substituted: dot→dad; guided check says it matches"
+  },
+  {
+   "id": "dot.hello.newtutorial",
+   "ok": true,
+   "seconds": 2.69,
+   "heard": "Welcome back. Let me show you the new gestures."
+  },
+  {
+   "id": "dot.hello.fullgame",
+   "ok": true,
+   "seconds": 2.09,
+   "heard": "Welcome back. Ready for a full game?"
+  },
+  {
+   "id": "dot.tutorial.nexthand",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Tutorial next hand"
+  },
+  {
+   "id": "dot.tutorial.smallbet",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "Just a few chips for now."
+  },
+  {
+   "id": "dot.tutorial.peek",
+   "ok": true,
+   "seconds": 4.36,
+   "heard": "Let's peek at your cards. Cup your hand over them and lift your wrist."
+  },
+  {
+   "id": "dot.tutorial.look",
+   "ok": true,
+   "seconds": 2.17,
+   "heard": "You can also pick them up to look closer."
+  },
+  {
+   "id": "dot.tutorial.call",
+   "ok": true,
+   "seconds": 5.07,
+   "heard": "Next bet, twenty. Pinch your chips, lift higher to grab more, and toss them in to call.",
+   "note": "blind transcription: substituted: vex→next; guided check says it matches"
+  },
+  {
+   "id": "dot.tutorial.check",
+   "ok": true,
+   "seconds": 2.14,
+   "heard": "Nobody bet, knock twice to check."
+  },
+  {
+   "id": "dot.tutorial.read",
+   "ok": true,
+   "seconds": 2.17,
+   "heard": "Try reading Rocco. Look at him for a second."
+  },
+  {
+   "id": "dot.tutorial.raise",
+   "ok": true,
+   "seconds": 2.74,
+   "heard": "Make him pay. Toss in more than his bet to raise."
+  },
+  {
+   "id": "dot.tutorial.fold",
+   "ok": true,
+   "seconds": 3.84,
+   "heard": "Vex never bluffs this big. Toss your cards toward the middle to fold."
+  },
+  {
+   "id": "dot.tutorial.allin",
+   "ok": true,
+   "seconds": 2.8,
+   "heard": "Best hand at the table, push all your chips with both hands."
+  },
+  {
+   "id": "dot.tutorial.flip",
+   "ok": true,
+   "seconds": 1.8,
+   "heard": "Flip your cards over to show them."
+  },
+  {
+   "id": "dot.tutorial.voice",
+   "ok": true,
+   "seconds": 3.53,
+   "heard": "Ask me anything about the table. Try, how much is in the pot?"
+  },
+  {
+   "id": "dot.praise.1",
+   "ok": true,
+   "seconds": 0.71,
+   "heard": "Nice."
+  },
+  {
+   "id": "dot.praise.2",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Perfect."
+  },
+  {
+   "id": "dot.praise.3",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Great job."
+  },
+  {
+   "id": "dot.praise.4",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "You got it."
+  },
+  {
+   "id": "dot.praise.5",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Well done."
+  },
+  {
+   "id": "dot.tutorial.readcomment",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "See that? He's bluffing."
+  },
+  {
+   "id": "dot.tutorial.finished",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "You're ready. Good luck."
+  },
+  {
+   "id": "dot.tutorial.callexact",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "Toss in exactly twenty to call."
+  },
+  {
+   "id": "dot.tutorial.raisemore",
+   "ok": true,
+   "seconds": 1.85,
+   "heard": "That's a call, toss in more to raise.",
+   "note": "first transcription disagreed: missing: raise; substituted: more→hors, to→d'oeuvres"
+  },
+  {
+   "id": "dot.tutorial.skip",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Okay, let's play."
+  },
+  {
+   "id": "dot.tip.peek.wrist",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "Lift your wrist a little higher."
+  },
+  {
+   "id": "dot.tip.peek.fingertips",
+   "ok": true,
+   "seconds": 3,
+   "heard": "Rest your fingertips on the cards, then lift your wrist."
+  },
+  {
+   "id": "dot.tip.peek.palmdown",
+   "ok": true,
+   "seconds": 1.91,
+   "heard": "Turn your palm down over your cards."
+  },
+  {
+   "id": "dot.tip.peek.overcards",
+   "ok": true,
+   "seconds": 1.91,
+   "heard": "Move your hand right over your cards."
+  },
+  {
+   "id": "dot.tip.look",
+   "ok": true,
+   "seconds": 2.04,
+   "heard": "Pinch both cards and lift them up."
+  },
+  {
+   "id": "dot.tip.chips.pinch",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Pinch right on the chips."
+  },
+  {
+   "id": "dot.tip.chips.zone",
+   "ok": true,
+   "seconds": 1.75,
+   "heard": "Toss them onto the glowing zone."
+  },
+  {
+   "id": "dot.tip.chips.more",
+   "ok": true,
+   "seconds": 1.8,
+   "heard": "Lift higher to grab more chips."
+  },
+  {
+   "id": "dot.tip.knock",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "Two quick taps on the table."
+  },
+  {
+   "id": "dot.tip.read",
+   "ok": true,
+   "seconds": 2.38,
+   "heard": "Rocco is across from you, keep looking at him."
+  },
+  {
+   "id": "dot.tip.fold",
+   "ok": true,
+   "seconds": 1.62,
+   "heard": "Toss your cards toward the middle."
+  },
+  {
+   "id": "dot.tip.allin",
+   "ok": true,
+   "seconds": 2.09,
+   "heard": "Both hands together, push forward."
+  },
+  {
+   "id": "dot.tip.allin.hold",
+   "ok": true,
+   "seconds": 1.72,
+   "heard": "Push and hold, don't pull back."
+  },
+  {
+   "id": "dot.tip.flip",
+   "ok": true,
+   "seconds": 1.31,
+   "heard": "Turn your cards face up."
+  },
+  {
+   "id": "dot.tip.voice",
+   "ok": true,
+   "seconds": 1.72,
+   "heard": "Look at me, then ask out loud,"
+  },
+  {
+   "id": "dot.invalid.cannotcheck",
+   "ok": true,
+   "seconds": 1.85,
+   "heard": "Can't check here, call or fold.",
+   "note": "first transcription disagreed: missing: not"
+  },
+  {
+   "id": "dot.invalid.invalidbet",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "That bed doesn't work.",
+   "note": "blind transcription: substituted: bet→that; guided check says it matches"
+  },
+  {
+   "id": "dot.invalid.notyourturn",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Not your turn yet."
+  },
+  {
+   "id": "dot.pot.you",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "Pack goes to you.",
+   "note": "blind transcription: substituted: pot→puck; guided check says it matches"
+  },
+  {
+   "id": "dot.sidepot.you",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Side part to you.",
+   "note": "blind transcription: substituted: pot→part; guided check says it matches"
+  },
+  {
+   "id": "dot.pot.pip",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "Part goes to Pip.",
+   "note": "blind transcription: substituted: pot→park; guided check says it matches"
+  },
+  {
+   "id": "dot.sidepot.pip",
+   "ok": true,
+   "seconds": 1.38,
+   "heard": "Side pot to Pip."
+  },
+  {
+   "id": "dot.pot.rocco",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "Pack goes to Rocco.",
+   "note": "blind transcription: substituted: pot→pack; guided check says it matches"
+  },
+  {
+   "id": "dot.sidepot.rocco",
+   "ok": true,
+   "seconds": 1.31,
+   "heard": "Side pot to Rocco.",
+   "note": "first transcription disagreed: missing: rocco; substituted: pot→part, to→tarraco"
+  },
+  {
+   "id": "dot.pot.vex",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "Park goes to Vex",
+   "note": "blind transcription: substituted: pot→park; guided check says it matches"
+  },
+  {
+   "id": "dot.sidepot.vex",
+   "ok": true,
+   "seconds": 1.31,
+   "heard": "Side parts of X.",
+   "note": "blind transcription: substituted: pot→parts, to→of, vex→x; guided check says it matches"
+  },
+  {
+   "id": "dot.pot.split",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Split pot."
+  },
+  {
+   "id": "dot.sidepot.split",
+   "ok": true,
+   "seconds": 1.38,
+   "heard": "Sidepod is split.",
+   "note": "blind transcription: missing: pot; substituted: side→sidepod; guided check says it matches"
+  },
+  {
+   "id": "dot.gameover.won",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "You took the table"
+  },
+  {
+   "id": "dot.gameover.busted",
+   "ok": true,
+   "seconds": 2.38,
+   "heard": "Out of chips? Knock for a rematch."
+  },
+  {
+   "id": "dot.gameover.end",
+   "ok": true,
+   "seconds": 1.96,
+   "heard": "That's the game. Knock to go again."
+  },
+  {
+   "id": "dot.newgame",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "New game. Chips reset."
+  },
+  {
+   "id": "dot.prefold",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Fold noted.",
+   "note": "first transcription disagreed: substituted: fold→well"
+  },
+  {
+   "id": "dot.waitturn",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "Wait for your turn."
+  },
+  {
+   "id": "dot.seg.welcome_back",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Welcome back."
+  },
+  {
+   "id": "dot.seg.wins_in",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Wins in",
+   "note": "first transcription disagreed: substituted: in→and"
+  },
+  {
+   "id": "dot.seg.win_in",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Win in"
+  },
+  {
+   "id": "dot.seg.tells_read",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Tails red?",
+   "note": "blind transcription: substituted: tells→tails, read→red; guided check says it matches"
+  },
+  {
+   "id": "dot.seg.so_far",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "So far,"
+  },
+  {
+   "id": "rocco.fool.peeks.2",
+   "ok": true,
+   "seconds": 4.18,
+   "heard": "You looked at your cards twice. Not loving that hand, huh?"
+  },
+  {
+   "id": "rocco.fool.peeks.3",
+   "ok": true,
+   "seconds": 4.41,
+   "heard": "You looked at your cards three times. Not loving that hand, huh?"
+  },
+  {
+   "id": "rocco.fool.peeks.4",
+   "ok": true,
+   "seconds": 4.41,
+   "heard": "You looked at your cards four times. Not loving that hand, huh?"
+  },
+  {
+   "id": "rocco.fool.peeks.many",
+   "ok": true,
+   "seconds": 4.13,
+   "heard": "You keep looking at your cards. Not loving that hand, huh?"
+  },
+  {
+   "id": "rocco.fool.slowreach",
+   "ok": true,
+   "seconds": 3.66,
+   "heard": "Took you a while to reach for those chips, weak."
+  },
+  {
+   "id": "rocco.fool.slowmove",
+   "ok": true,
+   "seconds": 3.16,
+   "heard": "Took you a while to make a move, weak.",
+   "note": "first transcription disagreed: substituted: weak→wheek"
+  },
+  {
+   "id": "rocco.fool.hover",
+   "ok": true,
+   "seconds": 2.87,
+   "heard": "Fiddling with your chips? Nervous?"
+  },
+  {
+   "id": "rocco.fool.quick",
+   "ok": true,
+   "seconds": 2.69,
+   "heard": "Quick decision. Confident, huh?"
+  },
+  {
+   "id": "rocco.fool.call",
+   "ok": true,
+   "seconds": 2.93,
+   "heard": "Took your time. You're bluffing. I call."
+  },
+  {
+   "id": "rocco.fool.fold",
+   "ok": true,
+   "seconds": 3.06,
+   "heard": "Quick bet. You've got it. I'm out."
+  },
+  {
+   "id": "rocco.fool.played",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "You played me."
+  },
+  {
+   "id": "rocco.fool.distrust",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Not this time."
+  },
+  {
+   "id": "dot.fool.nexthand",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "Fool Rocco next hand."
+  },
+  {
+   "id": "dot.fool.intro",
+   "ok": true,
+   "seconds": 2.17,
+   "heard": "Rocco reads your hands, just play this one.",
+   "note": "first transcription disagreed: substituted: reads→read"
+  },
+  {
+   "id": "dot.fool.coach",
+   "ok": true,
+   "seconds": 5.51,
+   "heard": "Rocco thinks a slow reach means a weak hand. Try it. Wait a few seconds before you bet."
+  },
+  {
+   "id": "dot.fool.fooled",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "You fooled him."
+  },
+  {
+   "id": "dot.fool.retry",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "Try waiting next time."
+  },
+  {
+   "id": "dot.fool.learns",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "He learns, mix it up."
+  },
+  {
+   "id": "rocco.live.think3.1",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "Something wrong, champ?"
+  },
+  {
+   "id": "rocco.live.think3.2",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Tough one, huh?"
+  },
+  {
+   "id": "rocco.live.think3.3",
+   "ok": true,
+   "seconds": 1.57,
+   "heard": "Need a minute, champ?"
+  },
+  {
+   "id": "rocco.live.think7.2",
+   "ok": true,
+   "seconds": 2.4,
+   "heard": "Still thinking? That's a tell."
+  },
+  {
+   "id": "rocco.live.think7.3",
+   "ok": true,
+   "seconds": 1.57,
+   "heard": "Somebody's scared.",
+   "note": "first transcription disagreed: missing: 's"
+  },
+  {
+   "id": "rocco.live.think12.1",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "Any day now, champ."
+  },
+  {
+   "id": "rocco.live.think12.2",
+   "ok": true,
+   "seconds": 1.91,
+   "heard": "We're all getting older here."
+  },
+  {
+   "id": "rocco.live.relook.1",
+   "ok": true,
+   "seconds": 2.04,
+   "heard": "Again, they didn't change"
+  },
+  {
+   "id": "rocco.live.relook.2",
+   "ok": true,
+   "seconds": 2.04,
+   "heard": "Not loving those cards, huh?"
+  },
+  {
+   "id": "rocco.live.relook.3",
+   "ok": true,
+   "seconds": 2.4,
+   "heard": "Look all you want, same cards."
+  },
+  {
+   "id": "rocco.live.reach.1",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Ooh, going in."
+  },
+  {
+   "id": "rocco.live.reach.2",
+   "ok": true,
+   "seconds": 2.09,
+   "heard": "There it is. Reach for it."
+  },
+  {
+   "id": "rocco.live.reach.3",
+   "ok": true,
+   "seconds": 1.72,
+   "heard": "Go on, grab some chips."
+  },
+  {
+   "id": "rocco.live.pullback.1",
+   "ok": true,
+   "seconds": 2.17,
+   "heard": "Changed your mind? I saw that."
+  },
+  {
+   "id": "rocco.live.pullback.2",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "Ooh, cold feet?"
+  },
+  {
+   "id": "rocco.live.pullback.3",
+   "ok": true,
+   "seconds": 2.46,
+   "heard": "Hand goes in, hand comes back."
+  },
+  {
+   "id": "rocco.live.held.1",
+   "ok": true,
+   "seconds": 1.75,
+   "heard": "Gonna hold those all day?"
+  },
+  {
+   "id": "rocco.live.held.2",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "Drop them in, champ."
+  },
+  {
+   "id": "rocco.live.held.3",
+   "ok": true,
+   "seconds": 2.27,
+   "heard": "Heavy, huh? Put them in."
+  },
+  {
+   "id": "rocco.live.putback.1",
+   "ok": true,
+   "seconds": 1.96,
+   "heard": "putting them back, scared"
+  },
+  {
+   "id": "rocco.live.putback.2",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "Back in the stack, huh?"
+  },
+  {
+   "id": "rocco.live.cards.1",
+   "ok": true,
+   "seconds": 2.38,
+   "heard": "Thinking of folding? Do it."
+  },
+  {
+   "id": "rocco.live.cards.2",
+   "ok": true,
+   "seconds": 1.99,
+   "heard": "Go on, toss them."
+  },
+  {
+   "id": "rocco.live.cards.3",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "folding already?"
+  },
+  {
+   "id": "rocco.live.gaze.1",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "See something you like?"
+  },
+  {
+   "id": "rocco.live.gaze.2",
+   "ok": true,
+   "seconds": 2.27,
+   "heard": "Looking for a tell? Good luck."
+  },
+  {
+   "id": "rocco.live.right.1",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "read you like a book."
+  },
+  {
+   "id": "rocco.live.right.2",
+   "ok": true,
+   "seconds": 2.04,
+   "heard": "called it. You were weak."
+  },
+  {
+   "id": "rocco.live.fooled.1",
+   "ok": true,
+   "seconds": 1.8,
+   "heard": "You faked that? Nice."
+  },
+  {
+   "id": "rocco.live.fooled.2",
+   "ok": true,
+   "seconds": 2.04,
+   "heard": "Okay, that was a trick."
+  },
+  {
+   "id": "pip.live.think3.1",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "Oh, um, take your time."
+  },
+  {
+   "id": "pip.live.think3.2",
+   "ok": true,
+   "seconds": 1.8,
+   "heard": "Is it hard? It looks hard."
+  },
+  {
+   "id": "pip.live.think7.1",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "I'd be thinking too."
+  },
+  {
+   "id": "pip.live.think7.2",
+   "ok": true,
+   "seconds": 2.14,
+   "heard": "Long think, is that bad for me?"
+  },
+  {
+   "id": "pip.live.think12.1",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Should I get snacks?"
+  },
+  {
+   "id": "pip.live.think12.2",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "I'm so nervous right now."
+  },
+  {
+   "id": "pip.live.relook.1",
+   "ok": true,
+   "seconds": 2.46,
+   "heard": "Did they change? Mine never do."
+  },
+  {
+   "id": "pip.live.relook.2",
+   "ok": true,
+   "seconds": 2.17,
+   "heard": "You checked again? Is that good?"
+  },
+  {
+   "id": "pip.live.reach.1",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "Oh no, here it comes."
+  },
+  {
+   "id": "pip.live.reach.2",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "Wait, you're betting"
+  },
+  {
+   "id": "pip.live.pullback.1",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "Oh, thank goodness."
+  },
+  {
+   "id": "pip.live.pullback.2",
+   "ok": true,
+   "seconds": 1.91,
+   "heard": "Phew. Wait, you're not?"
+  },
+  {
+   "id": "pip.live.held.1",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "How much are you thinking?",
+   "note": "blind transcription: missing: h; guided check says it matches"
+  },
+  {
+   "id": "pip.live.held.2",
+   "ok": true,
+   "seconds": 2.09,
+   "heard": "That's a lot of chips, right?"
+  },
+  {
+   "id": "pip.live.putback.1",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "You put them back. Phew!"
+  },
+  {
+   "id": "pip.live.putback.2",
+   "ok": true,
+   "seconds": 3.29,
+   "heard": "Not betting? Okay. Okay, good.",
+   "note": "first transcription disagreed: extra: eh; substituted: betting→bad"
+  },
+  {
+   "id": "pip.live.cards.1",
+   "ok": true,
+   "seconds": 1.91,
+   "heard": "Are you folding? I won't tell."
+  },
+  {
+   "id": "pip.live.cards.2",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "Oh, are you out?"
+  },
+  {
+   "id": "pip.live.gaze.2",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "I didn't do anything."
+  },
+  {
+   "id": "pip.live.right.1",
+   "ok": true,
+   "seconds": 1.99,
+   "heard": "I, um, kind of saw that coming."
+  },
+  {
+   "id": "pip.live.fooled.1",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "You tricked me."
+  },
+  {
+   "id": "vex.live.think7.2",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Seven seconds."
+  },
+  {
+   "id": "vex.live.think12.1",
+   "ok": true,
+   "seconds": 1.75,
+   "heard": "Twelve seconds. Noted."
+  },
+  {
+   "id": "vex.live.think12.2",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Decide."
+  },
+  {
+   "id": "vex.live.relook.1",
+   "ok": true,
+   "seconds": 1.62,
+   "heard": "Checking again. Hmm."
+  },
+  {
+   "id": "vex.live.relook.2",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "twice now"
+  },
+  {
+   "id": "vex.live.reach.1",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Go on."
+  },
+  {
+   "id": "vex.live.reach.2",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Hmm. Interested."
+  },
+  {
+   "id": "vex.live.pullback.1",
+   "ok": true,
+   "seconds": 1.57,
+   "heard": "Hesitation noted."
+  },
+  {
+   "id": "vex.live.pullback.2",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "You flinched."
+  },
+  {
+   "id": "vex.live.held.1",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "Heavy decision."
+  },
+  {
+   "id": "vex.live.held.2",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "Count them twice."
+  },
+  {
+   "id": "vex.live.putback.1",
+   "ok": true,
+   "seconds": 1.57,
+   "heard": "Back in the stack. Hm."
+  },
+  {
+   "id": "vex.live.cards.1",
+   "ok": true,
+   "seconds": 1.72,
+   "heard": "Your cards won't save you."
+  },
+  {
+   "id": "vex.live.cards.2",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "fold them",
+   "note": "blind transcription: substituted: then→them; guided check says it matches"
+  },
+  {
+   "id": "vex.live.right.1",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "readable"
+  },
+  {
+   "id": "vex.live.fooled.1",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Clever once.",
+   "note": "first transcription disagreed: substituted: once→ones"
+  },
+  {
+   "id": "dot.live.think12.1",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Take your time."
+  },
+  {
+   "id": "dot.live.think12.2",
+   "ok": true,
+   "seconds": 1.31,
+   "heard": "Action is still on you."
+  },
+  {
+   "id": "dot.live.think12.3",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "No rush. Your call."
+  },
+  {
+   "id": "pip.filler",
+   "ok": true,
+   "seconds": 0.71,
+   "heard": "Hm?"
+  },
+  {
+   "id": "pip.canned.1",
+   "ok": true,
+   "seconds": 2.32,
+   "heard": "Um, sorry, I didn't catch that."
+  },
+  {
+   "id": "pip.canned.2",
+   "ok": true,
+   "seconds": 1.8,
+   "heard": "Oh gosh, could you say that again?"
+  },
+  {
+   "id": "pip.fb.nothing_to_call",
+   "ok": true,
+   "seconds": 2.27,
+   "heard": "Nothing to call. You can check."
+  },
+  {
+   "id": "pip.fb.nobody_up",
+   "ok": true,
+   "seconds": 1.38,
+   "heard": "Nobody's up right now."
+  },
+  {
+   "id": "pip.fb.your_turn",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "It's your turn."
+  },
+  {
+   "id": "pip.fb.my_turn",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "It's my turn."
+  },
+  {
+   "id": "pip.fb.turn_rocco",
+   "ok": true,
+   "seconds": 1.38,
+   "heard": "It's Rocco's turn."
+  },
+  {
+   "id": "pip.seg.rocco_has",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Rocco has"
+  },
+  {
+   "id": "pip.fb.turn_vex",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "It's Vex's turn.",
+   "note": "first transcription disagreed: substituted: vex→bex"
+  },
+  {
+   "id": "pip.seg.vex_has",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Vexes",
+   "note": "blind transcription: missing: has; substituted: vex→vexes; guided check says it matches"
+  },
+  {
+   "id": "pip.seg.pot_is",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "The pot is",
+   "note": "first transcription disagreed: missing: is; substituted: pot→parties"
+  },
+  {
+   "id": "pip.seg.you_need",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "You need"
+  },
+  {
+   "id": "pip.seg.to_call",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "to call"
+  },
+  {
+   "id": "pip.seg.blinds_are",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "blinds are"
+  },
+  {
+   "id": "pip.seg.and",
+   "ok": true,
+   "seconds": 0.65,
+   "heard": "And"
+  },
+  {
+   "id": "pip.seg.you_have",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "You have"
+  },
+  {
+   "id": "pip.seg.i_have",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "I have"
+  },
+  {
+   "id": "rocco.filler",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Yeah?"
+  },
+  {
+   "id": "rocco.canned.1",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "Speak up, kid."
+  },
+  {
+   "id": "rocco.canned.2",
+   "ok": true,
+   "seconds": 3.11,
+   "heard": "What? Mumbling won't win you chips."
+  },
+  {
+   "id": "rocco.fb.nothing_to_call",
+   "ok": true,
+   "seconds": 2.4,
+   "heard": "Nothing to call, you can check."
+  },
+  {
+   "id": "rocco.fb.nobody_up",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "Nobody's up right now."
+  },
+  {
+   "id": "rocco.fb.your_turn",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "It's your turn."
+  },
+  {
+   "id": "rocco.fb.my_turn",
+   "ok": true,
+   "seconds": 1.31,
+   "heard": "It's my turn."
+  },
+  {
+   "id": "rocco.fb.turn_pip",
+   "ok": true,
+   "seconds": 1.54,
+   "heard": "It's Pip's turn."
+  },
+  {
+   "id": "rocco.seg.pip_has",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Pip has"
+  },
+  {
+   "id": "rocco.fb.turn_vex",
+   "ok": true,
+   "seconds": 1.49,
+   "heard": "It's Vex's turn."
+  },
+  {
+   "id": "rocco.seg.vex_has",
+   "ok": true,
+   "seconds": 1.2,
+   "heard": "Sex has",
+   "note": "blind transcription: substituted: vex→sex; guided check says it matches"
+  },
+  {
+   "id": "rocco.seg.pot_is",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "The parties",
+   "note": "blind transcription: substituted: the→a, pot→part; guided check says it matches"
+  },
+  {
+   "id": "rocco.seg.you_need",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "You need"
+  },
+  {
+   "id": "rocco.seg.to_call",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "to call"
+  },
+  {
+   "id": "rocco.seg.blinds_are",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "blinds are"
+  },
+  {
+   "id": "rocco.seg.and",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "and"
+  },
+  {
+   "id": "rocco.seg.you_have",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "You have"
+  },
+  {
+   "id": "rocco.seg.i_have",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "I have"
+  },
+  {
+   "id": "vex.canned.2",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Say again."
+  },
+  {
+   "id": "vex.fb.nothing_to_call",
+   "ok": true,
+   "seconds": 2.04,
+   "heard": "Nothing to call, you can check."
+  },
+  {
+   "id": "vex.fb.nobody_up",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Nobody's up right now."
+  },
+  {
+   "id": "vex.fb.your_turn",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "It's your turn."
+  },
+  {
+   "id": "vex.fb.my_turn",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "It's my turn."
+  },
+  {
+   "id": "vex.fb.turn_pip",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "It's Pip's turn."
+  },
+  {
+   "id": "vex.seg.pip_has",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Pip has"
+  },
+  {
+   "id": "vex.fb.turn_rocco",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "It's Rocco's turn."
+  },
+  {
+   "id": "vex.seg.rocco_has",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "Rocco has"
+  },
+  {
+   "id": "vex.seg.pot_is",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "The pot is"
+  },
+  {
+   "id": "vex.seg.you_need",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "You need"
+  },
+  {
+   "id": "vex.seg.to_call",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "to call"
+  },
+  {
+   "id": "vex.seg.blinds_are",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Blinds are"
+  },
+  {
+   "id": "vex.seg.and",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "And"
+  },
+  {
+   "id": "vex.seg.you_have",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "You have"
+  },
+  {
+   "id": "vex.seg.i_have",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "I have"
+  },
+  {
+   "id": "dot.filler",
+   "ok": true,
+   "seconds": 0.6,
+   "heard": "Yes."
+  },
+  {
+   "id": "dot.canned.1",
+   "ok": true,
+   "seconds": 1.62,
+   "heard": "Sorry, I didn't catch that."
+  },
+  {
+   "id": "dot.canned.2",
+   "ok": true,
+   "seconds": 1.44,
+   "heard": "Could you repeat that, please?"
+  },
+  {
+   "id": "dot.fb.nothing_to_call",
+   "ok": true,
+   "seconds": 1.67,
+   "heard": "Nothing to call. You can check."
+  },
+  {
+   "id": "dot.fb.nobody_up",
+   "ok": true,
+   "seconds": 1.38,
+   "heard": "Nobody's up right now."
+  },
+  {
+   "id": "dot.fb.your_turn",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "It's your turn."
+  },
+  {
+   "id": "dot.fb.turn_pip",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "It's Pip's turn."
+  },
+  {
+   "id": "dot.seg.pip_has",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Pip has"
+  },
+  {
+   "id": "dot.fb.turn_rocco",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "It's Rocco's turn."
+  },
+  {
+   "id": "dot.seg.rocco_has",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Rocco has"
+  },
+  {
+   "id": "dot.fb.turn_vex",
+   "ok": true,
+   "seconds": 1.33,
+   "heard": "It's Vex's turn."
+  },
+  {
+   "id": "dot.seg.vex_has",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Vexes.",
+   "note": "blind transcription: missing: has; substituted: vex→vexes; guided check says it matches"
+  },
+  {
+   "id": "dot.seg.pot_is",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "The part is",
+   "note": "blind transcription: substituted: pot→pie; guided check says it matches"
+  },
+  {
+   "id": "dot.seg.you_need",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "You need"
+  },
+  {
+   "id": "dot.seg.to_call",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "to call"
+  },
+  {
+   "id": "dot.seg.blinds_are",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "lines are",
+   "note": "blind transcription: substituted: blinds→lines; guided check says it matches"
+  },
+  {
+   "id": "dot.seg.and",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "And"
+  },
+  {
+   "id": "dot.seg.you_have",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "You have"
+  },
+  {
+   "id": "pip.num.zero",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "zero"
+  },
+  {
+   "id": "pip.num.one",
+   "ok": true,
+   "seconds": 0.6,
+   "heard": "One."
+  },
+  {
+   "id": "pip.num.two",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Two."
+  },
+  {
+   "id": "pip.num.three",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Three."
+  },
+  {
+   "id": "pip.num.four",
+   "ok": true,
+   "seconds": 0.71,
+   "heard": "Four."
+  },
+  {
+   "id": "pip.num.five",
+   "ok": true,
+   "seconds": 0.65,
+   "heard": "Five"
+  },
+  {
+   "id": "pip.num.six",
+   "ok": true,
+   "seconds": 0.6,
+   "heard": "Sechs.",
+   "note": "blind transcription: substituted: six→sex; guided check says it matches"
+  },
+  {
+   "id": "pip.num.seven",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Seven."
+  },
+  {
+   "id": "pip.num.eight",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Eight."
+  },
+  {
+   "id": "pip.num.nine",
+   "ok": true,
+   "seconds": 0.6,
+   "heard": "nine"
+  },
+  {
+   "id": "pip.num.ten",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Ten."
+  },
+  {
+   "id": "pip.num.eleven",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Eleven."
+  },
+  {
+   "id": "pip.num.twelve",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "twelve"
+  },
+  {
+   "id": "pip.num.thirteen",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Thirteen."
+  },
+  {
+   "id": "pip.num.fourteen",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Fourteen."
+  },
+  {
+   "id": "pip.num.fifteen",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Fifteen."
+  },
+  {
+   "id": "pip.num.sixteen",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Sixteen."
+  },
+  {
+   "id": "pip.num.seventeen",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Seventeen."
+  },
+  {
+   "id": "pip.num.eighteen",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Eighteen."
+  },
+  {
+   "id": "pip.num.nineteen",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Nineteen."
+  },
+  {
+   "id": "pip.num.twenty",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Twenty.",
+   "note": "first transcription disagreed: extra: eight"
+  },
+  {
+   "id": "pip.num.thirty",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Thirty."
+  },
+  {
+   "id": "pip.num.forty",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Forty."
+  },
+  {
+   "id": "pip.num.fifty",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Fifty."
+  },
+  {
+   "id": "pip.num.sixty",
+   "ok": true,
+   "seconds": 0.55,
+   "heard": "sixty"
+  },
+  {
+   "id": "pip.num.seventy",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "Seventy."
+  },
+  {
+   "id": "pip.num.eighty",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "80."
+  },
+  {
+   "id": "pip.num.ninety",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "ninety"
+  },
+  {
+   "id": "pip.num.hundred",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Hundred"
+  },
+  {
+   "id": "pip.num.thousand",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Thousand"
+  },
+  {
+   "id": "pip.num.million",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "million"
+  },
+  {
+   "id": "pip.num.percent",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "percent"
+  },
+  {
+   "id": "rocco.num.zero",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Zero."
+  },
+  {
+   "id": "rocco.num.one",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "One."
+  },
+  {
+   "id": "rocco.num.two",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Two."
+  },
+  {
+   "id": "rocco.num.three",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Three."
+  },
+  {
+   "id": "rocco.num.four",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Four."
+  },
+  {
+   "id": "rocco.num.five",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "five"
+  },
+  {
+   "id": "rocco.num.six",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Six."
+  },
+  {
+   "id": "rocco.num.seven",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Seven."
+  },
+  {
+   "id": "rocco.num.eight",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Eight."
+  },
+  {
+   "id": "rocco.num.nine",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Nine."
+  },
+  {
+   "id": "rocco.num.ten",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "ten"
+  },
+  {
+   "id": "rocco.num.eleven",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Eleven."
+  },
+  {
+   "id": "rocco.num.twelve",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Twelve."
+  },
+  {
+   "id": "rocco.num.thirteen",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "13"
+  },
+  {
+   "id": "rocco.num.fourteen",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "Fourteen."
+  },
+  {
+   "id": "rocco.num.fifteen",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Fifteen."
+  },
+  {
+   "id": "rocco.num.sixteen",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Sixteen."
+  },
+  {
+   "id": "rocco.num.seventeen",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Seventeen."
+  },
+  {
+   "id": "rocco.num.eighteen",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Eighteen."
+  },
+  {
+   "id": "rocco.num.nineteen",
+   "ok": true,
+   "seconds": 1.15,
+   "heard": "Nineteen."
+  },
+  {
+   "id": "rocco.num.twenty",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Twenty."
+  },
+  {
+   "id": "rocco.num.thirty",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Thirty."
+  },
+  {
+   "id": "rocco.num.forty",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Forty."
+  },
+  {
+   "id": "rocco.num.fifty",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Fifty"
+  },
+  {
+   "id": "rocco.num.sixty",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Sixty."
+  },
+  {
+   "id": "rocco.num.seventy",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "Seventy."
+  },
+  {
+   "id": "rocco.num.eighty",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Eighty."
+  },
+  {
+   "id": "rocco.num.ninety",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Ninety."
+  },
+  {
+   "id": "rocco.num.hundred",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Hundred."
+  },
+  {
+   "id": "rocco.num.thousand",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "thousand"
+  },
+  {
+   "id": "rocco.num.million",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "million."
+  },
+  {
+   "id": "rocco.num.percent",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "percent."
+  },
+  {
+   "id": "vex.num.zero",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Zero."
+  },
+  {
+   "id": "vex.num.one",
+   "ok": true,
+   "seconds": 0.65,
+   "heard": "One."
+  },
+  {
+   "id": "vex.num.two",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "two"
+  },
+  {
+   "id": "vex.num.three",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Three."
+  },
+  {
+   "id": "vex.num.four",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "four"
+  },
+  {
+   "id": "vex.num.five",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Five."
+  },
+  {
+   "id": "vex.num.six",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Six."
+  },
+  {
+   "id": "vex.num.seven",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Seven."
+  },
+  {
+   "id": "vex.num.eight",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "Eight."
+  },
+  {
+   "id": "vex.num.nine",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Nine."
+  },
+  {
+   "id": "vex.num.ten",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Then",
+   "note": "blind transcription: substituted: ten→then; guided check says it matches"
+  },
+  {
+   "id": "vex.num.eleven",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Eleven."
+  },
+  {
+   "id": "vex.num.twelve",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Twelve."
+  },
+  {
+   "id": "vex.num.thirteen",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "13."
+  },
+  {
+   "id": "vex.num.fourteen",
+   "ok": true,
+   "seconds": 1.07,
+   "heard": "fourteen"
+  },
+  {
+   "id": "vex.num.fifteen",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Fifteen."
+  },
+  {
+   "id": "vex.num.sixteen",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Sixteen."
+  },
+  {
+   "id": "vex.num.seventeen",
+   "ok": true,
+   "seconds": 1.12,
+   "heard": "Seventeen."
+  },
+  {
+   "id": "vex.num.eighteen",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Eighteen."
+  },
+  {
+   "id": "vex.num.nineteen",
+   "ok": true,
+   "seconds": 1.25,
+   "heard": "Nineteen."
+  },
+  {
+   "id": "vex.num.twenty",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Twenty."
+  },
+  {
+   "id": "vex.num.thirty",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Thirty."
+  },
+  {
+   "id": "vex.num.forty",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Forty"
+  },
+  {
+   "id": "vex.num.fifty",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Fifty."
+  },
+  {
+   "id": "vex.num.sixty",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Sixty."
+  },
+  {
+   "id": "vex.num.seventy",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Seventy."
+  },
+  {
+   "id": "vex.num.eighty",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Eighty."
+  },
+  {
+   "id": "vex.num.ninety",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Ninety."
+  },
+  {
+   "id": "vex.num.hundred",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "hundred"
+  },
+  {
+   "id": "vex.num.thousand",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "Thousand."
+  },
+  {
+   "id": "vex.num.million",
+   "ok": true,
+   "seconds": 1.02,
+   "heard": "million."
+  },
+  {
+   "id": "vex.num.percent",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "percent."
+  },
+  {
+   "id": "dot.num.zero",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Zero."
+  },
+  {
+   "id": "dot.num.one",
+   "ok": true,
+   "seconds": 0.6,
+   "heard": "Hello.",
+   "note": "blind transcription: substituted: one→hello; guided check says it matches"
+  },
+  {
+   "id": "dot.num.two",
+   "ok": true,
+   "seconds": 0.71,
+   "heard": "Two."
+  },
+  {
+   "id": "dot.num.three",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "Three."
+  },
+  {
+   "id": "dot.num.four",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "Four."
+  },
+  {
+   "id": "dot.num.five",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Five."
+  },
+  {
+   "id": "dot.num.six",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Six."
+  },
+  {
+   "id": "dot.num.seven",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Seven."
+  },
+  {
+   "id": "dot.num.eight",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "Eight"
+  },
+  {
+   "id": "dot.num.nine",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Nine."
+  },
+  {
+   "id": "dot.num.ten",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Ten."
+  },
+  {
+   "id": "dot.num.eleven",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "Eleven."
+  },
+  {
+   "id": "dot.num.twelve",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Twelve."
+  },
+  {
+   "id": "dot.num.thirteen",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Thirteen."
+  },
+  {
+   "id": "dot.num.fourteen",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Fourteen."
+  },
+  {
+   "id": "dot.num.fifteen",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Fifteen."
+  },
+  {
+   "id": "dot.num.sixteen",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Sixteen."
+  },
+  {
+   "id": "dot.num.seventeen",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Seventeen."
+  },
+  {
+   "id": "dot.num.eighteen",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "Eighteen."
+  },
+  {
+   "id": "dot.num.nineteen",
+   "ok": true,
+   "seconds": 0.97,
+   "heard": "Nineteen."
+  },
+  {
+   "id": "dot.num.twenty",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "Twenty."
+  },
+  {
+   "id": "dot.num.thirty",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Thirty"
+  },
+  {
+   "id": "dot.num.forty",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Forty."
+  },
+  {
+   "id": "dot.num.fifty",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Fifty"
+  },
+  {
+   "id": "dot.num.sixty",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Sixty."
+  },
+  {
+   "id": "dot.num.seventy",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Seventy."
+  },
+  {
+   "id": "dot.num.eighty",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "Eighty."
+  },
+  {
+   "id": "dot.num.ninety",
+   "ok": true,
+   "seconds": 0.73,
+   "heard": "Ninety."
+  },
+  {
+   "id": "dot.num.hundred",
+   "ok": true,
+   "seconds": 0.78,
+   "heard": "hundred"
+  },
+  {
+   "id": "dot.num.thousand",
+   "ok": true,
+   "seconds": 0.91,
+   "heard": "thousand."
+  },
+  {
+   "id": "dot.num.million",
+   "ok": true,
+   "seconds": 0.84,
+   "heard": "million."
+  },
+  {
+   "id": "dot.num.percent",
+   "ok": true,
+   "seconds": 0.89,
+   "heard": "Percent"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Poker.UX",
+    "rootNamespace": "Poker.UX",
+    "references": [
+        "Poker.Game",
+        "Poker.Voice",
+        "Poker.Runtime",
+        "Poker.Gestures",
+        "Poker.Characters",
+        "Oculus.VR",
+        "Oculus.Interaction",
+        "Oculus.Interaction.OVR"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

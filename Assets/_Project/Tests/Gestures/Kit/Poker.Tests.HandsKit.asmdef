@@ -1,0 +1,14 @@
+{
+    "name": "Poker.Tests.HandsKit",
+    "rootNamespace": "Poker.Tests",
+    "references": ["Poker.Gestures"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

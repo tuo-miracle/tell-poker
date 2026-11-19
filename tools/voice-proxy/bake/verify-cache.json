@@ -1,0 +1,6533 @@
+{
+ "gemini-3.8-flash:494537834fffb3a716d3": {
+  "transcripts": [
+   "Oh, um I'll put some in."
+  ]
+ },
+ "gemini-3.8-flash:9a79a553786c880d6e7a": {
+  "transcripts": [
+   "Is this good? I think this is good."
+  ]
+ },
+ "gemini-3.8-flash:95fc775bc74230238fec": {
+  "transcripts": [
+   "Totally normal bed. Nothing to see",
+   "Totally normal bed. Nothing to see"
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker said 'bed' instead of 'bet'."
+  }
+ },
+ "gemini-3.8-flash:6790dd01a9ef144030a8": {
+  "transcripts": [
+   "Why is it so warm in here?"
+  ]
+ },
+ "gemini-3.8-flash:cdf0998bacf2300db505": {
+  "transcripts": [
+   "Hm hm hm hm."
+  ]
+ },
+ "gemini-3.8-flash:38f9cfcf4ce4419ff0e7": {
+  "transcripts": [
+   "Wait, what beats what again?"
+  ]
+ },
+ "gemini-3.8-flash:77d86d06aa618eb56958": {
+  "transcripts": [
+   "Nope, not today."
+  ]
+ },
+ "gemini-3.8-flash:b60d05932f92484ba473": {
+  "transcripts": [
+   "I'll just sit this one out."
+  ]
+ },
+ "gemini-3.8-flash:b585814e484b2d4904be": {
+  "transcripts": [
+   "Take your time, no pressure. Ha."
+  ]
+ },
+ "gemini-3.8-flash:c1fdb4a07eda2f149811": {
+  "transcripts": [
+   "Eep, you scared me."
+  ]
+ },
+ "gemini-3.8-flash:55de6197440c50ba024b": {
+  "transcripts": [
+   "Whoa, okay. Okay."
+  ]
+ },
+ "gemini-3.8-flash:46c3fc6b8683ad45699f": {
+  "transcripts": [
+   "That's a lot of chips."
+  ]
+ },
+ "gemini-3.8-flash:8f4f1c237b4edc02bc0a": {
+  "transcripts": [
+   "Why are you looking at me?"
+  ]
+ },
+ "gemini-3.8-flash:7c6c5370b91caa823752": {
+  "transcripts": [
+   "Stop it, I can feel you staring."
+  ]
+ },
+ "gemini-3.8-flash:ba99415353fd4b5bcbdd": {
+  "transcripts": [
+   "Ooh, ooh, I mean, okay."
+  ]
+ },
+ "gemini-3.8-flash:1b3358441921df480757": {
+  "transcripts": [
+   "Aw, come on, cards."
+  ]
+ },
+ "gemini-3.8-flash:0e5c8013c78604de38fd": {
+  "transcripts": [
+   "I won? I actually won?"
+  ]
+ },
+ "gemini-3.8-flash:c101b712226251954059": {
+  "transcripts": [
+   "Beginner's luck, maybe?"
+  ]
+ },
+ "gemini-3.8-flash:d7e72259b28ebb1fad35": {
+  "transcripts": [
+   "Okay, learning experience."
+  ]
+ },
+ "gemini-3.8-flash:87bd7ea962b5a068ecf4": {
+  "transcripts": [
+   "I'll get the hang of this."
+  ]
+ },
+ "gemini-3.8-flash:a89e9feed194ed0ae543": {
+  "transcripts": [
+   "Pay up, friend. Pay up."
+  ]
+ },
+ "gemini-3.8-flash:8eec20cc186422e8a343": {
+  "transcripts": [
+   "You know what time it is."
+  ]
+ },
+ "gemini-3.8-flash:74f78a8e1c06d99754c9": {
+  "transcripts": [
+   "Chips in? Feeling generous?"
+  ]
+ },
+ "gemini-3.8-flash:5c144cdc924c47e57f08": {
+  "transcripts": [
+   "Big bet, bigger heart."
+  ]
+ },
+ "gemini-3.8-flash:448b8a0c5b8af458e5fa": {
+  "transcripts": [
+   "Go ahead, call. I dare you."
+  ]
+ },
+ "gemini-3.8-flash:5e527c9e8fa0f502ab7a": {
+  "transcripts": [
+   "All right, let's see where this goes.",
+   "All right, let's see where this goes."
+  ]
+ },
+ "gemini-3.8-flash:54b69e126b7b15aef731": {
+  "transcripts": [
+   "Fine, your pot. Enjoy it."
+  ]
+ },
+ "gemini-3.8-flash:8f84a4b3605a17b56f91": {
+  "transcripts": [
+   "I'm saving my ammo."
+  ]
+ },
+ "gemini-3.8-flash:d4ff1fc739d0d1f26ffe": {
+  "transcripts": [
+   "Thinking hard, huh? That's a tell."
+  ]
+ },
+ "gemini-3.8-flash:35b01002ec7535c0bebe": {
+  "transcripts": [
+   "Clock's ticking, champ."
+  ]
+ },
+ "gemini-3.8-flash:8e33bc5e258d582ae4f0": {
+  "transcripts": [
+   "long think somebody scared",
+   "Long think. Somebody scared."
+  ]
+ },
+ "gemini-3.8-flash:19bce3b9580b98ae891a": {
+  "transcripts": [
+   "Hey, easy on the felt."
+  ]
+ },
+ "gemini-3.8-flash:3522e9ec1f8ccfe3d379": {
+  "transcripts": [
+   "Well, you break it, you buy it.",
+   "Whoa! You break it, you buy it."
+  ]
+ },
+ "gemini-3.8-flash:f9c56adb0c34833315b7": {
+  "transcripts": [
+   "Oh, so we're doing this now?"
+  ]
+ },
+ "gemini-3.8-flash:76019249e9f996e78e50": {
+  "transcripts": [
+   "Cute, Bert. Real cute.",
+   "Cute, Pat. Real cute."
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says \"Beth\" instead of \"bet\"."
+  }
+ },
+ "gemini-3.8-flash:dc12dc3055b847fdb7fe": {
+  "transcripts": [
+   "Like what you see?"
+  ]
+ },
+ "gemini-3.8-flash:eaa4cd53b691d35eb5f4": {
+  "transcripts": [
+   "Staring won't save you."
+  ]
+ },
+ "gemini-3.8-flash:ece9f0a13ef2d253bf02": {
+  "transcripts": [
+   "Now, that's my kind of card."
+  ]
+ },
+ "gemini-3.8-flash:20dfeb0264c07e4501df": {
+  "transcripts": [
+   "Who ordered that card?"
+  ]
+ },
+ "gemini-3.8-flash:3a712524c3ca086088ae": {
+  "transcripts": [
+   "Rocco eats again."
+  ]
+ },
+ "gemini-3.8-flash:a265d48a65cf5e07d343": {
+  "transcripts": [
+   "Told you. I always tell you."
+  ]
+ },
+ "gemini-3.8-flash:249495ea9ae90107b3e9": {
+  "transcripts": [
+   "Lucky, pure dumb luck."
+  ]
+ },
+ "gemini-3.8-flash:625f8d4d802aabb1b6ca": {
+  "transcripts": [
+   "Enjoy it. It won't last."
+  ]
+ },
+ "gemini-3.8-flash:87bb56caf7e5ce4d1199": {
+  "transcripts": [
+   "That.",
+   "Bat."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:3bab8ec4677498a5e9d7": {
+  "transcripts": [
+   "Your move."
+  ]
+ },
+ "gemini-3.8-flash:bd5369ed622afe3efa8d": {
+  "transcripts": [
+   "Let's make it interesting."
+  ]
+ },
+ "gemini-3.8-flash:a4e846525abf15391ce5": {
+  "transcripts": [
+   "I've decided"
+  ]
+ },
+ "gemini-3.8-flash:22f1ae9a819bf7dc77ad": {
+  "transcripts": [
+   "Interesting."
+  ]
+ },
+ "gemini-3.8-flash:eb28810263373a8c7096": {
+  "transcripts": [
+   "Not worth it."
+  ]
+ },
+ "gemini-3.8-flash:facc1d4a0077c17e0cb5": {
+  "transcripts": [
+   "Pass."
+  ]
+ },
+ "gemini-3.8-flash:e1f112f203755a030b86": {
+  "transcripts": [
+   "Take all the time you need."
+  ]
+ },
+ "gemini-3.8-flash:db8b22f6b7938c97bb06": {
+  "transcripts": [
+   "Doubt is expensive."
+  ]
+ },
+ "gemini-3.8-flash:c637a572d63dfd86fccc": {
+  "transcripts": [
+   "Careful."
+  ]
+ },
+ "gemini-3.8-flash:6fb9cf9c99f39db614a3": {
+  "transcripts": [
+   "Noted."
+  ]
+ },
+ "gemini-3.8-flash:6a2c75f27427296a4fce": {
+  "transcripts": [
+   "Is that supposed to scare me?"
+  ]
+ },
+ "gemini-3.8-flash:ae4fa8817eec7917bcf6": {
+  "transcripts": [
+   "Find anything?"
+  ]
+ },
+ "gemini-3.8-flash:04c3ee4396d1ea28f4e1": {
+  "transcripts": [
+   "Keep looking"
+  ]
+ },
+ "gemini-3.8-flash:01454540e4bdfbb01a24": {
+  "transcripts": [
+   "Good."
+  ]
+ },
+ "gemini-3.8-flash:27153ab16f4fa9b5db78": {
+  "transcripts": [
+   "Hmm."
+  ]
+ },
+ "gemini-3.8-flash:423797788e3181d8ccb6": {
+  "transcripts": [
+   "As expected,"
+  ]
+ },
+ "gemini-3.8-flash:fb52017eebd8d596e343": {
+  "transcripts": [
+   "This time"
+  ]
+ },
+ "gemini-3.8-flash:9aa1a30e417a7a1f2260": {
+  "transcripts": [
+   "Welcome to the table."
+  ]
+ },
+ "gemini-3.8-flash:05cad82c024f3856a75d": {
+  "transcripts": [
+   "Fresh deck, good luck everyone."
+  ]
+ },
+ "gemini-3.8-flash:c9176c19bfad3b410945": {
+  "transcripts": [
+   "Action is on you."
+  ]
+ },
+ "gemini-3.8-flash:39c530812652739d7ae6": {
+  "transcripts": [
+   "Your call, friend."
+  ]
+ },
+ "gemini-3.8-flash:9c8c8d09c83b1e9989a1": {
+  "transcripts": [
+   "Whenever you're ready."
+  ]
+ },
+ "gemini-3.8-flash:0accbf9e341b1e62153a": {
+  "transcripts": [
+   "Here comes the flop."
+  ]
+ },
+ "gemini-3.8-flash:5ac38521cd1689c8ef64": {
+  "transcripts": [
+   "three on the board."
+  ]
+ },
+ "gemini-3.8-flash:5ab4690e600d69a66a21": {
+  "transcripts": [
+   "The turn."
+  ]
+ },
+ "gemini-3.8-flash:49580df258bd33bd22cb": {
+  "transcripts": [
+   "Fourth card coming up."
+  ]
+ },
+ "gemini-3.8-flash:5ad9a69af28f0ff6a74b": {
+  "transcripts": [
+   "and the river"
+  ]
+ },
+ "gemini-3.8-flash:f4b9b52066db5e7a2759": {
+  "transcripts": [
+   "Last car.",
+   "Last card."
+  ]
+ },
+ "gemini-3.8-flash:93b259b598867b2a5fe9": {
+  "transcripts": [
+   "Cards up, please."
+  ]
+ },
+ "gemini-3.8-flash:6e14388e89058bf01499": {
+  "transcripts": [
+   "Let's see them."
+  ]
+ },
+ "gemini-3.8-flash:1644ad87398a1303dc7f": {
+  "transcripts": [
+   "part goes to the winner",
+   "part goes to the winner."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:5ab7b103bc92ea78f13f": {
+  "transcripts": [
+   "Chips coming your way."
+  ]
+ },
+ "gemini-3.8-flash:b5c4d558932ba044b26e": {
+  "transcripts": [
+   "We have an all-in"
+  ]
+ },
+ "gemini-3.8-flash:0faac073f5f1e680b184": {
+  "transcripts": [
+   "Check"
+  ]
+ },
+ "gemini-3.8-flash:cf3f024131c1e9952eb6": {
+  "transcripts": [
+   "Hi, I'm Dot. Let's play one together."
+  ]
+ },
+ "gemini-3.8-flash:7854684669d3cd564897": {
+  "transcripts": [
+   "Welcome back, let me show you the new gestures."
+  ]
+ },
+ "gemini-3.8-flash:ab04b2c66879a7658c4c": {
+  "transcripts": [
+   "Welcome back. Ready for a full game?"
+  ]
+ },
+ "gemini-3.8-flash:6e0235a56aad342f27ce": {
+  "transcripts": [
+   "Tutorial next hand."
+  ]
+ },
+ "gemini-3.8-flash:a972e8e74d010fc8b74f": {
+  "transcripts": [
+   "Just a few chips for now."
+  ]
+ },
+ "gemini-3.8-flash:7a29579764fca4f04b71": {
+  "transcripts": [
+   "Let's peek at your cards. Cup your hand over them and lift your wrist."
+  ]
+ },
+ "gemini-3.8-flash:ebae4031b6d9a3be1c04": {
+  "transcripts": [
+   "You can also pick them up to look closer."
+  ]
+ },
+ "gemini-3.8-flash:1ecf0a42d72228ffbd85": {
+  "transcripts": [
+   "Next bet twenty, pinch your chips, lift higher to grab more dot, and toss them into call.",
+   "Zach's bet twenty. Pinch your chips, lift higher to grab more [mumble] and toss them in to call."
+  ]
+ },
+ "gemini-3.8-flash:9120b6b91dcd19bf93bb": {
+  "transcripts": [
+   "Nobody bet, knocked twice to check.",
+   "Nobody bet, knock twice to check."
+  ]
+ },
+ "gemini-3.8-flash:276843b365441e4bb05b": {
+  "transcripts": [
+   "Try reading Rocco. Look at him for a second."
+  ]
+ },
+ "gemini-3.8-flash:4312c5212c0d9cab7eaf": {
+  "transcripts": [
+   "Make him pay. Toss in more than his bet to raise."
+  ]
+ },
+ "gemini-3.8-flash:9bc5bc1c64111eca1d24": {
+  "transcripts": [
+   "Vex never bluffs this big. Toss your cards toward the middle to fold."
+  ]
+ },
+ "gemini-3.8-flash:462b32f82f23fdcf22f1": {
+  "transcripts": [
+   "Best hand at the table, push all your chips with both hands."
+  ]
+ },
+ "gemini-3.8-flash:18102e886c3dbae0e4dd": {
+  "transcripts": [
+   "Flip your cards over to show them."
+  ]
+ },
+ "gemini-3.8-flash:b59816570947c537db74": {
+  "transcripts": [
+   "Ask me anything about the table. Try, how much is in the pot?"
+  ]
+ },
+ "gemini-3.8-flash:169bc5a335bf171318f8": {
+  "transcripts": [
+   "Nice"
+  ]
+ },
+ "gemini-3.8-flash:f2535bd74415d98fe055": {
+  "transcripts": [
+   "Perfect."
+  ]
+ },
+ "gemini-3.8-flash:37f2cf664a5a243b4364": {
+  "transcripts": [
+   "Great job!"
+  ]
+ },
+ "gemini-3.8-flash:b5bae9f11de3ce84ca98": {
+  "transcripts": [
+   "You got it."
+  ]
+ },
+ "gemini-3.8-flash:ce3965b1cddb2038ea3a": {
+  "transcripts": [
+   "Well done."
+  ]
+ },
+ "gemini-3.8-flash:8dbbedd30295fae6e187": {
+  "transcripts": [
+   "See that? He's bluffing."
+  ]
+ },
+ "gemini-3.8-flash:1b7ac11e76c44cba1c02": {
+  "transcripts": [
+   "You're ready? Good luck."
+  ]
+ },
+ "gemini-3.8-flash:33b61a3e3b4f7e8c5f25": {
+  "transcripts": [
+   "Toss in exactly twenty to call."
+  ]
+ },
+ "gemini-3.8-flash:8edbcea8401678133e78": {
+  "transcripts": [
+   "That's a call. Toss in more to raise."
+  ]
+ },
+ "gemini-3.8-flash:4ac9f1b7ff2d75b38bc3": {
+  "transcripts": [
+   "Okay, let's play. Let's play.",
+   "Okay, let's play. Let's play."
+  ]
+ },
+ "gemini-3.8-flash:bd786646653ce5d94535": {
+  "transcripts": [
+   "Lift your wrist a little higher."
+  ]
+ },
+ "gemini-3.8-flash:0e797805fc9f500c4b7f": {
+  "transcripts": [
+   "Rest your fingertips on the cards, then lift your wrist"
+  ]
+ },
+ "gemini-3.8-flash:b3b48f2b2d5c772e4cab": {
+  "transcripts": [
+   "Turn your palm down over your card.",
+   "Turn your palm down over your card."
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The word \"cards\" was spoken as \"card\"."
+  }
+ },
+ "gemini-3.8-flash:ac86bc1d43c28dbee21e": {
+  "transcripts": [
+   "Move your hand right over your cards."
+  ]
+ },
+ "gemini-3.8-flash:61897bf8e9df23ef525e": {
+  "transcripts": [
+   "Pinch both cards and lift them up."
+  ]
+ },
+ "gemini-3.8-flash:ee1beeffc531bdeef384": {
+  "transcripts": [
+   "Pinch right on the chips."
+  ]
+ },
+ "gemini-3.8-flash:c9856506751285da0ca1": {
+  "transcripts": [
+   "Toss them onto the glowing zone."
+  ]
+ },
+ "gemini-3.8-flash:82b7a46fd5d51f4bf725": {
+  "transcripts": [
+   "Lift higher to grab more chips."
+  ]
+ },
+ "gemini-3.8-flash:eee0e851a6d45eb32a61": {
+  "transcripts": [
+   "Two quick taps on the table."
+  ]
+ },
+ "gemini-3.8-flash:b6245b0f50240e726c6a": {
+  "transcripts": [
+   "Rocco is across from you. Keep looking at him."
+  ]
+ },
+ "gemini-3.8-flash:f4080d9215803a61ebd6": {
+  "transcripts": [
+   "Toss your cards toward the middle."
+  ]
+ },
+ "gemini-3.8-flash:c97b6b2949ea3c808c6a": {
+  "transcripts": [
+   "Both hands together, push forward."
+  ]
+ },
+ "gemini-3.8-flash:8b7b9627d4a490a1177c": {
+  "transcripts": [
+   "Push and hold, don't pull back."
+  ]
+ },
+ "gemini-3.8-flash:7127c8a5cd2c313f62c6": {
+  "transcripts": [
+   "Turn your cards face up."
+  ]
+ },
+ "gemini-3.8-flash:7b98a262d9b2f019a9e1": {
+  "transcripts": [
+   "Look at me, then ask out loud."
+  ]
+ },
+ "gemini-3.8-flash:b3adaca820202874392c": {
+  "transcripts": [
+   "Can't check here, ought to or need to, call or fold.",
+   "Can't check here either, uh, need to call or fold."
+  ]
+ },
+ "gemini-3.8-flash:401fbbb2200df8e741b7": {
+  "transcripts": [
+   "That that doesn't work.",
+   "That bet doesn't work."
+  ]
+ },
+ "gemini-3.8-flash:b673099496e6ec56c606": {
+  "transcripts": [
+   "Not your turn yet."
+  ]
+ },
+ "gemini-3.8-flash:51901820bf4998b6198e": {
+  "transcripts": [
+   "Part goes to you.",
+   "How goes you?"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:f31875c82b2ea6acc504": {
+  "transcripts": [
+   "Side patio. Q.",
+   "said partier Hugh"
+  ],
+  "judge": {
+   "match": false,
+   "differences": "extra word at the end"
+  }
+ },
+ "gemini-3.8-flash:ee489c402ab7a5c8a64b": {
+  "transcripts": [
+   "Puck goes to Pip.",
+   "Puck goes deep."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:3af49d6615a64e576cc9": {
+  "transcripts": [
+   "Side pot to Pip."
+  ]
+ },
+ "gemini-3.8-flash:e33515095d796321e127": {
+  "transcripts": [
+   "Pug goes to Rocco.",
+   "Pug goes to Rocco."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:41cd0430eb65812af08f": {
+  "transcripts": [
+   "Side part to rock, oh.",
+   "Side part to Rocco."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:98a59f64b74610054790": {
+  "transcripts": [
+   "That goes to that's",
+   "Part goes to this"
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says 'Pod' instead of 'Pot'."
+  }
+ },
+ "gemini-3.8-flash:6951d82e8902d125d5fc": {
+  "transcripts": [
+   "Cyber attacks",
+   "Cybot T-Rex"
+  ]
+ },
+ "gemini-3.8-flash:f98616b33c4aa9b09946": {
+  "transcripts": [
+   "Split pot."
+  ]
+ },
+ "gemini-3.8-flash:2e3e3b5f0d5ef0817891": {
+  "transcripts": [
+   "Sidepod is split, yeah, uh, split.",
+   "Side pot is split. Gee, uh, and a split."
+  ]
+ },
+ "gemini-3.8-flash:586d2130c71a1db33fb5": {
+  "transcripts": [
+   "You took the table."
+  ]
+ },
+ "gemini-3.8-flash:4995c3f45abde6eab743": {
+  "transcripts": [
+   "Out of chips, knock for a rematch, [mumble], knock for a rematch.",
+   "Out of chips, not for a rematch, [mumble] not for a rematch."
+  ]
+ },
+ "gemini-3.8-flash:53fb1b14f73e27f343cf": {
+  "transcripts": [
+   "That's the game. Knock to go again."
+  ]
+ },
+ "gemini-3.8-flash:f5c00d625aa910f095e2": {
+  "transcripts": [
+   "New game, chips sys- New game, chips reset.",
+   "New game, chips sys-, new game, chips reset."
+  ]
+ },
+ "gemini-3.8-flash:714afcbc6a7cf74d3c86": {
+  "transcripts": [
+   "Duly noted.",
+   "Full noted."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:ded9ff922427ba02516d": {
+  "transcripts": [
+   "Wait for your turn."
+  ]
+ },
+ "gemini-3.8-flash:e09254cb87dd75c83e18": {
+  "transcripts": [
+   "Welcome back."
+  ]
+ },
+ "gemini-3.8-flash:00080443bb649d9dd930": {
+  "transcripts": [
+   "wins in"
+  ]
+ },
+ "gemini-3.8-flash:bed18a06d764a8507f2f": {
+  "transcripts": [
+   "went in",
+   "Win in"
+  ]
+ },
+ "gemini-3.8-flash:57d8f69f04216017783b": {
+  "transcripts": [
+   "tells Reed",
+   "tells Reed"
+  ]
+ },
+ "gemini-3.8-flash:96cf65a8d134b1501f27": {
+  "transcripts": [
+   "So far,"
+  ]
+ },
+ "gemini-3.8-flash:ae949dc2d96dbed176e2": {
+  "transcripts": [
+   "You looked at your cards twice, not loving that hand, huh?"
+  ]
+ },
+ "gemini-3.8-flash:ec64039b82a41429b9da": {
+  "transcripts": [
+   "You looked at your cards three times, not loving that hand, huh?"
+  ]
+ },
+ "gemini-3.8-flash:16be81808bc25f9d982e": {
+  "transcripts": [
+   "You looked at your cards four times. Not loving that hand, huh?"
+  ]
+ },
+ "gemini-3.8-flash:99ebbf9e56d6af1e326a": {
+  "transcripts": [
+   "You keep looking at your cards. Not loving that hand, huh?"
+  ]
+ },
+ "gemini-3.8-flash:693490f00aac17b196cf": {
+  "transcripts": [
+   "Took you a while to reach for those chips. Weak."
+  ]
+ },
+ "gemini-3.8-flash:b1e079ce37158690dc46": {
+  "transcripts": [
+   "Took you a while to make a move. Weak."
+  ]
+ },
+ "gemini-3.8-flash:89dacbcff4488850d4b6": {
+  "transcripts": [
+   "Fiddling with your chips? Nervous?"
+  ]
+ },
+ "gemini-3.8-flash:44a6ce91e26826dd5dc8": {
+  "transcripts": [
+   "Quick decision, confident, huh?"
+  ]
+ },
+ "gemini-3.8-flash:8dcf43c521589ef82671": {
+  "transcripts": [
+   "Took your time. You're bluffing. I call."
+  ]
+ },
+ "gemini-3.8-flash:e0bfcad93413331916c5": {
+  "transcripts": [
+   "Quick bet, you've got it. I'm out."
+  ]
+ },
+ "gemini-3.8-flash:a1b8b44aba803f553388": {
+  "transcripts": [
+   "You played me"
+  ]
+ },
+ "gemini-3.8-flash:ec22f8cd035ab2459853": {
+  "transcripts": [
+   "Not this time."
+  ]
+ },
+ "gemini-3.8-flash:9aefc3dba3b2304d5880": {
+  "transcripts": [
+   "Full rock on next hand.",
+   "Fold, Rocco, next hand."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:8242e1bd8ba36b12c79d": {
+  "transcripts": [
+   "Rocco reads your hands, just play this one."
+  ]
+ },
+ "gemini-3.8-flash:b840f596b21c7766a7ab": {
+  "transcripts": [
+   "Rocco thinks a slow reach means a weak hand. Try it. Wait a few seconds before you bet."
+  ]
+ },
+ "gemini-3.8-flash:d33b6decd5afb785cecf": {
+  "transcripts": [
+   "You fooled him."
+  ]
+ },
+ "gemini-3.8-flash:b9527b8f8a2a9b584cda": {
+  "transcripts": [
+   "Try waiting next time?"
+  ]
+ },
+ "gemini-3.8-flash:8e21db8ab11a2494be16": {
+  "transcripts": [
+   "He learns, mix it up."
+  ]
+ },
+ "gemini-3.8-flash:96a55cbd622151a14317": {
+  "transcripts": [
+   "Hm?"
+  ]
+ },
+ "gemini-3.8-flash:470afaacdc777e16dd5e": {
+  "transcripts": [
+   "I'm sorry, I didn't catch that.",
+   "I'm sorry, I didn't catch that."
+  ]
+ },
+ "gemini-3.8-flash:50997d3fb241913b04fe": {
+  "transcripts": [
+   "Oh gosh, could you say that again?"
+  ]
+ },
+ "gemini-3.8-flash:c9967ed8ceeadd7e08fd": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:01e9bd0111332b6031a3": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:cff6a3cdde78b812c46a": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:e7de3cb19ec93103c091": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:808c9c0eb01b855b22a1": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:8ee8b3a4ffac611a7558": {
+  "transcripts": [
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:89a9164de4b0aaac5893": {
+  "transcripts": [
+   "It's Vex's turn."
+  ]
+ },
+ "gemini-3.8-flash:414d2c6d8ddd0a8111ab": {
+  "transcripts": [
+   "Vex has"
+  ]
+ },
+ "gemini-3.8-flash:1552322c135bb15f1a7f": {
+  "transcripts": [
+   "The pot is"
+  ]
+ },
+ "gemini-3.8-flash:5ea8e9e52debb9740daf": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:ea954abadb5a42650d85": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:432abfe7cda0169b731f": {
+  "transcripts": [
+   "Blinds are"
+  ]
+ },
+ "gemini-3.8-flash:54839a8a0351b0b6d120": {
+  "transcripts": [
+   "and"
+  ]
+ },
+ "gemini-3.8-flash:9ad292a7ed9e0b5ed0c5": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:83139884d7f830097212": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:27b1285b15baeb67c280": {
+  "transcripts": [
+   "Yeah."
+  ]
+ },
+ "gemini-3.8-flash:c4b2be39cae4ae34a056": {
+  "transcripts": [
+   "Speak up, kid."
+  ]
+ },
+ "gemini-3.8-flash:aeb4b13f8551a8664ef2": {
+  "transcripts": [
+   "What? Mumbling won't win you chips."
+  ]
+ },
+ "gemini-3.8-flash:046eab80fe967ff69fbb": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:4318836378ca14d899d0": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:5590ce234aa19d3a4e7c": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:ac3d820a23e68ade31eb": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:53b6cc96ef7a8ce9213e": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:c07766eb1139e5bd0a4c": {
+  "transcripts": [
+   "It has",
+   "pip has"
+  ]
+ },
+ "gemini-3.8-flash:d61d08f26ee82b059635": {
+  "transcripts": [
+   "It's Vex's turn."
+  ]
+ },
+ "gemini-3.8-flash:3d3e98ace7dfd0d3a7d6": {
+  "transcripts": [
+   "that has",
+   "Vax has"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:c0dae0131bcfc2549306": {
+  "transcripts": [
+   "The parties",
+   "the parties"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:3fca39447da87c747ba9": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:54a897f57eadb1c53237": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:cbcd700925c092d02b45": {
+  "transcripts": [
+   "blinds are"
+  ]
+ },
+ "gemini-3.8-flash:d1a7f50963c249f92083": {
+  "transcripts": [
+   "and"
+  ]
+ },
+ "gemini-3.8-flash:5cd77a31d96930366b2e": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:737decd5c079a194834a": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:baf495e49cf8597ce36c": {
+  "transcripts": [
+   "Say again."
+  ]
+ },
+ "gemini-3.8-flash:fdc744d031fc31476e13": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:f837ec9d9b0f69867bbe": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:ec32cdba71f3bbdccfb9": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:b30197c71271f5b2d991": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:add5aedfd00fe16931fc": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:b84ea5462c9c82fa8976": {
+  "transcripts": [
+   "Pip has"
+  ]
+ },
+ "gemini-3.8-flash:2255ad5650d213bc8bf7": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:045c3a896b4e47996ab4": {
+  "transcripts": [
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:174774ff477488403ecf": {
+  "transcripts": [
+   "The pot is"
+  ]
+ },
+ "gemini-3.8-flash:037c0f362d9ef8a8d664": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:90b83e02a8bcb514024e": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:b3eeeffa2220dec6b0ea": {
+  "transcripts": [
+   "Blinds are"
+  ]
+ },
+ "gemini-3.8-flash:5caa1014a60d58994d2d": {
+  "transcripts": [
+   "And"
+  ]
+ },
+ "gemini-3.8-flash:e17019c100a068b8faca": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:6f88ca65e3c28aa06fd8": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:82f643eb3d6cfc87ecab": {
+  "transcripts": [
+   "Yes?"
+  ]
+ },
+ "gemini-3.8-flash:90c7ed46f7f8d9c9de2c": {
+  "transcripts": [
+   "Sorry, I didn't catch that."
+  ]
+ },
+ "gemini-3.8-flash:65b18a08eaead8b32598": {
+  "transcripts": [
+   "Could you repeat that, please?"
+  ]
+ },
+ "gemini-3.8-flash:16adc1ad294a2f081f60": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:611c603f960c7ecc38ba": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:7a466cccb7230ec1dd83": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:7f14c72d2aaa18053fd8": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:db57c1abc75076a97aaf": {
+  "transcripts": [
+   "Peppa's",
+   "Pip has"
+  ]
+ },
+ "gemini-3.8-flash:19d82562649d58c98706": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:926cd09838d182b9ff11": {
+  "transcripts": [
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:29f9d42d606f25286d69": {
+  "transcripts": [
+   "It's Vex's turn."
+  ]
+ },
+ "gemini-3.8-flash:5769e5eb567951af5c5d": {
+  "transcripts": [
+   "Vex has"
+  ]
+ },
+ "gemini-3.8-flash:f991710b4659c7e56e6b": {
+  "transcripts": [
+   "The pot is"
+  ]
+ },
+ "gemini-3.8-flash:637c739da1944e7b6181": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:060885f5880809939d4b": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:9a324a3a4d1809636f20": {
+  "transcripts": [
+   "Blinds are"
+  ]
+ },
+ "gemini-3.8-flash:29e54bd2078d96feb1b2": {
+  "transcripts": [
+   "and uh",
+   "And uh,"
+  ]
+ },
+ "gemini-3.8-flash:0c021d4f4491566cf061": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:8d19ff7fb455d58734a5": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:e0bdac308aa6a085092e": {
+  "transcripts": [
+   "one thirty-five",
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:ab2ba78ab21ed0b114ab": {
+  "transcripts": [
+   "He would",
+   "To"
+  ]
+ },
+ "gemini-3.8-flash:e59becd34bf8e10276e1": {
+  "transcripts": [
+   "Three"
+  ]
+ },
+ "gemini-3.8-flash:6d89bee599fb3928c937": {
+  "transcripts": [
+   "Four."
+  ]
+ },
+ "gemini-3.8-flash:6c0b638d9be80da27ff4": {
+  "transcripts": [
+   "five."
+  ]
+ },
+ "gemini-3.8-flash:af877ff2094362f5043f": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:4e143679b00118ac5d45": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:b3a84a933e90d87052e9": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:d51f41e96749b2772334": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:db983665a8f44bc6f2f1": {
+  "transcripts": [
+   "Ten."
+  ]
+ },
+ "gemini-3.8-flash:38141129421abf68f425": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:6f116dc7b1c7f4c9ed38": {
+  "transcripts": [
+   "One.",
+   "Twelve."
+  ]
+ },
+ "gemini-3.8-flash:5f677a3e8f9b9c426dd2": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:35c6c4cda229e80ed1d9": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:cc7af9ab3306f5bcf8f6": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:90ba1b0d88dedede3fcd": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:8fc5a62af99e72727fd3": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:52911441fddcfe2eb9ae": {
+  "transcripts": [
+   "Eighteen"
+  ]
+ },
+ "gemini-3.8-flash:643aa871315de4cbbb3e": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:05fcb159f5e736275dc2": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:f5468e7fc3204990993e": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:8697e976b4520c201fed": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:0411f42876de85441b5a": {
+  "transcripts": [
+   "fifty."
+  ]
+ },
+ "gemini-3.8-flash:df647ccfdb3f68140cc0": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:16f70bc5b5a09c8635fd": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:95063885b54cef1f8d17": {
+  "transcripts": [
+   "Eighty."
+  ]
+ },
+ "gemini-3.8-flash:eddf63fff79b33ca1b04": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:7d8eeaf2592df497d3df": {
+  "transcripts": [
+   "hundred."
+  ]
+ },
+ "gemini-3.8-flash:347bf27b428c81c7c5ce": {
+  "transcripts": [
+   "thousand"
+  ]
+ },
+ "gemini-3.8-flash:1b25e8af063db3561c45": {
+  "transcripts": [
+   "million"
+  ]
+ },
+ "gemini-3.8-flash:53d481183e87a361b2b9": {
+  "transcripts": [
+   "Percent."
+  ]
+ },
+ "gemini-3.8-flash:30ec872495b50d4bef43": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:eb2fa7cc60bf56763635": {
+  "transcripts": [
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:25dafdf7ff6870d317dd": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:72113b400c88adcd2575": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:6ae495f6a6c555b160a8": {
+  "transcripts": [
+   "Four."
+  ]
+ },
+ "gemini-3.8-flash:23c939189203f81dffd3": {
+  "transcripts": [
+   "five"
+  ]
+ },
+ "gemini-3.8-flash:cca98112525b8dbcac52": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:107ccb63f26ff30bd16f": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:5f422e3a631dfd924e77": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:5213a597cc4f1598547e": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:c6e178f264f1f72a46a9": {
+  "transcripts": [
+   "ten"
+  ]
+ },
+ "gemini-3.8-flash:7b990165ccd9b0720181": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:18daa9993b4f3ba01e73": {
+  "transcripts": [
+   "twelve"
+  ]
+ },
+ "gemini-3.8-flash:225b5ad0556eda47e955": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:7c97117dfb9ef5d0458e": {
+  "transcripts": [
+   "14."
+  ]
+ },
+ "gemini-3.8-flash:e8025bdba99f668e476b": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:957e20aaf643d6677175": {
+  "transcripts": [
+   "sixteen"
+  ]
+ },
+ "gemini-3.8-flash:9cc8516e45c95321e1eb": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:d71dff5200bf1daf2427": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:d20bff482eed953a6dca": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:296951ece12dc7923c1e": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:6f59c94cc0ac92855c31": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:b3326d73cb80cc5ee16c": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:411b2a438ef4ca4abcc4": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:05a7240d63fd5ec4ea6c": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:925b1f7114f751110009": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:dee734559e07be74ef67": {
+  "transcripts": [
+   "Eighty."
+  ]
+ },
+ "gemini-3.8-flash:996e003a595a00179b39": {
+  "transcripts": [
+   "Ninety"
+  ]
+ },
+ "gemini-3.8-flash:32c40a14061afe20ddcf": {
+  "transcripts": [
+   "hundred"
+  ]
+ },
+ "gemini-3.8-flash:86553afbfa3f28b0b9a5": {
+  "transcripts": [
+   "thousand"
+  ]
+ },
+ "gemini-3.8-flash:23c00f9819860141169a": {
+  "transcripts": [
+   "million"
+  ]
+ },
+ "gemini-3.8-flash:b64a9ff000192aef5a63": {
+  "transcripts": [
+   "percent"
+  ]
+ },
+ "gemini-3.8-flash:15162949914dd6ff09cd": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:a11fb840f401c86f62a9": {
+  "transcripts": [
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:90d7e7a6409e5ceb7442": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:e2ac3ba3513bd1ddc44d": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:6dc210729e939be4212a": {
+  "transcripts": [
+   "four"
+  ]
+ },
+ "gemini-3.8-flash:6b9d31312561a4582af9": {
+  "transcripts": [
+   "Five."
+  ]
+ },
+ "gemini-3.8-flash:3bd1a0f9c77d066e2e9c": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:27cd0f0106599bb6e1f4": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:de5bda299f9973e42790": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:c3055e5cc17315120703": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:7e9649f740a1b2dbaf6a": {
+  "transcripts": [
+   "ten."
+  ]
+ },
+ "gemini-3.8-flash:4a53e268123f3d8dab1c": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:47702ed23889c098c7d8": {
+  "transcripts": [
+   "Twelve."
+  ]
+ },
+ "gemini-3.8-flash:96e459debee44a53bce8": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:c8c1ee8eb1d4abf89e5f": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:7bdcd1786314fc091bf6": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:411fe332867bf2f4ade7": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:f962c71d2cac773fd0cf": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:679963be926ad0f8651e": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:67c8308718408924917d": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:b459a7416cea47a88916": {
+  "transcripts": [
+   "twenty"
+  ]
+ },
+ "gemini-3.8-flash:c080bb06ebff92234777": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:0e3fb53331fc9ca642de": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:58ceca7f66e4966cb90a": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:4faa3c781c6348b75e2b": {
+  "transcripts": [
+   "60."
+  ]
+ },
+ "gemini-3.8-flash:8fcd1e5768b8512ff659": {
+  "transcripts": [
+   "70"
+  ]
+ },
+ "gemini-3.8-flash:42fe9659bd8f069fd333": {
+  "transcripts": [
+   "80."
+  ]
+ },
+ "gemini-3.8-flash:4ba7a5509746a8f8b77e": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:a1548057416eca25d3a2": {
+  "transcripts": [
+   "hundred"
+  ]
+ },
+ "gemini-3.8-flash:4ba382c9384e9dc63747": {
+  "transcripts": [
+   "thousand"
+  ]
+ },
+ "gemini-3.8-flash:3b54836baf2006f8cf78": {
+  "transcripts": [
+   "million."
+  ]
+ },
+ "gemini-3.8-flash:b09ed137266b0a7da0e0": {
+  "transcripts": [
+   "percent"
+  ]
+ },
+ "gemini-3.8-flash:40f72482a4327bd04595": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:de718824c8dee7956f61": {
+  "transcripts": [
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:7d5ac4ac6b7931d6cbcf": {
+  "transcripts": [
+   "Two, three.",
+   "This is a"
+  ]
+ },
+ "gemini-3.8-flash:95f8fcdbec5290ab0ec1": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:5b7808a24af353766bde": {
+  "transcripts": [
+   "Four."
+  ]
+ },
+ "gemini-3.8-flash:6e510f87eada711dfc9d": {
+  "transcripts": [
+   "Five."
+  ]
+ },
+ "gemini-3.8-flash:1421b1be3eee1fa246c1": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:bc4876d8b24a86be0e3b": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:e4d91ca345f1ccb30eed": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:922fc815a79885b2b5c2": {
+  "transcripts": [
+   "Nine"
+  ]
+ },
+ "gemini-3.8-flash:1fb3f222d269893dac09": {
+  "transcripts": [
+   "Ten."
+  ]
+ },
+ "gemini-3.8-flash:14f5294ef6c063f2567d": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:87fa193cb26452ec4898": {
+  "transcripts": [
+   "twelve"
+  ]
+ },
+ "gemini-3.8-flash:72f7694b1e8d6753ae56": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:b52bd4172bcbef4cf279": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:056581f53fe7216bf479": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:d55aa7282e55c73992ea": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:e78ce4391e2895c5519c": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:87649c7cebc96a78455c": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:4c1a8fe2bf589e8c1315": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:9a1a202352968c21e4ac": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:4ed8ea93b29fa8bf2e25": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:8a4db6c016b23dbe2215": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:a7fa52823d58dab43504": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:4409422cc38aa3bfdc1c": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:e1820d68aa5ee5c45c2c": {
+  "transcripts": [
+   "70."
+  ]
+ },
+ "gemini-3.8-flash:4d3190e622d1827e2525": {
+  "transcripts": [
+   "Eighty."
+  ]
+ },
+ "gemini-3.8-flash:69f6b0c256f71b51db40": {
+  "transcripts": [
+   "ninety."
+  ]
+ },
+ "gemini-3.8-flash:82c09f61e2ee08541af5": {
+  "transcripts": [
+   "hundred"
+  ]
+ },
+ "gemini-3.8-flash:c0c9d4c619b4d27c9449": {
+  "transcripts": [
+   "thousand ye-",
+   "thousand ye"
+  ]
+ },
+ "gemini-3.8-flash:05fefadfd565debcfa36": {
+  "transcripts": [
+   "million."
+  ]
+ },
+ "gemini-3.8-flash:e16f3104ea3951b13610": {
+  "transcripts": [
+   "percent"
+  ]
+ },
+ "gemini-3.8-flash:12ddbf481c9b7986f892": {
+  "transcripts": [
+   "Is this good? I think this is good."
+  ]
+ },
+ "gemini-3.8-flash:6a1d58d4ba7081f582d7": {
+  "transcripts": [
+   "Oh. Um, I'll put some in."
+  ]
+ },
+ "gemini-3.8-flash:deb21d372057b52f9cc3": {
+  "transcripts": [
+   "Totally normal bed. Nothing to see.",
+   "Totally normal bed. Nothing to see."
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says \"bat\" instead of \"bet\"."
+  }
+ },
+ "gemini-3.8-flash:97b67641706eeb474ac7": {
+  "transcripts": [
+   "Why is it so warm in here?"
+  ]
+ },
+ "gemini-3.8-flash:966d635fad1e1b3d30aa": {
+  "transcripts": [
+   "Hm. Hm, hm, hm."
+  ]
+ },
+ "gemini-3.8-flash:5578fd26ce1d0bc67332": {
+  "transcripts": [
+   "Wait, what beats what again?"
+  ]
+ },
+ "gemini-3.8-flash:27d914f169c8add0b1fd": {
+  "transcripts": [
+   "Nope, not today."
+  ]
+ },
+ "gemini-3.8-flash:a78c9e517875ad2df1ec": {
+  "transcripts": [
+   "I'll just sit this one out."
+  ]
+ },
+ "gemini-3.8-flash:243fcc597962e20822ef": {
+  "transcripts": [
+   "Take your time. No pressure. Huh.",
+   "Take your time. No pressure. Huh."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:3ac82aa3804a393a46e9": {
+  "transcripts": [
+   "Eep, you scared me."
+  ]
+ },
+ "gemini-3.8-flash:2483c96ef321775ee692": {
+  "transcripts": [
+   "That's a lot of chips."
+  ]
+ },
+ "gemini-3.8-flash:e5c8aea1c378b481f4d3": {
+  "transcripts": [
+   "Whoa. Okay. Okay."
+  ]
+ },
+ "gemini-3.8-flash:c42bdb32f7454edeb4a1": {
+  "transcripts": [
+   "Why are you looking at me?"
+  ]
+ },
+ "gemini-3.8-flash:b9bd04a5bfa10372f6ee": {
+  "transcripts": [
+   "Stop it, I can feel you staring."
+  ]
+ },
+ "gemini-3.8-flash:52839f28e39235ad6bcb": {
+  "transcripts": [
+   "Oh, come on, cards.",
+   "Oh, come on, cards."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:7f168ec82d74675fe839": {
+  "transcripts": [
+   "Ooh, ooh, I mean, okay."
+  ]
+ },
+ "gemini-3.8-flash:b89b2e832d89bb815c30": {
+  "transcripts": [
+   "I won? I actually won!"
+  ]
+ },
+ "gemini-3.8-flash:9730426b0bfa9013a8e4": {
+  "transcripts": [
+   "Beginner's luck, maybe?"
+  ]
+ },
+ "gemini-3.8-flash:8e3a333952d0133efb54": {
+  "transcripts": [
+   "I'll get the hang of this."
+  ]
+ },
+ "gemini-3.8-flash:d66dfdf945a03c37cf3b": {
+  "transcripts": [
+   "Okay, learning experience"
+  ]
+ },
+ "gemini-3.8-flash:4c5c361ab2eee54889f1": {
+  "transcripts": [
+   "You know what time it is."
+  ]
+ },
+ "gemini-3.8-flash:5a59c4e8c8a02624bc16": {
+  "transcripts": [
+   "Pay up, friend, pay up."
+  ]
+ },
+ "gemini-3.8-flash:9dec43099b366c696778": {
+  "transcripts": [
+   "Chips in, feeling generous?"
+  ]
+ },
+ "gemini-3.8-flash:ee286da517ed255ff88e": {
+  "transcripts": [
+   "Big bet, bigger heart."
+  ]
+ },
+ "gemini-3.8-flash:5fe8a307a99715999799": {
+  "transcripts": [
+   "Go ahead, call. I dare you."
+  ]
+ },
+ "gemini-3.8-flash:e061af333cdb7f72e462": {
+  "transcripts": [
+   "Eh, let's see where this goes."
+  ]
+ },
+ "gemini-3.8-flash:d46b025e887e7e43f18a": {
+  "transcripts": [
+   "I'm saving my ammo."
+  ]
+ },
+ "gemini-3.8-flash:fcfa483e0aa7ed6069f1": {
+  "transcripts": [
+   "Fine. Your part. Enjoy it.",
+   "Fine. Your pot, enjoy it."
+  ]
+ },
+ "gemini-3.8-flash:9c5d8ca8fc5025e6580c": {
+  "transcripts": [
+   "Clock's ticking, champ."
+  ]
+ },
+ "gemini-3.8-flash:f71a19c96d357e6d32ee": {
+  "transcripts": [
+   "Thinking hard, huh? That's a tell."
+  ]
+ },
+ "gemini-3.8-flash:a09655824f4141a62635": {
+  "transcripts": [
+   "Hey, easy on the felt."
+  ]
+ },
+ "gemini-3.8-flash:f70b7231ea2bb6e2bb33": {
+  "transcripts": [
+   "Long think, somebody scared.",
+   "Long think, somebody scared."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:bea66c4e6067da1dc4d3": {
+  "transcripts": [
+   "Whoa, you break it, you buy it."
+  ]
+ },
+ "gemini-3.8-flash:c2515ed95a6ece921205": {
+  "transcripts": [
+   "Oh, so we're doing this now?"
+  ]
+ },
+ "gemini-3.8-flash:b578003a9959ac97336e": {
+  "transcripts": [
+   "Cute bat, real cute.",
+   "Cute bat. Real cute."
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says 'bat' instead of 'bet'."
+  }
+ },
+ "gemini-3.8-flash:07dca2f4c4078d62fecb": {
+  "transcripts": [
+   "Like what you see?"
+  ]
+ },
+ "gemini-3.8-flash:193745ed451b1adc137a": {
+  "transcripts": [
+   "Staring won't save you."
+  ]
+ },
+ "gemini-3.8-flash:deeeb8b32d5481bb2dfb": {
+  "transcripts": [
+   "Now that's my kind of card."
+  ]
+ },
+ "gemini-3.8-flash:20054c75b11211ac438c": {
+  "transcripts": [
+   "Who ordered that card?"
+  ]
+ },
+ "gemini-3.8-flash:3542531c6ff803efca81": {
+  "transcripts": [
+   "Rocco eats again."
+  ]
+ },
+ "gemini-3.8-flash:a2b7cdef6f77fd642d21": {
+  "transcripts": [
+   "Bet."
+  ]
+ },
+ "gemini-3.8-flash:faa12718ec7d711fa8a0": {
+  "transcripts": [
+   "Your move."
+  ]
+ },
+ "gemini-3.8-flash:90e90d7453e4a6be40c8": {
+  "transcripts": [
+   "Pass."
+  ]
+ },
+ "gemini-3.8-flash:aa0daf9ff24556cae6b4": {
+  "transcripts": [
+   "Flip your cards over to show them."
+  ]
+ },
+ "gemini-3.8-flash:dca358a52772018dbee8": {
+  "transcripts": [
+   "Ask me anything about the table. Try, how much is in the pot?"
+  ]
+ },
+ "gemini-3.8-flash:ae433951de5f60643e93": {
+  "transcripts": [
+   "Perfect."
+  ]
+ },
+ "gemini-3.8-flash:3c575d047eb6773282da": {
+  "transcripts": [
+   "Nice."
+  ]
+ },
+ "gemini-3.8-flash:007416df3c8abb54acab": {
+  "transcripts": [
+   "Great job."
+  ]
+ },
+ "gemini-3.8-flash:4ae4ed92cb9ba46e9f1b": {
+  "transcripts": [
+   "You got it."
+  ]
+ },
+ "gemini-3.8-flash:fd40e1aa17e80a9049c1": {
+  "transcripts": [
+   "Well done."
+  ]
+ },
+ "gemini-3.8-flash:f9466c44fda51555099e": {
+  "transcripts": [
+   "See that? He's bluffing."
+  ]
+ },
+ "gemini-3.8-flash:bfd04da0e87b111bac79": {
+  "transcripts": [
+   "You're ready. Good luck."
+  ]
+ },
+ "gemini-3.8-flash:c4a70963575fcfa4b0ff": {
+  "transcripts": [
+   "Toss in exactly twenty to call."
+  ]
+ },
+ "gemini-3.8-flash:f7fe0af14584b4400945": {
+  "transcripts": [
+   "That's a call, toss in hors d'oeuvres.",
+   "That's a call, toss in more to raise."
+  ]
+ },
+ "gemini-3.8-flash:5bb7b68111ba308a6cfa": {
+  "transcripts": [
+   "Okay, let's play."
+  ]
+ },
+ "gemini-3.8-flash:9250ffd59b052c150cf3": {
+  "transcripts": [
+   "Lift your wrist a little higher."
+  ]
+ },
+ "gemini-3.8-flash:4317fea1658eb316b1ca": {
+  "transcripts": [
+   "Rest your fingertips on the cards, then lift your wrist."
+  ]
+ },
+ "gemini-3.8-flash:14d04b8a74735aca4674": {
+  "transcripts": [
+   "Turn your palm down over your cards."
+  ]
+ },
+ "gemini-3.8-flash:337fcabf240ac3c7bbb9": {
+  "transcripts": [
+   "Move your hand right over your cards."
+  ]
+ },
+ "gemini-3.8-flash:fffddf733bb1045fadb2": {
+  "transcripts": [
+   "Pinch right on the chips."
+  ]
+ },
+ "gemini-3.8-flash:5003c645b3d18f91585c": {
+  "transcripts": [
+   "Pinch both cards and lift them up."
+  ]
+ },
+ "gemini-3.8-flash:6a4d9798629183f0f9cf": {
+  "transcripts": [
+   "Toss them onto the glowing zone."
+  ]
+ },
+ "gemini-3.8-flash:348f50368a0287adba17": {
+  "transcripts": [
+   "Lift higher to grab more chips."
+  ]
+ },
+ "gemini-3.8-flash:95f4dd0495a427b27570": {
+  "transcripts": [
+   "Two quick taps on the table."
+  ]
+ },
+ "gemini-3.8-flash:250e919a028734f5d34d": {
+  "transcripts": [
+   "Rocco is across from you, keep looking at him."
+  ]
+ },
+ "gemini-3.8-flash:4453dd69f3ada06b3818": {
+  "transcripts": [
+   "Toss your cards toward the middle."
+  ]
+ },
+ "gemini-3.8-flash:71cdd802c81b4ad91ad4": {
+  "transcripts": [
+   "Both hands together, push forward."
+  ]
+ },
+ "gemini-3.8-flash:0cfb51e56db0c26f8f47": {
+  "transcripts": [
+   "Turn your cards face up."
+  ]
+ },
+ "gemini-3.8-flash:7f47b5a397d8d9250e02": {
+  "transcripts": [
+   "Push and hold, don't pull back."
+  ]
+ },
+ "gemini-3.8-flash:64284f5a295a2063eb51": {
+  "transcripts": [
+   "Look at me, then ask out loud,"
+  ]
+ },
+ "gemini-3.8-flash:b33d3f9a9f4c36972612": {
+  "transcripts": [
+   "Can check here, call or fold.",
+   "Can't check here, call or fold."
+  ]
+ },
+ "gemini-3.8-flash:cab17e0fe64a785aef62": {
+  "transcripts": [
+   "that that doesn't work.",
+   "That bed doesn't work."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:c61095d765b2a6db60a4": {
+  "transcripts": [
+   "Not your turn yet."
+  ]
+ },
+ "gemini-3.8-flash:b5580fed211565912d5f": {
+  "transcripts": [
+   "Puck goes to you.",
+   "Pack goes to you."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:7ea528633f0c85b0c781": {
+  "transcripts": [
+   "Side part to you.",
+   "Side part to you."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:5c112c4d960de83176c0": {
+  "transcripts": [
+   "Park goes to pip.",
+   "Part goes to Pip."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:c13e1a2a3a6a0b62d88f": {
+  "transcripts": [
+   "Side pot to Pip."
+  ]
+ },
+ "gemini-3.8-flash:7af32eb341af3418bd5b": {
+  "transcripts": [
+   "Poconos, Morocco.",
+   "Pack goes to Rocco."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:b3b6720cca6b2e1a5662": {
+  "transcripts": [
+   "Side part Tarraco.",
+   "Side pot to Rocco."
+  ]
+ },
+ "gemini-3.8-flash:acafa0b98de7097aae38": {
+  "transcripts": [
+   "Park goes to Vex.",
+   "Park goes to Vex"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:c5a881d8f0de37d855d0": {
+  "transcripts": [
+   "Side parts of X.",
+   "Side parts of X."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:3c78138a367f763c4892": {
+  "transcripts": [
+   "Split pot."
+  ]
+ },
+ "gemini-3.8-flash:f4ef5d62b380c7cb1102": {
+  "transcripts": [
+   "Sidepod is split.",
+   "Sidepod is split."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:7a036d3aa72891521b72": {
+  "transcripts": [
+   "Cute pet, real cute.",
+   "Cute, Bet. Real cute."
+  ]
+ },
+ "gemini-3.8-flash:4ef1e946f4b830a8adb1": {
+  "transcripts": [
+   "Totally normal bed. Nothing to see",
+   "Totally normal bed. Nothing to see"
+  ],
+  "judge": {
+   "match": false,
+   "differences": "Said 'bat' instead of 'bet'"
+  }
+ },
+ "gemini-3.8-flash:1f1e1d156752a1380613": {
+  "transcripts": [
+   "Out of chips? Knock for a rematch."
+  ]
+ },
+ "gemini-3.8-flash:3582cf6c701d98b012ee": {
+  "transcripts": [
+   "Next bet twenty, pinch your chips, lift higher to grab more, and toss them in to call.",
+   "Next bet, twenty. Pinch your chips, lift higher to grab more, and toss them in to call."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:6d4a10291744df4eb6c8": {
+  "transcripts": [
+   "New game. Chips reset."
+  ]
+ },
+ "gemini-3.8-flash:3edcb194f195e3e0ab30": {
+  "transcripts": [
+   "Um, sorry, I didn't catch that."
+  ]
+ },
+ "gemini-3.8-flash:a3f80c36e23459d5e744": {
+  "transcripts": [
+   "And"
+  ]
+ },
+ "gemini-3.8-flash:fd58fdf009ccace6d25e": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:0992864af6d09b738fc9": {
+  "transcripts": [
+   "thousand."
+  ]
+ },
+ "gemini-3.8-flash:1d4c1aa4a2c735b84a6c": {
+  "transcripts": [
+   "Totally normal bed, nothing to see.",
+   "Totally normal bed. Nothing to see"
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says 'bed' instead of 'bet'."
+  }
+ },
+ "gemini-3.8-flash:7b5d918353f15e329a16": {
+  "transcripts": [
+   "Totally normal bed. Nothing to see",
+   "Totally normal bed. Nothing to see."
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says \"bed\" instead of \"bet\"."
+  }
+ },
+ "gemini-3.8-flash:42e95a2016b5b30493b8": {
+  "transcripts": [
+   "Totally normal wager. Nothing to see here."
+  ]
+ },
+ "gemini-3.8-flash:460c43d6ac48b49324ae": {
+  "transcripts": [
+   "Mmm, hm-mm."
+  ]
+ },
+ "gemini-3.8-flash:100fdce1aab9c0f69c07": {
+  "transcripts": [
+   "Told you. I always tell you."
+  ]
+ },
+ "gemini-3.8-flash:a02cafd6eb1479c59104": {
+  "transcripts": [
+   "Enjoy it, it won't last."
+  ]
+ },
+ "gemini-3.8-flash:242fa0636291d6002708": {
+  "transcripts": [
+   "Lucky, pure dumb luck."
+  ]
+ },
+ "gemini-3.8-flash:b09d05f3a27eca1c9c57": {
+  "transcripts": [
+   "Let's make it interesting."
+  ]
+ },
+ "gemini-3.8-flash:953605efadb50a48e78b": {
+  "transcripts": [
+   "I've decided"
+  ]
+ },
+ "gemini-3.8-flash:63eb1ccfff9550ff3fb8": {
+  "transcripts": [
+   "Interesting."
+  ]
+ },
+ "gemini-3.8-flash:a5a02991a4f6da1fb87f": {
+  "transcripts": [
+   "Not worth it."
+  ]
+ },
+ "gemini-3.8-flash:898b2d8bcbd361dd7c52": {
+  "transcripts": [
+   "Take all the time you need."
+  ]
+ },
+ "gemini-3.8-flash:8ea6085193d639c61144": {
+  "transcripts": [
+   "Doubt is expensive."
+  ]
+ },
+ "gemini-3.8-flash:e11b08d1f6e852f8ae8b": {
+  "transcripts": [
+   "Careful."
+  ]
+ },
+ "gemini-3.8-flash:a26e89f1004caac26524": {
+  "transcripts": [
+   "Noted."
+  ]
+ },
+ "gemini-3.8-flash:4a1e073c1047c3c30efc": {
+  "transcripts": [
+   "Is that supposed to scare me?"
+  ]
+ },
+ "gemini-3.8-flash:b3cfda44e997c5cf74bf": {
+  "transcripts": [
+   "Find anything?"
+  ]
+ },
+ "gemini-3.8-flash:45dfd1be65fd2c9edd15": {
+  "transcripts": [
+   "Keep looking."
+  ]
+ },
+ "gemini-3.8-flash:05fad79eb30b0d92609b": {
+  "transcripts": [
+   "Good."
+  ]
+ },
+ "gemini-3.8-flash:bb5fe36a41e02643f2c8": {
+  "transcripts": [
+   "Hmm."
+  ]
+ },
+ "gemini-3.8-flash:b342a551d204fc24b6be": {
+  "transcripts": [
+   "as expected."
+  ]
+ },
+ "gemini-3.8-flash:35b5c8623a47cc31d210": {
+  "transcripts": [
+   "This time"
+  ]
+ },
+ "gemini-3.8-flash:b8a3232c8a20dd9a54bb": {
+  "transcripts": [
+   "Welcome to the table."
+  ]
+ },
+ "gemini-3.8-flash:7b41370c159b81aff763": {
+  "transcripts": [
+   "Fresh deck, good luck everyone."
+  ]
+ },
+ "gemini-3.8-flash:850c7c0f0283c7f7b06c": {
+  "transcripts": [
+   "Action is on you."
+  ]
+ },
+ "gemini-3.8-flash:89835b63086b8897542f": {
+  "transcripts": [
+   "Your call, friend."
+  ]
+ },
+ "gemini-3.8-flash:79e454a222bd7e26bdbf": {
+  "transcripts": [
+   "Whenever you're ready."
+  ]
+ },
+ "gemini-3.8-flash:83ec088cb9cbd7570194": {
+  "transcripts": [
+   "Here comes the flop."
+  ]
+ },
+ "gemini-3.8-flash:63ab73701f78c3f4c11c": {
+  "transcripts": [
+   "Three on the board."
+  ]
+ },
+ "gemini-3.8-flash:005fa3dc0d0a6d1919ba": {
+  "transcripts": [
+   "The turn."
+  ]
+ },
+ "gemini-3.8-flash:4ec9c645ad285be2c253": {
+  "transcripts": [
+   "Fourth card coming up."
+  ]
+ },
+ "gemini-3.8-flash:48c1cbfb8d5de622277a": {
+  "transcripts": [
+   "in the river.",
+   "In the river."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:7bdf9c2a7bc1e69e7874": {
+  "transcripts": [
+   "Last card."
+  ]
+ },
+ "gemini-3.8-flash:097d7169ab1bd6e08fbc": {
+  "transcripts": [
+   "Cards up, please."
+  ]
+ },
+ "gemini-3.8-flash:80f50dbb054ac9e6e179": {
+  "transcripts": [
+   "Let's see them."
+  ]
+ },
+ "gemini-3.8-flash:a8dd326db87dc2554479": {
+  "transcripts": [
+   "Pot goes to the winner."
+  ]
+ },
+ "gemini-3.8-flash:b50ca4363d833a727a8b": {
+  "transcripts": [
+   "Chips coming your way."
+  ]
+ },
+ "gemini-3.8-flash:ca4ade5e7f7bb67d6ec1": {
+  "transcripts": [
+   "We have an all-in"
+  ]
+ },
+ "gemini-3.8-flash:fca34bf40119ea3f46c1": {
+  "transcripts": [
+   "Check."
+  ]
+ },
+ "gemini-3.8-flash:c286333a37c55e210968": {
+  "transcripts": [
+   "Hi, I'm Dad. Let's play one together.",
+   "Hi, I'm Dad. Let's play one together."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:dc69745abef72edd3a61": {
+  "transcripts": [
+   "Welcome back. Let me show you the new gestures."
+  ]
+ },
+ "gemini-3.8-flash:4efb283c0546cd8bb10b": {
+  "transcripts": [
+   "Welcome back. Ready for a full game?"
+  ]
+ },
+ "gemini-3.8-flash:899d2761ad7b22d8be4f": {
+  "transcripts": [
+   "Tutorial next hand"
+  ]
+ },
+ "gemini-3.8-flash:a006e08e875f4edccf31": {
+  "transcripts": [
+   "Just a few chips for now."
+  ]
+ },
+ "gemini-3.8-flash:030c1a8313dfd64fe252": {
+  "transcripts": [
+   "Let's peek at your cards. Cup your hand over them and lift your wrist."
+  ]
+ },
+ "gemini-3.8-flash:6bffe36a10dd6dd1f135": {
+  "transcripts": [
+   "You can also pick them up to look closer."
+  ]
+ },
+ "gemini-3.8-flash:ee227eb5edd852c91ae2": {
+  "transcripts": [
+   "Nobody bet, knock twice to check."
+  ]
+ },
+ "gemini-3.8-flash:84cd97b250c2d888b4b3": {
+  "transcripts": [
+   "Try reading Rocco. Look at him for a second."
+  ]
+ },
+ "gemini-3.8-flash:b27e625992904785c03e": {
+  "transcripts": [
+   "Make him pay. Toss in more than his bet to raise."
+  ]
+ },
+ "gemini-3.8-flash:eb4cbfb9f897e02f4e3b": {
+  "transcripts": [
+   "Vex never bluffs this big. Toss your cards toward the middle to fold."
+  ]
+ },
+ "gemini-3.8-flash:d385df67f8546f876b2d": {
+  "transcripts": [
+   "Best hand at the table, push all your chips with both hands."
+  ]
+ },
+ "gemini-3.8-flash:db07a1c78655ab92a57a": {
+  "transcripts": [
+   "You took the table"
+  ]
+ },
+ "gemini-3.8-flash:97ab614da5cc088232fa": {
+  "transcripts": [
+   "That's the game. Knock to go again."
+  ]
+ },
+ "gemini-3.8-flash:1024cb82c58ae7171242": {
+  "transcripts": [
+   "Well noted.",
+   "Fold noted."
+  ]
+ },
+ "gemini-3.8-flash:3964b81f69a8a1a061b5": {
+  "transcripts": [
+   "Wait for your turn."
+  ]
+ },
+ "gemini-3.8-flash:b19717bce9092cade6ee": {
+  "transcripts": [
+   "Welcome back."
+  ]
+ },
+ "gemini-3.8-flash:d92519d996c33f4483f9": {
+  "transcripts": [
+   "Wins and",
+   "Wins in"
+  ]
+ },
+ "gemini-3.8-flash:33a2c060660397528268": {
+  "transcripts": [
+   "Win in"
+  ]
+ },
+ "gemini-3.8-flash:a4c67a34dfd27b64480c": {
+  "transcripts": [
+   "Tails red?",
+   "Tails red?"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:701ca323acc2cea48017": {
+  "transcripts": [
+   "So far,"
+  ]
+ },
+ "gemini-3.8-flash:fa9202591003b738a5b9": {
+  "transcripts": [
+   "You looked at your cards twice. Not loving that hand, huh?"
+  ]
+ },
+ "gemini-3.8-flash:29b5f56347161069a622": {
+  "transcripts": [
+   "You looked at your cards three times. Not loving that hand, huh?"
+  ]
+ },
+ "gemini-3.8-flash:f4334465d3d7f047332b": {
+  "transcripts": [
+   "You looked at your cards four times. Not loving that hand, huh?"
+  ]
+ },
+ "gemini-3.8-flash:fc8b505ec3357d4c4acb": {
+  "transcripts": [
+   "You keep looking at your cards. Not loving that hand, huh?"
+  ]
+ },
+ "gemini-3.8-flash:8dc3e2fcffb21f9e4586": {
+  "transcripts": [
+   "Took you a while to reach for those chips, weak."
+  ]
+ },
+ "gemini-3.8-flash:3ad787f4b032d74ddcd0": {
+  "transcripts": [
+   "Took you a while to make a move, wheek.",
+   "Took you a while to make a move, weak."
+  ]
+ },
+ "gemini-3.8-flash:d58976785ac4a775e45c": {
+  "transcripts": [
+   "Fiddling with your chips? Nervous?"
+  ]
+ },
+ "gemini-3.8-flash:850d8ac7cbdc0a2268c0": {
+  "transcripts": [
+   "Took your time. You're bluffing. I call."
+  ]
+ },
+ "gemini-3.8-flash:dffe1b1aa534e73ff63a": {
+  "transcripts": [
+   "Quick decision. Confident, huh?"
+  ]
+ },
+ "gemini-3.8-flash:58fc6c940de3040d58c3": {
+  "transcripts": [
+   "You played me."
+  ]
+ },
+ "gemini-3.8-flash:a5a091aa33ce09a846d9": {
+  "transcripts": [
+   "Quick bet. You've got it. I'm out."
+  ]
+ },
+ "gemini-3.8-flash:0ba775a68e4232be84c6": {
+  "transcripts": [
+   "Not this time."
+  ]
+ },
+ "gemini-3.8-flash:c5b3e6dbd5b68a74c98d": {
+  "transcripts": [
+   "Fool Rocco next hand."
+  ]
+ },
+ "gemini-3.8-flash:cb9c95c95d44f6ae5548": {
+  "transcripts": [
+   "Rocco, read your hands. Just play this one.",
+   "Rocco reads your hands, just play this one."
+  ]
+ },
+ "gemini-3.8-flash:459f9379b842995645f3": {
+  "transcripts": [
+   "Rocco thinks a slow reach means a weak hand. Try it. Wait a few seconds before you bet."
+  ]
+ },
+ "gemini-3.8-flash:083f9d4416bd6804b9ad": {
+  "transcripts": [
+   "You fooled him."
+  ]
+ },
+ "gemini-3.8-flash:45e3dde8870eb3e53ea9": {
+  "transcripts": [
+   "Try waiting next time."
+  ]
+ },
+ "gemini-3.8-flash:510b44371ee42720d849": {
+  "transcripts": [
+   "He learns, mix it up."
+  ]
+ },
+ "gemini-3.8-flash:63d7ce41b1dfe25005f0": {
+  "transcripts": [
+   "Hm?"
+  ]
+ },
+ "gemini-3.8-flash:15f105a6cdc14ef03b53": {
+  "transcripts": [
+   "Oh gosh, could you say that again?"
+  ]
+ },
+ "gemini-3.8-flash:6a4edaef260e5ee30b3b": {
+  "transcripts": [
+   "Nothing to call. You can check."
+  ]
+ },
+ "gemini-3.8-flash:0afa2cc7590c82988e68": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:f846b4632cd227c866af": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:7a48329626c2327c8b59": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:6e681d1984931d1e14a6": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:d6c3039100dfd42c44bd": {
+  "transcripts": [
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:6bb708fa8601eb6ab66c": {
+  "transcripts": [
+   "It's Bex's turn.",
+   "It's Vex's turn."
+  ]
+ },
+ "gemini-3.8-flash:2c1f2afbf995a1ddbbee": {
+  "transcripts": [
+   "Vexes.",
+   "Vexes"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:e31389e79cd7be4148f1": {
+  "transcripts": [
+   "The parties",
+   "The pot is"
+  ]
+ },
+ "gemini-3.8-flash:4a76789840500405c767": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:086b5c7e1dfab4d19d4b": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:e6f316f52c093de43f00": {
+  "transcripts": [
+   "blinds are"
+  ]
+ },
+ "gemini-3.8-flash:34779bf38e53552809ac": {
+  "transcripts": [
+   "And"
+  ]
+ },
+ "gemini-3.8-flash:5213ac27a47b85283e74": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:4a6877c8985fd0da1a9f": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:0b2962d9387b3d2df157": {
+  "transcripts": [
+   "Yeah?"
+  ]
+ },
+ "gemini-3.8-flash:721d99c22f56a5e3c363": {
+  "transcripts": [
+   "Speak up, kid."
+  ]
+ },
+ "gemini-3.8-flash:ef452160b5f2f9049640": {
+  "transcripts": [
+   "What? Mumbling won't win you chips."
+  ]
+ },
+ "gemini-3.8-flash:7410eb66730c0263b990": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:8dc01e8f15b177defdf5": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:0ebf085631d11734ff48": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:b31ed03348e48d8b2c28": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:0fc0d395e2b97847a2a5": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:8d9a99b5077c6e084003": {
+  "transcripts": [
+   "Pip has"
+  ]
+ },
+ "gemini-3.8-flash:bc7d42f0518516de2b85": {
+  "transcripts": [
+   "It's Vex's turn."
+  ]
+ },
+ "gemini-3.8-flash:00417ffd125b8f595351": {
+  "transcripts": [
+   "that's has",
+   "Sex has"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:ea5ec2a580d8d5dcc8f7": {
+  "transcripts": [
+   "A part is",
+   "The parties"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:a3534029b65416722b65": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:c05fde81e10696cbb629": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:ab9af8e1ef92640b4ec7": {
+  "transcripts": [
+   "blinds are"
+  ]
+ },
+ "gemini-3.8-flash:42f7e00ccf86546c0b16": {
+  "transcripts": [
+   "and"
+  ]
+ },
+ "gemini-3.8-flash:108c1e09aded6785a806": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:0273506ec167070bbc0a": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:88bab99711cd46275e7e": {
+  "transcripts": [
+   "Say again."
+  ]
+ },
+ "gemini-3.8-flash:5711cd06b92cc6d344db": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:ae608b56d98f9b1091ee": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:6039a616629edb3968f6": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:7d5a01bdecd751391537": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:4267217e829c76383e96": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:731a4a08482b30578557": {
+  "transcripts": [
+   "Pip has"
+  ]
+ },
+ "gemini-3.8-flash:2b478f2ef36802b142e3": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:fc3ce690cc42ee6e5c8c": {
+  "transcripts": [
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:0854b274cf9f3f630dc8": {
+  "transcripts": [
+   "The pot is"
+  ]
+ },
+ "gemini-3.8-flash:b060a6e995e802bcc567": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:07aa6a9a6ff64e04cdb9": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:ea75997e5222b4c95093": {
+  "transcripts": [
+   "Blinds are"
+  ]
+ },
+ "gemini-3.8-flash:d24f53718f8e8cc2ac0c": {
+  "transcripts": [
+   "And"
+  ]
+ },
+ "gemini-3.8-flash:496cec69bd330291ece2": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:df1197047ac4f8a07d10": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:aacff4b76fe15a97104a": {
+  "transcripts": [
+   "Yes."
+  ]
+ },
+ "gemini-3.8-flash:88aa67b2f23f2f6284aa": {
+  "transcripts": [
+   "Sorry, I didn't catch that."
+  ]
+ },
+ "gemini-3.8-flash:3c4f1ea460ef0b14ff09": {
+  "transcripts": [
+   "Could you repeat that, please?"
+  ]
+ },
+ "gemini-3.8-flash:bc7b1af37742ff89b973": {
+  "transcripts": [
+   "Nothing to call. You can check."
+  ]
+ },
+ "gemini-3.8-flash:ff47f1ca3a2469eb45fd": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:1bae5c1956f54dd1d121": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:7ac26c50111c02c436b6": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:1fef0e057908eb000056": {
+  "transcripts": [
+   "Pip has"
+  ]
+ },
+ "gemini-3.8-flash:9f40529b325bbe78b97f": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:e60730cef0a7b1b47f06": {
+  "transcripts": [
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:1e316ce2fca149a91789": {
+  "transcripts": [
+   "It's Vex's turn."
+  ]
+ },
+ "gemini-3.8-flash:0cf1f1cb3a396de5bf07": {
+  "transcripts": [
+   "Vexes",
+   "Vexes."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:bf8efd47ae9cf3243404": {
+  "transcripts": [
+   "The pie is",
+   "The part is"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:75b2f646b1d70159535e": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:44005b494a1952ce9f18": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:458a4561c2acb7489c52": {
+  "transcripts": [
+   "lines are",
+   "lines are"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:8153d5ac44ff9077ed91": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:c3b8cc1bb9f9104ce51c": {
+  "transcripts": [
+   "zero"
+  ]
+ },
+ "gemini-3.8-flash:b49e1dae1fbdcf43d30e": {
+  "transcripts": [
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:ea7fbcb228b108308fc9": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:4c21a5319743e437085b": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:2c4a5c4d459c46f43688": {
+  "transcripts": [
+   "Four."
+  ]
+ },
+ "gemini-3.8-flash:e2a07650eade5866f5de": {
+  "transcripts": [
+   "Five"
+  ]
+ },
+ "gemini-3.8-flash:929cb9bd9bb3704b5692": {
+  "transcripts": [
+   "Sex",
+   "Sechs."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:245e63d11f4767fc4547": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:afa5c45f559f6db2a252": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:01b523fc713dc452523a": {
+  "transcripts": [
+   "nine"
+  ]
+ },
+ "gemini-3.8-flash:b201cb1675d169285b27": {
+  "transcripts": [
+   "Ten."
+  ]
+ },
+ "gemini-3.8-flash:094ad0c9540314152a91": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:d5bbed90d20efc8ce259": {
+  "transcripts": [
+   "twelve"
+  ]
+ },
+ "gemini-3.8-flash:ac829afd6e3ea241a194": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:3155547e5a8adf933883": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:97efb7aaf09691a689b5": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:c1e2cefc7d1519c8878c": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:e31e249eb022badee5d0": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:820e4a5d15332db85d3e": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:209715827e806cad2acf": {
+  "transcripts": [
+   "twenty-eight",
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:bd36987fb1fe04731e88": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:1ef86a53ad57985d5964": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:e3b9f81b42a0f23f5e33": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:c2d7c76993d295682962": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:33b56b812f8956c5db42": {
+  "transcripts": [
+   "sixty"
+  ]
+ },
+ "gemini-3.8-flash:76cb5c3b08161a430abe": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:714b7f3833e19eb534c0": {
+  "transcripts": [
+   "80."
+  ]
+ },
+ "gemini-3.8-flash:a67d28d3a97249e7c2cd": {
+  "transcripts": [
+   "ninety"
+  ]
+ },
+ "gemini-3.8-flash:afea0b6cdbd40dee3bd2": {
+  "transcripts": [
+   "Hundred"
+  ]
+ },
+ "gemini-3.8-flash:3fd0b6f8ef8d207ce317": {
+  "transcripts": [
+   "Thousand"
+  ]
+ },
+ "gemini-3.8-flash:7410fa18de1059fd82d6": {
+  "transcripts": [
+   "million"
+  ]
+ },
+ "gemini-3.8-flash:f48f912be390a07d888a": {
+  "transcripts": [
+   "percent"
+  ]
+ },
+ "gemini-3.8-flash:742df7331cb8ee68a06e": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:b5381e4b268f8d3d9525": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:235e7319268b32b2a8a6": {
+  "transcripts": [
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:5d9d61af5a65b684d68c": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:527f58278b73820dff4a": {
+  "transcripts": [
+   "Four."
+  ]
+ },
+ "gemini-3.8-flash:cd500e25db89e961ce38": {
+  "transcripts": [
+   "five"
+  ]
+ },
+ "gemini-3.8-flash:5c044f5879b0cbc0c76f": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:130aa01f113c40a16ab7": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:d7644b9a543836defee8": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:17423e96efb90297c431": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:e4ee0f9ca83c543436d0": {
+  "transcripts": [
+   "ten"
+  ]
+ },
+ "gemini-3.8-flash:a88eb190918fb1c9dc1c": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:0e31c06b07e0913ed747": {
+  "transcripts": [
+   "Twelve."
+  ]
+ },
+ "gemini-3.8-flash:f890ffd7593781ef96be": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:24bc702d914c2b4436a8": {
+  "transcripts": [
+   "13"
+  ]
+ },
+ "gemini-3.8-flash:98595fb5211d84f23fab": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:f5146f32a4614d01c336": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:86757959d22b3f3b44ec": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:82cba2be16ebba332361": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:5e09b7952142b07acf02": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:7f679a5a55e36257590b": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:18a592754228b43d1b15": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:a885f0ff10e8a3b4e0af": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:16d6cd02e6501a28d135": {
+  "transcripts": [
+   "Fifty"
+  ]
+ },
+ "gemini-3.8-flash:5787686e5acae5ee144a": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:e5eb34b2b97cac5a0529": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:4c7946d35cdf38abf7af": {
+  "transcripts": [
+   "Eighty."
+  ]
+ },
+ "gemini-3.8-flash:8627489301a907fccfdc": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:2f400074960d58647c35": {
+  "transcripts": [
+   "Hundred."
+  ]
+ },
+ "gemini-3.8-flash:f890e807cfd2204f3d88": {
+  "transcripts": [
+   "million."
+  ]
+ },
+ "gemini-3.8-flash:1c0402ba61fe86d65b7c": {
+  "transcripts": [
+   "thousand"
+  ]
+ },
+ "gemini-3.8-flash:2cb41b99990795f9aafa": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:c1d1e79b825a73797e9e": {
+  "transcripts": [
+   "percent."
+  ]
+ },
+ "gemini-3.8-flash:a5d32fc465d080b76a52": {
+  "transcripts": [
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:ef4982006f737a86c1c5": {
+  "transcripts": [
+   "two"
+  ]
+ },
+ "gemini-3.8-flash:b1b281fe585019103a59": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:5cec52f29f2eeeb38856": {
+  "transcripts": [
+   "four"
+  ]
+ },
+ "gemini-3.8-flash:dc405a95605255265cb9": {
+  "transcripts": [
+   "Five."
+  ]
+ },
+ "gemini-3.8-flash:c1b038540bf8aab7a982": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:1941a5fa5c01b4ea36d1": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:26d86a958506fc22cb53": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:d84181f4053ea8c63722": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:975350a7b0866b3e2043": {
+  "transcripts": [
+   "dünn",
+   "Then"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:6761017394c145dac1c6": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:1f54d8d0d98bf44edfc0": {
+  "transcripts": [
+   "Twelve."
+  ]
+ },
+ "gemini-3.8-flash:19ce0ae1cc72faa3dc61": {
+  "transcripts": [
+   "13."
+  ]
+ },
+ "gemini-3.8-flash:35b363acbb2230909eee": {
+  "transcripts": [
+   "fourteen"
+  ]
+ },
+ "gemini-3.8-flash:bae698c9ed37451dafb6": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:902b8cf57e7328403f44": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:19f3ae8bc8cf7dfa186d": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:c72fc9d6ab8b8a20553d": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:22684029b8213428837d": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:6167e6847454fb32ce65": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:813ebf4d0dc92d1a6540": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:68513d6e297223d69bf3": {
+  "transcripts": [
+   "Forty"
+  ]
+ },
+ "gemini-3.8-flash:32cdf15474d4eb732602": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:a6ba2bd92dc68b80b93c": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:6b69ffba2a59186d7d04": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:8494751929d31d80b151": {
+  "transcripts": [
+   "Eighty."
+  ]
+ },
+ "gemini-3.8-flash:0b89290e6818ab7ad045": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:6439942803b1c89c0816": {
+  "transcripts": [
+   "hundred"
+  ]
+ },
+ "gemini-3.8-flash:9ee74a3920d3f5431f98": {
+  "transcripts": [
+   "Thousand."
+  ]
+ },
+ "gemini-3.8-flash:5e97a6bd818faf98f43d": {
+  "transcripts": [
+   "million."
+  ]
+ },
+ "gemini-3.8-flash:ef22fb9d1d42c117ddd1": {
+  "transcripts": [
+   "percent."
+  ]
+ },
+ "gemini-3.8-flash:e3ea6ffdaa867c918bd3": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:e4b0a84e3be4e9a12a50": {
+  "transcripts": [
+   "You got it.",
+   "Hello."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:2ed3a2ce092aaa7af4ec": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:3de6dfa14dd25cb2ca77": {
+  "transcripts": [
+   "Four."
+  ]
+ },
+ "gemini-3.8-flash:528a7366141fa83e6bd3": {
+  "transcripts": [
+   "Five."
+  ]
+ },
+ "gemini-3.8-flash:9acacc74fd8df70ddfa5": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:877ee3c3e77f7d066b73": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:4fcea65d432cf5d08950": {
+  "transcripts": [
+   "Eight"
+  ]
+ },
+ "gemini-3.8-flash:58406e390b7e39f0cf81": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:18d6e588ca87d4f60d71": {
+  "transcripts": [
+   "Ten."
+  ]
+ },
+ "gemini-3.8-flash:80a9d753b9a80c3533b8": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:db321ef054f5af671ed0": {
+  "transcripts": [
+   "Twelve."
+  ]
+ },
+ "gemini-3.8-flash:ab336577e26399154d19": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:4ca8a4e2293147798324": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:1d5e03b1a3daa80ae1a6": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:8e2e39233671c72407aa": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:6632002903e0c2206aee": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:99f5b91b23c6f6b27fee": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:8cd279bed860d41e2495": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:b1f61a8fdee19d5c2641": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:d704fb88624579fb48b9": {
+  "transcripts": [
+   "Thirty"
+  ]
+ },
+ "gemini-3.8-flash:c2833b4c1cda5c6f69c2": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:d435621bca104ebca7bf": {
+  "transcripts": [
+   "Fifty"
+  ]
+ },
+ "gemini-3.8-flash:34bf5a1d2f80ac07106b": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:3b12f9d04a9fa893cb59": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:b6f6c9d93b8e9392c37a": {
+  "transcripts": [
+   "Eighty."
+  ]
+ },
+ "gemini-3.8-flash:0d2cf9711ccafb81c238": {
+  "transcripts": [
+   "hundred"
+  ]
+ },
+ "gemini-3.8-flash:b461a5ae3d414ac7dc38": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:8bdb446d40598e15b809": {
+  "transcripts": [
+   "million."
+  ]
+ },
+ "gemini-3.8-flash:50ae6851636cb27ace25": {
+  "transcripts": [
+   "Percent"
+  ]
+ },
+ "gemini-3.8-flash:c03c75736c6f089c3686": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:9cf023e4b5952016b0e5": {
+  "transcripts": [
+   "Tough one, huh?"
+  ]
+ },
+ "gemini-3.8-flash:48a482f6a7163f8a61d7": {
+  "transcripts": [
+   "Something wrong, champ?"
+  ]
+ },
+ "gemini-3.8-flash:640a549833aed0cb3098": {
+  "transcripts": [
+   "Need a minute, champ?"
+  ]
+ },
+ "gemini-3.8-flash:4f4c0f1774d8773ccf00": {
+  "transcripts": [
+   "Still thinking? That's a tell."
+  ]
+ },
+ "gemini-3.8-flash:0843a5f6476ca227967b": {
+  "transcripts": [
+   "Any day now, champ."
+  ]
+ },
+ "gemini-3.8-flash:656e01f7688cbaa04378": {
+  "transcripts": [
+   "Somebody scared.",
+   "Somebody's scared."
+  ]
+ },
+ "gemini-3.8-flash:e0831df6a29201f027a3": {
+  "transcripts": [
+   "We're all getting older here."
+  ]
+ },
+ "gemini-3.8-flash:c0985e65ce3c15ce165f": {
+  "transcripts": [
+   "Again, they didn't change"
+  ]
+ },
+ "gemini-3.8-flash:ac7b48b6b049ccd53a62": {
+  "transcripts": [
+   "Look all you want, same cards."
+  ]
+ },
+ "gemini-3.8-flash:6f716ad0f8d53cd886e9": {
+  "transcripts": [
+   "Not loving those cards, huh?"
+  ]
+ },
+ "gemini-3.8-flash:346dcca4ce40cf3a1e61": {
+  "transcripts": [
+   "Ooh, going in."
+  ]
+ },
+ "gemini-3.8-flash:a1a012ec92e5856c287d": {
+  "transcripts": [
+   "There it is. Reach for it."
+  ]
+ },
+ "gemini-3.8-flash:9517358238660a3b954f": {
+  "transcripts": [
+   "Go on, grab some chips."
+  ]
+ },
+ "gemini-3.8-flash:f9b54801225cef7931a9": {
+  "transcripts": [
+   "Changed your mind? I saw that."
+  ]
+ },
+ "gemini-3.8-flash:bf6946229563c2ffb569": {
+  "transcripts": [
+   "Ooh, cold feet?"
+  ]
+ },
+ "gemini-3.8-flash:e4bab642ab24e1135547": {
+  "transcripts": [
+   "Hand goes in, hand comes back."
+  ]
+ },
+ "gemini-3.8-flash:3ac473e0424ea817762a": {
+  "transcripts": [
+   "Gonna hold those all day?"
+  ]
+ },
+ "gemini-3.8-flash:87baa831b5ab7036c31b": {
+  "transcripts": [
+   "Drop them in, champ."
+  ]
+ },
+ "gemini-3.8-flash:c52d53bb6b5f5637a24c": {
+  "transcripts": [
+   "Heavy, huh? Put them in."
+  ]
+ },
+ "gemini-3.8-flash:16075075804bf12470dd": {
+  "transcripts": [
+   "putting them back, scared"
+  ]
+ },
+ "gemini-3.8-flash:8106d2419458a68b4eb8": {
+  "transcripts": [
+   "Back in the stack, huh?"
+  ]
+ },
+ "gemini-3.8-flash:125a092e5b30db5cb524": {
+  "transcripts": [
+   "Thinking of folding? Do it."
+  ]
+ },
+ "gemini-3.8-flash:b3abe6d4f282ad88f703": {
+  "transcripts": [
+   "Go on, toss them."
+  ]
+ },
+ "gemini-3.8-flash:b3d21add43641fa00ba2": {
+  "transcripts": [
+   "folding already?"
+  ]
+ },
+ "gemini-3.8-flash:d03d1a708bd054015696": {
+  "transcripts": [
+   "See something you like?"
+  ]
+ },
+ "gemini-3.8-flash:c63d2885486c5b87a527": {
+  "transcripts": [
+   "Looking for a tell? Good luck."
+  ]
+ },
+ "gemini-3.8-flash:126b822201b604d0f4f1": {
+  "transcripts": [
+   "read you like a book."
+  ]
+ },
+ "gemini-3.8-flash:4693582bb82b1f5e7eb2": {
+  "transcripts": [
+   "called it. You were weak."
+  ]
+ },
+ "gemini-3.8-flash:f6019ac94976a3266276": {
+  "transcripts": [
+   "You faked that? Nice."
+  ]
+ },
+ "gemini-3.8-flash:81bc6649f1b8d9ebd502": {
+  "transcripts": [
+   "Okay, that was a trick."
+  ]
+ },
+ "gemini-3.8-flash:e69c48ec39f548cfaa82": {
+  "transcripts": [
+   "Oh, um, take your time."
+  ]
+ },
+ "gemini-3.8-flash:1c84670bb20366705381": {
+  "transcripts": [
+   "Is it hard? It looks hard."
+  ]
+ },
+ "gemini-3.8-flash:ddd2bc79bc65fe608c67": {
+  "transcripts": [
+   "I'd be thinking too."
+  ]
+ },
+ "gemini-3.8-flash:0ddb178377a3b5db0c74": {
+  "transcripts": [
+   "lung thing, is that bad for me?",
+   "lung thing. Is that bad for me?"
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says 'One thing' instead of 'Long think'."
+  }
+ },
+ "gemini-3.8-flash:de7702b52fb45bb6546d": {
+  "transcripts": [
+   "Should I get snacks?"
+  ]
+ },
+ "gemini-3.8-flash:e583adfda192b14ab620": {
+  "transcripts": [
+   "I'm so nervous right now."
+  ]
+ },
+ "gemini-3.8-flash:126e4b3bbd3438075afa": {
+  "transcripts": [
+   "Did they change? Mine never do."
+  ]
+ },
+ "gemini-3.8-flash:e8a613d155adaf9af8e9": {
+  "transcripts": [
+   "You checked again? Is that good?"
+  ]
+ },
+ "gemini-3.8-flash:554e353875ce8cb52839": {
+  "transcripts": [
+   "Oh no, here it comes."
+  ]
+ },
+ "gemini-3.8-flash:729aa564a433dd57ddf4": {
+  "transcripts": [
+   "Wait, you're betting"
+  ]
+ },
+ "gemini-3.8-flash:5e6d92e9363a84507986": {
+  "transcripts": [
+   "Oh, thank goodness."
+  ]
+ },
+ "gemini-3.8-flash:7ea27491855827732f37": {
+  "transcripts": [
+   "Phew. Wait, you're not?"
+  ]
+ },
+ "gemini-3.8-flash:b6094d996183a0cbd6a1": {
+  "transcripts": [
+   "How much are you thinking?",
+   "How much are you thinking?"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:85548fd23f07067ba2b9": {
+  "transcripts": [
+   "That's a lot of chips, right?"
+  ]
+ },
+ "gemini-3.8-flash:0eec6e1affd265e000ef": {
+  "transcripts": [
+   "You put them back. Huh.",
+   "You put them back? Huh."
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says a breathy laugh/chuckle (\"huh\"/\"heh\") at the end instead of \"phew\"."
+  }
+ },
+ "gemini-3.8-flash:096b365577f501378fab": {
+  "transcripts": [
+   "Not bad, eh? Okay. Okay, good.",
+   "Not betting? Okay. Okay, good."
+  ]
+ },
+ "gemini-3.8-flash:67b5db3ba6281205e15a": {
+  "transcripts": [
+   "Are you folding? I won't tell."
+  ]
+ },
+ "gemini-3.8-flash:c18a66317b6e1ac3d352": {
+  "transcripts": [
+   "Oh, are you out?"
+  ]
+ },
+ "gemini-3.8-flash:e13922a4ef2b814baa57": {
+  "transcripts": [
+   "I didn't do anything."
+  ]
+ },
+ "gemini-3.8-flash:d5797e6f4f2c321176c4": {
+  "transcripts": [
+   "I, um, kind of saw that coming."
+  ]
+ },
+ "gemini-3.8-flash:81c9ddd0bfc751286547": {
+  "transcripts": [
+   "You tricked me."
+  ]
+ },
+ "gemini-3.8-flash:b5b79bb6b41390604e59": {
+  "transcripts": [
+   "Seven seconds."
+  ]
+ },
+ "gemini-3.8-flash:7403c58a94bd6abcf3cb": {
+  "transcripts": [
+   "Twelve seconds. Noted."
+  ]
+ },
+ "gemini-3.8-flash:dee1404b72683566336c": {
+  "transcripts": [
+   "Decide."
+  ]
+ },
+ "gemini-3.8-flash:2a940f601df810d55f10": {
+  "transcripts": [
+   "Checking again. Hmm."
+  ]
+ },
+ "gemini-3.8-flash:c1f4133f7a29facedb16": {
+  "transcripts": [
+   "twice now"
+  ]
+ },
+ "gemini-3.8-flash:9e73e7396064a03a2c77": {
+  "transcripts": [
+   "Go on."
+  ]
+ },
+ "gemini-3.8-flash:32a57c5b66ae3060b2fb": {
+  "transcripts": [
+   "Hmm. Interested."
+  ]
+ },
+ "gemini-3.8-flash:d773385d3c041a571d9b": {
+  "transcripts": [
+   "Hesitation noted."
+  ]
+ },
+ "gemini-3.8-flash:dda1c31be3e57c516106": {
+  "transcripts": [
+   "You flinched."
+  ]
+ },
+ "gemini-3.8-flash:a30f6dee93ed74357ef6": {
+  "transcripts": [
+   "Heavy decision."
+  ]
+ },
+ "gemini-3.8-flash:f22a88a1ebb16a26bbce": {
+  "transcripts": [
+   "Count them twice."
+  ]
+ },
+ "gemini-3.8-flash:efaf31182aafa4cf640c": {
+  "transcripts": [
+   "Back in the stack. Hm."
+  ]
+ },
+ "gemini-3.8-flash:dfc2890f65f97990a05c": {
+  "transcripts": [
+   "Your cards won't save you."
+  ]
+ },
+ "gemini-3.8-flash:c247520ad699b88e743e": {
+  "transcripts": [
+   "Fold them.",
+   "fold them"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:2b192a3896ce88e3a770": {
+  "transcripts": [
+   "readable"
+  ]
+ },
+ "gemini-3.8-flash:091263d50e451faf4324": {
+  "transcripts": [
+   "Take your time."
+  ]
+ },
+ "gemini-3.8-flash:d5a9da3de4f7b42a4105": {
+  "transcripts": [
+   "Clever ones.",
+   "Clever once."
+  ]
+ },
+ "gemini-3.8-flash:1edcd959cdf8c11ab2c7": {
+  "transcripts": [
+   "No rush. Your call."
+  ]
+ },
+ "gemini-3.8-flash:c019a126f6e43d60ee26": {
+  "transcripts": [
+   "Action is still on you."
+  ]
+ },
+ "gemini-3.8-flash:8fb676a129d73baa9efc": {
+  "transcripts": [
+   "You put them back. Phew!"
+  ]
+ },
+ "gemini-3.8-flash:2c4e6be94eb0bd17704e": {
+  "transcripts": [
+   "Long think, is that bad for me?"
+  ]
+ },
+ "gemini-3.8-flash:f829bbb338aa8f932e56": {
+  "transcripts": [
+   "Toss your cards forward to show."
+  ]
+ },
+ "gemini-3.8-flash:dd8f17baa04b862cc1d1": {
+  "transcripts": [
+   "Rocco raised and he's reading you. Toss in chips to call or push your cards forward to fold."
+  ]
+ },
+ "gemini-3.8-flash:50767580e650a89c6bd9": {
+  "transcripts": [
+   "Keep watching, tails get bigger when you stare.",
+   "Keep watching. Tails get bigger when you stare."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:87cc36f5e496e2382d29": {
+  "transcripts": [
+   "Big hand? Push all your chips with both hands to go all in."
+  ]
+ },
+ "gemini-3.8-flash:9b2ded69e34e39c15af8": {
+  "transcripts": [
+   "Psst, that's a strong hand."
+  ]
+ },
+ "gemini-3.8-flash:e7b9e6c9f54c5292e124": {
+  "transcripts": [
+   "Psst, that's a decent hand."
+  ]
+ },
+ "gemini-3.8-flash:0e3f64c1aa3bd04d7217": {
+  "transcripts": [
+   "Pfft, that's a weak hand.",
+   "Psst, that's a weak hand."
+  ]
+ },
+ "gemini-3.8-flash:00188dc349e466886ea9": {
+  "transcripts": [
+   "Psst, your drawing, it could improve.",
+   "Psst, your drawing, it could improve."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:ddffc69bc46d62147285": {
+  "transcripts": [
+   "I'll keep this simple"
+  ]
+ },
+ "gemini-3.8-flash:94f39067326206f52b0a": {
+  "transcripts": [
+   "Bet. Don't take it personally."
+  ]
+ },
+ "gemini-3.8-flash:b78a37d9fb144a02b86e": {
+  "transcripts": [
+   "I've seen worse hands win."
+  ]
+ },
+ "gemini-3.8-flash:a23a9bd00f5f3a016e33": {
+  "transcripts": [
+   "Go ahead, call."
+  ]
+ },
+ "gemini-3.8-flash:eeb3d88ae471e16d7fd4": {
+  "transcripts": [
+   "Hmm, we'll see."
+  ]
+ },
+ "gemini-3.8-flash:4d53253833d35e2bd84c": {
+  "transcripts": [
+   "Not my hand, not my night."
+  ]
+ },
+ "gemini-3.8-flash:68cebc96647d50bb7a19": {
+  "transcripts": [
+   "folding. Write that down."
+  ]
+ },
+ "gemini-3.8-flash:188e8b917e24a37c385c": {
+  "transcripts": [
+   "Take your time, I'm not getting younger."
+  ]
+ },
+ "gemini-3.8-flash:d5b594505d0fa68b2117": {
+  "transcripts": [
+   "I've waited longer for worse."
+  ]
+ },
+ "gemini-3.8-flash:605b11334e8c2a6e1efd": {
+  "transcripts": [
+   "The table didn't do anything to you."
+  ]
+ },
+ "gemini-3.8-flash:2a2901e58c8d8ba1e59f": {
+  "transcripts": [
+   "Old. I remember being bold.",
+   "Bold. I remember being bold."
+  ]
+ },
+ "gemini-3.8-flash:ef99ea8b0fd4af609ba8": {
+  "transcripts": [
+   "That's a lot of conviction."
+  ]
+ },
+ "gemini-3.8-flash:b240171ffc892a21e6fb": {
+  "transcripts": [
+   "I don't blink much, kid."
+  ]
+ },
+ "gemini-3.8-flash:758d48861ad46a6831ba": {
+  "transcripts": [
+   "Forty years of poker face."
+  ]
+ },
+ "gemini-3.8-flash:d5f506e1b10f6a60c36d": {
+  "transcripts": [
+   "That'll do."
+  ]
+ },
+ "gemini-3.8-flash:dbcd50960ad876c11772": {
+  "transcripts": [
+   "Of course it is."
+  ]
+ },
+ "gemini-3.8-flash:3fdae52eb9970d2d95b5": {
+  "transcripts": [
+   "Experience pays slowly."
+  ]
+ },
+ "gemini-3.8-flash:611964a55f8c04a0b3c8": {
+  "transcripts": [
+   "Nothing personal."
+  ]
+ },
+ "gemini-3.8-flash:41e8e20f961b51302dae": {
+  "transcripts": [
+   "Happens, rarely."
+  ]
+ },
+ "gemini-3.8-flash:a2c10bb7f33cc16e6186": {
+  "transcripts": [
+   "Enjoy it. I did once."
+  ]
+ },
+ "gemini-3.8-flash:291fd63f1cd892d5f4e8": {
+  "transcripts": [
+   "Welcome to the table"
+  ]
+ },
+ "gemini-3.8-flash:5db3a8e68837bc33e13d": {
+  "transcripts": [
+   "Fresh deck, good luck everyone."
+  ]
+ },
+ "gemini-3.8-flash:4c8a49f62b8672c1e3c8": {
+  "transcripts": [
+   "Action is on you."
+  ]
+ },
+ "gemini-3.8-flash:760d5156285ea12f8d14": {
+  "transcripts": [
+   "Your girlfriend",
+   "Your girlfriend."
+  ]
+ },
+ "gemini-3.8-flash:f1e94bf170cdae9cd532": {
+  "transcripts": [
+   "Whenever you're ready."
+  ]
+ },
+ "gemini-3.8-flash:c61109f1c080ba6d841a": {
+  "transcripts": [
+   "Here comes the flop."
+  ]
+ },
+ "gemini-3.8-flash:3fd3b640a950fd45a16e": {
+  "transcripts": [
+   "Three on the board."
+  ]
+ },
+ "gemini-3.8-flash:2e0db23d19b004244c28": {
+  "transcripts": [
+   "The turn"
+  ]
+ },
+ "gemini-3.8-flash:250145a1d2d3f80f3aca": {
+  "transcripts": [
+   "Fourth card coming up."
+  ]
+ },
+ "gemini-3.8-flash:39867644fc015d1347e4": {
+  "transcripts": [
+   "and the river"
+  ]
+ },
+ "gemini-3.8-flash:167fa9d721d998277361": {
+  "transcripts": [
+   "Last card."
+  ]
+ },
+ "gemini-3.8-flash:d84c4829f937be6370bf": {
+  "transcripts": [
+   "Cards up, please."
+  ]
+ },
+ "gemini-3.8-flash:ad1a915ef64022bf4abd": {
+  "transcripts": [
+   "Let's see them."
+  ]
+ },
+ "gemini-3.8-flash:dc6ebf6cc723fe9d7169": {
+  "transcripts": [
+   "Pot goes to the winner."
+  ]
+ },
+ "gemini-3.8-flash:67a048d4b6a27def424e": {
+  "transcripts": [
+   "Chips coming your way."
+  ]
+ },
+ "gemini-3.8-flash:9f2e2ce3018eb6445ebb": {
+  "transcripts": [
+   "We have an all in"
+  ]
+ },
+ "gemini-3.8-flash:805cece4e7249f4ad1be": {
+  "transcripts": [
+   "Check"
+  ]
+ },
+ "gemini-3.8-flash:2eaef81d53f8572edfc3": {
+  "transcripts": [
+   "Hi, I'm Dot. Let's play one together."
+  ]
+ },
+ "gemini-3.8-flash:afbc5aded81c7b3cf1fa": {
+  "transcripts": [
+   "Welcome back, let me show you the new gestures."
+  ]
+ },
+ "gemini-3.8-flash:ad891d1b353a7887108e": {
+  "transcripts": [
+   "Welcome back. Ready for a full game?"
+  ]
+ },
+ "gemini-3.8-flash:f6da8eb0a80106d9bfed": {
+  "transcripts": [
+   "Tutorial next hand."
+  ]
+ },
+ "gemini-3.8-flash:1616064c81cfbb323606": {
+  "transcripts": [
+   "Just a few chips for now."
+  ]
+ },
+ "gemini-3.8-flash:86282cacd2f48c17fc20": {
+  "transcripts": [
+   "Let's peek at your cards. Cup your hand over them and lift your wrist."
+  ]
+ },
+ "gemini-3.8-flash:7fd02d6e96c299b50f20": {
+  "transcripts": [
+   "Rocco raised, and he's reading you. Toss in chips to call, or push your cards forward to fold."
+  ]
+ },
+ "gemini-3.8-flash:a8e02c2026b1ac46be1a": {
+  "transcripts": [
+   "Nice."
+  ]
+ },
+ "gemini-3.8-flash:228ab55c2b9d4c0874eb": {
+  "transcripts": [
+   "Perfect."
+  ]
+ },
+ "gemini-3.8-flash:1480332d378b038d56db": {
+  "transcripts": [
+   "Great job."
+  ]
+ },
+ "gemini-3.8-flash:47b58c2a1f4d02836d22": {
+  "transcripts": [
+   "You got it!"
+  ]
+ },
+ "gemini-3.8-flash:28e383c2e4cfb05dc2ed": {
+  "transcripts": [
+   "Well done."
+  ]
+ },
+ "gemini-3.8-flash:7943b80fe8283e8b9d50": {
+  "transcripts": [
+   "You're ready. Good luck."
+  ]
+ },
+ "gemini-3.8-flash:ce18b71a9e86cab60f08": {
+  "transcripts": [
+   "Okay, let's play."
+  ]
+ },
+ "gemini-3.8-flash:bfdd911262a030d0580e": {
+  "transcripts": [
+   "Lift your wrist a little higher."
+  ]
+ },
+ "gemini-3.8-flash:6bb76696767e027e0c95": {
+  "transcripts": [
+   "Rest your fingertips on the cards, then lift your wrist."
+  ]
+ },
+ "gemini-3.8-flash:acfd9b267e1e3e749be9": {
+  "transcripts": [
+   "Turn your palm down over your cards."
+  ]
+ },
+ "gemini-3.8-flash:f584ef28349ddc9eaf55": {
+  "transcripts": [
+   "Move your hand right over your cards."
+  ]
+ },
+ "gemini-3.8-flash:23b27bb8525288881663": {
+  "transcripts": [
+   "Pinch right on the chips."
+  ]
+ },
+ "gemini-3.8-flash:43d8426f3caab9fbc04a": {
+  "transcripts": [
+   "Toss them onto the glowing zone"
+  ]
+ },
+ "gemini-3.8-flash:2498ae3beefdbca3b6ca": {
+  "transcripts": [
+   "Toss your cards toward the middle."
+  ]
+ },
+ "gemini-3.8-flash:f03d429fec2e96e2a76e": {
+  "transcripts": [
+   "Nobody bet. Knock twice to check."
+  ]
+ },
+ "gemini-3.8-flash:3bbd957ce1bea2a17978": {
+  "transcripts": [
+   "Ask me anything about the table. Try how much is in the pot?"
+  ]
+ },
+ "gemini-3.8-flash:6e69d0751337ad5fde1a": {
+  "transcripts": [
+   "Toss your cards forward to show"
+  ]
+ },
+ "gemini-3.8-flash:23f58278c854653ed592": {
+  "transcripts": [
+   "big hand, push all your chips with both hands to go all in."
+  ]
+ },
+ "gemini-3.8-flash:5d4765fae6d07f8c8d35": {
+  "transcripts": [
+   "Keep watching, Tails get bigger when you stare.",
+   "Keep watching. Tells get bigger when you stare."
+  ]
+ },
+ "gemini-3.8-flash:f5a45f5ff95a94cb44b2": {
+  "transcripts": [
+   "Psst, that's a strong hand."
+  ]
+ },
+ "gemini-3.8-flash:beb1aa07df19954f44fa": {
+  "transcripts": [
+   "Psst, that's a decent hand."
+  ]
+ },
+ "gemini-3.8-flash:5f05ad556bd3e483c2f5": {
+  "transcripts": [
+   "Psst, that's a weak hand."
+  ]
+ },
+ "gemini-3.8-flash:c0090987380a9ed989ae": {
+  "transcripts": [
+   "Psst, your drawing, it could improve.",
+   "Psst, your drawing, it could improve."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:069efdb815d97daf3cee": {
+  "transcripts": [
+   "Catch in here, collar fold.",
+   "Can't check here, call or fold."
+  ]
+ },
+ "gemini-3.8-flash:ff9176579773b6af6b53": {
+  "transcripts": [
+   "Not your turn yet."
+  ]
+ },
+ "gemini-3.8-flash:f766694fb0d665549d3c": {
+  "transcripts": [
+   "That bet doesn't work."
+  ]
+ },
+ "gemini-3.8-flash:952e3a9fd57ac7791676": {
+  "transcripts": [
+   "Pot goes to you."
+  ]
+ },
+ "gemini-3.8-flash:3f5bc01f9e7965844c1e": {
+  "transcripts": [
+   "Side part to you.",
+   "Side part to you."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:767ec2b5a6fbd1b1e9da": {
+  "transcripts": [
+   "Pot goes to Pip."
+  ]
+ },
+ "gemini-3.8-flash:2cb0752a7a16275d6073": {
+  "transcripts": [
+   "Side part to pip.",
+   "Side part to pip."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:e4bc9e1695e6e675a80d": {
+  "transcripts": [
+   "Pot goes to Rocco."
+  ]
+ },
+ "gemini-3.8-flash:76f2ef494fb8cbb68a93": {
+  "transcripts": [
+   "Side part to Rococo",
+   "Side pot to Rocco."
+  ]
+ },
+ "gemini-3.8-flash:a123796c21a7dec949c2": {
+  "transcripts": [
+   "Pod goes to Vex!",
+   "Todd goes to Vex."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:b6dc3f96ddbbaaa8e8d9": {
+  "transcripts": [
+   "side part of X",
+   "Side part of X."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:d5b28a8e4640c8ce195c": {
+  "transcripts": [
+   "Split pot."
+  ]
+ },
+ "gemini-3.8-flash:5ae0c7102fb5f56bb704": {
+  "transcripts": [
+   "Side pod is split.",
+   "Side pod is split."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:dc23a7a458dbfa36a18c": {
+  "transcripts": [
+   "You took the table."
+  ]
+ },
+ "gemini-3.8-flash:9932f7f0066a7747894e": {
+  "transcripts": [
+   "Out of chips? Knock for a rematch."
+  ]
+ },
+ "gemini-3.8-flash:029d5d252673a3cfbbe7": {
+  "transcripts": [
+   "That's the game, knock to go again."
+  ]
+ },
+ "gemini-3.8-flash:f252395607dbb82c221a": {
+  "transcripts": [
+   "New game. Chips reset."
+  ]
+ },
+ "gemini-3.8-flash:543865679fa443ea905b": {
+  "transcripts": [
+   "Fold, noted."
+  ]
+ },
+ "gemini-3.8-flash:5bb577778a31326009fd": {
+  "transcripts": [
+   "Wait for your turn."
+  ]
+ },
+ "gemini-3.8-flash:bbe560aba814614f5a28": {
+  "transcripts": [
+   "Welcome back."
+  ]
+ },
+ "gemini-3.8-flash:77ba873cea08eee53aba": {
+  "transcripts": [
+   "Wins in"
+  ]
+ },
+ "gemini-3.8-flash:2cd762880dae009f7aed": {
+  "transcripts": [
+   "when in",
+   "Win in"
+  ]
+ },
+ "gemini-3.8-flash:4b4c6f6e005274f2fbbf": {
+  "transcripts": [
+   "Tails Red",
+   "Tells Red"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:0cabbe8052acc214d005": {
+  "transcripts": [
+   "So far,"
+  ]
+ },
+ "gemini-3.8-flash:a4fe86c2bda90e7213fb": {
+  "transcripts": [
+   "Rocco reads your hands, just play this one."
+  ]
+ },
+ "gemini-3.8-flash:7069a593f78ad5095efa": {
+  "transcripts": [
+   "Fold Rocco next hand.",
+   "Fool Rocco next hand."
+  ]
+ },
+ "gemini-3.8-flash:6d8a9a62482bd5d48b8c": {
+  "transcripts": [
+   "You fooled him."
+  ]
+ },
+ "gemini-3.8-flash:02444f39c67c06a11571": {
+  "transcripts": [
+   "Rocco thinks a slow reach means a weak hand. Try it. Wait a few seconds before you bet."
+  ]
+ },
+ "gemini-3.8-flash:897a610eaaea5a0edb02": {
+  "transcripts": [
+   "Try waiting next time."
+  ]
+ },
+ "gemini-3.8-flash:4bcec28411666664265a": {
+  "transcripts": [
+   "He learns, mix it up"
+  ]
+ },
+ "gemini-3.8-flash:748f9a571dd5845792e1": {
+  "transcripts": [
+   "No rush."
+  ]
+ },
+ "gemini-3.8-flash:8e570b42540b8ac918e6": {
+  "transcripts": [
+   "I've got all night."
+  ]
+ },
+ "gemini-3.8-flash:17568ccb8eb8d0b77307": {
+  "transcripts": [
+   "Still deciding? Fine."
+  ]
+ },
+ "gemini-3.8-flash:5bba2f56e0ceb416f2cf": {
+  "transcripts": [
+   "My coffee's getting cold."
+  ]
+ },
+ "gemini-3.8-flash:23eea6480189ae6aa2bf": {
+  "transcripts": [
+   "I've aged a little here."
+  ]
+ },
+ "gemini-3.8-flash:89430f71f38326da4c72": {
+  "transcripts": [
+   "Still the same two cards."
+  ]
+ },
+ "gemini-3.8-flash:c4e4890a154b7b4b030a": {
+  "transcripts": [
+   "Second look, I saw"
+  ]
+ },
+ "gemini-3.8-flash:7954e8ac76b999487375": {
+  "transcripts": [
+   "Go on then."
+  ]
+ },
+ "gemini-3.8-flash:83fc2d0cab4220749da9": {
+  "transcripts": [
+   "There's the reach."
+  ]
+ },
+ "gemini-3.8-flash:07e615fe4170805c4758": {
+  "transcripts": [
+   "And came back. Hm.",
+   "and came back. Hm."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:ce27079e437c43a400a8": {
+  "transcripts": [
+   "Second thoughts."
+  ]
+ },
+ "gemini-3.8-flash:92b9192a76cfb423a413": {
+  "transcripts": [
+   "They don't get lighter."
+  ]
+ },
+ "gemini-3.8-flash:d09bc014f576d6d2c7ed": {
+  "transcripts": [
+   "Weighing it, huh?"
+  ]
+ },
+ "gemini-3.8-flash:675562415335c918bcbb": {
+  "transcripts": [
+   "Back in the stack."
+  ]
+ },
+ "gemini-3.8-flash:d819b5742dcd371c96f9": {
+  "transcripts": [
+   "Changed your mind?"
+  ]
+ },
+ "gemini-3.8-flash:f1cb48049a81f797ba77": {
+  "transcripts": [
+   "Folding is a choice, too."
+  ]
+ },
+ "gemini-3.8-flash:b78ea92794ec1bd3a038": {
+  "transcripts": [
+   "Cards looking tired"
+  ]
+ },
+ "gemini-3.8-flash:b291e0981b0f86d9f95f": {
+  "transcripts": [
+   "Seen enough, kid?"
+  ]
+ },
+ "gemini-3.8-flash:77cabc74a1ea3e343776": {
+  "transcripts": [
+   "Look all you like."
+  ]
+ },
+ "gemini-3.8-flash:cd18690a864225df29ab": {
+  "transcripts": [
+   "Old tricks still work."
+  ]
+ },
+ "gemini-3.8-flash:ff4fca90e8e0427593df": {
+  "transcripts": [
+   "Hm. You got me."
+  ]
+ },
+ "gemini-3.8-flash:2fef1dd4fcfb0658c535": {
+  "transcripts": [
+   "Take your time."
+  ]
+ },
+ "gemini-3.8-flash:a15d0987b57f456174ea": {
+  "transcripts": [
+   "Action is still on you."
+  ]
+ },
+ "gemini-3.8-flash:ef65a19d0398a67fbdf0": {
+  "transcripts": [
+   "No rush. Your call."
+  ]
+ },
+ "gemini-3.8-flash:9af9d603b045749eb843": {
+  "transcripts": [
+   "It's Silas's turn."
+  ]
+ },
+ "gemini-3.8-flash:7433328f4b4c5ff3a1d4": {
+  "transcripts": [
+   "Silas has"
+  ]
+ },
+ "gemini-3.8-flash:8853002f8d108bd2d1e7": {
+  "transcripts": [
+   "It's Silas's turn."
+  ]
+ },
+ "gemini-3.8-flash:0c364fa8a2f2d2d82a03": {
+  "transcripts": [
+   "Silas has"
+  ]
+ },
+ "gemini-3.8-flash:f730accdb610ff7f98e1": {
+  "transcripts": [
+   "It's Silas's turn."
+  ]
+ },
+ "gemini-3.8-flash:5703293dd0c8c834102d": {
+  "transcripts": [
+   "Silas has"
+  ]
+ },
+ "gemini-3.8-flash:ccb96a83a70323a526cc": {
+  "transcripts": [
+   "Yes."
+  ]
+ },
+ "gemini-3.8-flash:706a817ddac7c5b48d3c": {
+  "transcripts": [
+   "Sorry, I didn't catch that."
+  ]
+ },
+ "gemini-3.8-flash:24755f30c1ee496eb339": {
+  "transcripts": [
+   "Could you repeat that, please?"
+  ]
+ },
+ "gemini-3.8-flash:4530669ed1907b7431a3": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:576688d1708ef8bc1c94": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:50250847e95e11fcf755": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:226954f6312fad7259cb": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:f24ce2e97e1ca784af7d": {
+  "transcripts": [
+   "Pip has"
+  ]
+ },
+ "gemini-3.8-flash:045d5b4dfcd07035df7a": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:a736cd69b0c1a6695a2d": {
+  "transcripts": [
+   "Morocco has",
+   "Morocco has"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:ebe3a066457018eb3f17": {
+  "transcripts": [
+   "It's Vex's turn."
+  ]
+ },
+ "gemini-3.8-flash:08eecabefeedd5f54570": {
+  "transcripts": [
+   "Vex has"
+  ]
+ },
+ "gemini-3.8-flash:403ee612cf0bdfff0564": {
+  "transcripts": [
+   "It's Silas's turn."
+  ]
+ },
+ "gemini-3.8-flash:b2e2003d5554989c56c7": {
+  "transcripts": [
+   "The pot is"
+  ]
+ },
+ "gemini-3.8-flash:0330863c11f8d69664cb": {
+  "transcripts": [
+   "Silas has"
+  ]
+ },
+ "gemini-3.8-flash:89b7243aa13c7dc35d8b": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:1a65c91994bca2008aa3": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:e52c8ec5734a9e67a02c": {
+  "transcripts": [
+   "And"
+  ]
+ },
+ "gemini-3.8-flash:313244a06a34e6efa6b1": {
+  "transcripts": [
+   "Blinds are"
+  ]
+ },
+ "gemini-3.8-flash:5656ef1a1f23b4c3d1e6": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:a9fd891ea2142f439937": {
+  "transcripts": [
+   "Go on."
+  ]
+ },
+ "gemini-3.8-flash:bc5467c9d50d4a281d55": {
+  "transcripts": [
+   "Didn't catch that, kid."
+  ]
+ },
+ "gemini-3.8-flash:cc5ad65060ad35633d82": {
+  "transcripts": [
+   "Once more, slower."
+  ]
+ },
+ "gemini-3.8-flash:ced029b56ab48abf6d02": {
+  "transcripts": [
+   "Nothing to call? You can check."
+  ]
+ },
+ "gemini-3.8-flash:ab526ea86b9642533424": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:95df0132dea99d3ee566": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:5ef18902de57f76c16c6": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:6a4db677aed451be92e9": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:f44e4ed1ec59341d1ec5": {
+  "transcripts": [
+   "Hip has",
+   "It has"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:d98b9687afa091577464": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:27a0ac086a431c7efb3c": {
+  "transcripts": [
+   "Morocco has",
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:176f7a1aa56661b9948a": {
+  "transcripts": [
+   "It's Vax's turn.",
+   "It's Vax's turn."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:7ecc870b12f91360c065": {
+  "transcripts": [
+   "Beck's has",
+   "Beck's has"
+  ]
+ },
+ "gemini-3.8-flash:219687e59754aea1d5a8": {
+  "transcripts": [
+   "The part is",
+   "The part is"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:1c8b71b8b46a816a59b4": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:9a963bfba652ef67ea1c": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:72744dfdaf158d1c38b5": {
+  "transcripts": [
+   "Blinds are"
+  ]
+ },
+ "gemini-3.8-flash:55e740ef555f677547d4": {
+  "transcripts": [
+   "and"
+  ]
+ },
+ "gemini-3.8-flash:94b7c237299203508964": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:a9890050aefa27aa2845": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:637586231302c5d9f913": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:ea289aeafde8ad84cd7d": {
+  "transcripts": [
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:9500e930a914ad31dab7": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:c196a6988f1a00820fb5": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:b8267f9eeb322b54c137": {
+  "transcripts": [
+   "Five."
+  ]
+ },
+ "gemini-3.8-flash:5fe8b220286ff04e0371": {
+  "transcripts": [
+   "Four"
+  ]
+ },
+ "gemini-3.8-flash:84305f969daf385d0bab": {
+  "transcripts": [
+   "Six"
+  ]
+ },
+ "gemini-3.8-flash:e3cac7f60b4cbe634306": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:d8fb97e70d22b3b8c718": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:8a08762e24965e74567c": {
+  "transcripts": [
+   "Ten."
+  ]
+ },
+ "gemini-3.8-flash:3952439f2024dadb751b": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:eb37c905f7c9adbc77c2": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:77ee30d325f644fb2673": {
+  "transcripts": [
+   "Twelve."
+  ]
+ },
+ "gemini-3.8-flash:5bfb8cbc024bdb34cff4": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:730d2a3d99d96ceadb7d": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:79e9ecf77353454378bd": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:2d6634a12e611d093cf8": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:e161d39080bc9df77f47": {
+  "transcripts": [
+   "17."
+  ]
+ },
+ "gemini-3.8-flash:58e6c8bbe253073c3729": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:7dfea457e824cb7d02e3": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:9ed1e10e29847b5b8dec": {
+  "transcripts": [
+   "twenty"
+  ]
+ },
+ "gemini-3.8-flash:13714bc6ab3e2ad4e5ef": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:4f58e0369fd11b20ed3b": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:6f74d3e4e541a5340c70": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:55a077310782c38c6d2c": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:f84206764a554205956c": {
+  "transcripts": [
+   "Eighty"
+  ]
+ },
+ "gemini-3.8-flash:2e3b9a6d006bccc165e5": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:5c16e92ba41f5b68185b": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:12e6f5eaf3bb72024716": {
+  "transcripts": [
+   "hundred"
+  ]
+ },
+ "gemini-3.8-flash:df80036f132fe3ae6bc9": {
+  "transcripts": [
+   "thousand."
+  ]
+ },
+ "gemini-3.8-flash:151f6d052f31ca914715": {
+  "transcripts": [
+   "million"
+  ]
+ },
+ "gemini-3.8-flash:64935bdd8da440c05327": {
+  "transcripts": [
+   "percent"
+  ]
+ },
+ "gemini-3.8-flash:6db527f7dc330341e6d8": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:f9c7f5143cee72844eb2": {
+  "transcripts": [
+   "One"
+  ]
+ },
+ "gemini-3.8-flash:cf8543c63e3156e25de5": {
+  "transcripts": [
+   "Two"
+  ]
+ },
+ "gemini-3.8-flash:515f13f20f06f6c02b82": {
+  "transcripts": [
+   "Three"
+  ]
+ },
+ "gemini-3.8-flash:3995cde87521bb763c7b": {
+  "transcripts": [
+   "four"
+  ]
+ },
+ "gemini-3.8-flash:055c74b2a3199e0efd71": {
+  "transcripts": [
+   "Five."
+  ]
+ },
+ "gemini-3.8-flash:9874b60770477abe183e": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:ee450a9f9404c6999b56": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:184ad57cfb2fda078df9": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:7c893664355070fce3e9": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:e6c7e22903c21590555b": {
+  "transcripts": [
+   "Ten"
+  ]
+ },
+ "gemini-3.8-flash:e2c345ccb50baf7f4714": {
+  "transcripts": [
+   "Twelve."
+  ]
+ },
+ "gemini-3.8-flash:863f99ae376a8ecee4e1": {
+  "transcripts": [
+   "Eleven"
+  ]
+ },
+ "gemini-3.8-flash:c88e3d481f633f2d51a4": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:7cef35a7b72fe07157d9": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:942c679ae3d58d701782": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:702b2d1a43fbe70a1f2e": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:f8d7d5ef5300eb2efb49": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:db7616bbc858769a7394": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:6134fd09e334da9fe977": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:7db190a15a2822140875": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:c6aab719b2ad3082413d": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:67e15ea5bfd8f9edf053": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:3dafe55bec68a8d58962": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:a74a35b2116e3b24d6fd": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:7ff5eb7c114f3f31250b": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:11efca9f7dccf3caae19": {
+  "transcripts": [
+   "Eighty."
+  ]
+ },
+ "gemini-3.8-flash:c7dd87ff4f8844d1776b": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:1e96e88b5ed0bd35b2d5": {
+  "transcripts": [
+   "hundred."
+  ]
+ },
+ "gemini-3.8-flash:3d0967d1e37191d52342": {
+  "transcripts": [
+   "million"
+  ]
+ },
+ "gemini-3.8-flash:c6d39f3a442db4c1da3f": {
+  "transcripts": [
+   "thousand."
+  ]
+ },
+ "gemini-3.8-flash:9195d0130dabc55adb59": {
+  "transcripts": [
+   "percent"
+  ]
+ },
+ "gemini-3.8-flash:bf4bcb08cca5da560527": {
+  "transcripts": [
+   "Oh, um, I'll put some in."
+  ]
+ },
+ "gemini-3.8-flash:1f62c6c16de783a360fe": {
+  "transcripts": [
+   "Is this good? I think this is good."
+  ]
+ },
+ "gemini-3.8-flash:9aaf8bd2e8902c73c3cc": {
+  "transcripts": [
+   "Totally normal wager. Nothing to see here."
+  ]
+ },
+ "gemini-3.8-flash:6ca528bdad2ba85e5c21": {
+  "transcripts": [
+   "Why is it so warm in here?"
+  ]
+ },
+ "gemini-3.8-flash:087b25e5bdd4e7910040": {
+  "transcripts": [
+   "Hmm, hmm-hmm-hmm."
+  ]
+ },
+ "gemini-3.8-flash:ca34a95efb8b2d93546c": {
+  "transcripts": [
+   "Wait, what beats what again?"
+  ]
+ },
+ "gemini-3.8-flash:f5d2e97823cb30314721": {
+  "transcripts": [
+   "Nope, not today."
+  ]
+ },
+ "gemini-3.8-flash:293c914afc15f98554ac": {
+  "transcripts": [
+   "I'll just sit this one out."
+  ]
+ },
+ "gemini-3.8-flash:1d159113cad28c6d92fc": {
+  "transcripts": [
+   "Take your time. No pressure. Ha."
+  ]
+ },
+ "gemini-3.8-flash:661df06ad9c33ae542df": {
+  "transcripts": [
+   "Eep, you scared me."
+  ]
+ },
+ "gemini-3.8-flash:8ef0fabe9f195e341505": {
+  "transcripts": [
+   "Whoa, okay, okay."
+  ]
+ },
+ "gemini-3.8-flash:8f45b4210ec6ff58fcc5": {
+  "transcripts": [
+   "That's a lot of chips."
+  ]
+ },
+ "gemini-3.8-flash:4a5de4ba53919856eb68": {
+  "transcripts": [
+   "Why are you looking at me?"
+  ]
+ },
+ "gemini-3.8-flash:f797c207117ec416510b": {
+  "transcripts": [
+   "Stop it, I can feel you staring."
+  ]
+ },
+ "gemini-3.8-flash:14321a4d3627340f6aac": {
+  "transcripts": [
+   "Oh, oh, I mean, okay."
+  ]
+ },
+ "gemini-3.8-flash:3b31f256e735cf104e83": {
+  "transcripts": [
+   "Aw, come on, cards."
+  ]
+ },
+ "gemini-3.8-flash:7703ce8de9115556de01": {
+  "transcripts": [
+   "I won? I actually won."
+  ]
+ },
+ "gemini-3.8-flash:e16258e3491ad12258a9": {
+  "transcripts": [
+   "Beginner's luck, maybe?"
+  ]
+ },
+ "gemini-3.8-flash:b4065413d3682a1ea2f6": {
+  "transcripts": [
+   "Okay, learning experience."
+  ]
+ },
+ "gemini-3.8-flash:cc929e15271ecc215568": {
+  "transcripts": [
+   "I'll get the hang of this."
+  ]
+ },
+ "gemini-3.8-flash:974f4d88ab5ae86f6df5": {
+  "transcripts": [
+   "Oh, um, take your time."
+  ]
+ },
+ "gemini-3.8-flash:24e7a047f560c4ecffb2": {
+  "transcripts": [
+   "Is it hard? It looks hard."
+  ]
+ },
+ "gemini-3.8-flash:21dc0e5ec371098779b2": {
+  "transcripts": [
+   "I'd be thinking, too"
+  ]
+ },
+ "gemini-3.8-flash:7253746beb3cfcacfb86": {
+  "transcripts": [
+   "lung thing, is that bad for me?",
+   "Long think, is that bad for me?"
+  ]
+ },
+ "gemini-3.8-flash:337f08fa398a4c5015fc": {
+  "transcripts": [
+   "Should I get snacks?"
+  ]
+ },
+ "gemini-3.8-flash:c77dca987fab43fe24b2": {
+  "transcripts": [
+   "I'm so nervous right now."
+  ]
+ },
+ "gemini-3.8-flash:b7a6ac3b08307c3eb388": {
+  "transcripts": [
+   "Do they change? Mine never do.",
+   "Do they change? Mine never do."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:5f9167ef80b2b1d4f6a3": {
+  "transcripts": [
+   "You checked again. Is that good?"
+  ]
+ },
+ "gemini-3.8-flash:f8b847cec1c3d08c16a4": {
+  "transcripts": [
+   "Oh no, here it comes."
+  ]
+ },
+ "gemini-3.8-flash:401f36678d2a5ea61908": {
+  "transcripts": [
+   "Wait, you're betting?"
+  ]
+ },
+ "gemini-3.8-flash:8d97902fdb94139d848b": {
+  "transcripts": [
+   "Oh, thank goodness."
+  ]
+ },
+ "gemini-3.8-flash:a3fe935473999af98f6d": {
+  "transcripts": [
+   "Shoo. Wait, you're not",
+   "Shoot! Wait, you're not"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:b1669181be606534ab3f": {
+  "transcripts": [
+   "How much are you thinking?",
+   "How much are you thinking?"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:ce4dde9c717a9455d717": {
+  "transcripts": [
+   "That's a lot of chips, right?"
+  ]
+ },
+ "gemini-3.8-flash:db53efc50409ce7ced27": {
+  "transcripts": [
+   "You put them back. Phew!"
+  ]
+ },
+ "gemini-3.8-flash:1feab3f11d9f01cabf88": {
+  "transcripts": [
+   "Not bad then? Okay, okay, good.",
+   "Not betting? Okay, okay good."
+  ]
+ },
+ "gemini-3.8-flash:4f6ed1138c86b5f5b5d3": {
+  "transcripts": [
+   "Are you folding? I won't tell."
+  ]
+ },
+ "gemini-3.8-flash:5c55f3264bb9fc374a21": {
+  "transcripts": [
+   "Oh, are you out?"
+  ]
+ },
+ "gemini-3.8-flash:58be2e102a99258dffcd": {
+  "transcripts": [
+   "I didn't do anything."
+  ]
+ },
+ "gemini-3.8-flash:02d03d4c690bdca409d6": {
+  "transcripts": [
+   "I, um, kind of saw that coming."
+  ]
+ },
+ "gemini-3.8-flash:d9b604bfe8cea3fc43d8": {
+  "transcripts": [
+   "You tricked me."
+  ]
+ },
+ "gemini-3.8-flash:de35eb682f78575c551e": {
+  "transcripts": [
+   "Mm-hmm?"
+  ]
+ },
+ "gemini-3.8-flash:a0c9998dfabbd8751755": {
+  "transcripts": [
+   "Um, sorry, I didn't catch that."
+  ]
+ },
+ "gemini-3.8-flash:75236abbcf80f68c5058": {
+  "transcripts": [
+   "Oh gosh, could you say that again?"
+  ]
+ },
+ "gemini-3.8-flash:4d483b036a290469f250": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:3c5ad31ad4eaf14f6e45": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:d52770c243fe62642963": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:d64ca8f351be6b7f5556": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:39c91debed0d5deaede0": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:d3c365915a6d7634feea": {
+  "transcripts": [
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:ccb2700412975d6223b9": {
+  "transcripts": [
+   "It's Vex's turn."
+  ]
+ },
+ "gemini-3.8-flash:5fbce767c4f3193052a3": {
+  "transcripts": [
+   "Vexes",
+   "vexes"
+  ],
+  "judge": {
+   "match": false,
+   "differences": "Speaker says 'Vex's' (or 'vexes') instead of 'Vex has'"
+  }
+ },
+ "gemini-3.8-flash:ebeaade88f4331f38eae": {
+  "transcripts": [
+   "It's Silas's turn."
+  ]
+ },
+ "gemini-3.8-flash:6aa5f01f66428fca851a": {
+  "transcripts": [
+   "silence has",
+   "Silence has"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:3b36da91bc5ef120fc9b": {
+  "transcripts": [
+   "The pot is"
+  ]
+ },
+ "gemini-3.8-flash:32fef2e3f8b2ef76ef74": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:c49320c235154f697132": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:25e5cec432f8d4a57a2a": {
+  "transcripts": [
+   "blinds are"
+  ]
+ },
+ "gemini-3.8-flash:191d7f3f1d5302f45d3b": {
+  "transcripts": [
+   "And"
+  ]
+ },
+ "gemini-3.8-flash:d34a12d90d946f0e43e1": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:b9718a2b05a792eedd90": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:5e0f08583a9c43e4277f": {
+  "transcripts": [
+   "zero."
+  ]
+ },
+ "gemini-3.8-flash:4f50d506ed839b03862b": {
+  "transcripts": [
+   "He says that",
+   "and was like,"
+  ]
+ },
+ "gemini-3.8-flash:607dadf1b298417e960e": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:232479a514d36d423e9e": {
+  "transcripts": [
+   "three"
+  ]
+ },
+ "gemini-3.8-flash:54f7d72c2275112e6984": {
+  "transcripts": [
+   "Four."
+  ]
+ },
+ "gemini-3.8-flash:021ebcdcf2a04f4564b0": {
+  "transcripts": [
+   "five"
+  ]
+ },
+ "gemini-3.8-flash:a302d568e12a667a60ad": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:d4afa2cf66835b047538": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:a53af57ea312a62428b4": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:a89dd55d8111c8a308e5": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:4e294425d63ef498bdd5": {
+  "transcripts": [
+   "Send a",
+   "send"
+  ],
+  "judge": {
+   "match": false,
+   "differences": "The speaker says \"send\" instead of \"ten\"."
+  }
+ },
+ "gemini-3.8-flash:76c3d5ba837f9b2d789e": {
+  "transcripts": [
+   "Eleven."
+  ]
+ },
+ "gemini-3.8-flash:61825415a87890e168a0": {
+  "transcripts": [
+   "twelve"
+  ]
+ },
+ "gemini-3.8-flash:dbfd3c164c5fcecfa06d": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:59b09aa1bca529e8aa7a": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:f5a91d7a765caa89b951": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:8449d0630e747b6e6778": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:761889470b7ce38ba071": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:e630955691d6fa6c0082": {
+  "transcripts": [
+   "Eighteen."
+  ]
+ },
+ "gemini-3.8-flash:44e64287c49f176706ab": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:ae8007836c4d36e0a735": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:94d3c9ca618a516e181a": {
+  "transcripts": [
+   "thirty"
+  ]
+ },
+ "gemini-3.8-flash:4b02a398640d2e7aba03": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:63580f578280d43c06cf": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:9fa4881b68647cb8db54": {
+  "transcripts": [
+   "sixty."
+  ]
+ },
+ "gemini-3.8-flash:8a80a3512f970648cec9": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:6a679f0b40b203f8585e": {
+  "transcripts": [
+   "Eighty."
+  ]
+ },
+ "gemini-3.8-flash:2e6486c4855b492607ee": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:342064312592acfdc84d": {
+  "transcripts": [
+   "hundred"
+  ]
+ },
+ "gemini-3.8-flash:5ba754c1d0ef7ca43a27": {
+  "transcripts": [
+   "thousand"
+  ]
+ },
+ "gemini-3.8-flash:e813264150a2a3b76c70": {
+  "transcripts": [
+   "million"
+  ]
+ },
+ "gemini-3.8-flash:c322cf86e095081d547b": {
+  "transcripts": [
+   "percent"
+  ]
+ },
+ "gemini-3.8-flash:58bd1af2894211fbedf4": {
+  "transcripts": [
+   "Bet."
+  ]
+ },
+ "gemini-3.8-flash:378abb3054b54e899d27": {
+  "transcripts": [
+   "Your move."
+  ]
+ },
+ "gemini-3.8-flash:cbd9b8308a008b104cf5": {
+  "transcripts": [
+   "Let's make it interesting."
+  ]
+ },
+ "gemini-3.8-flash:90a98dfcd1509f1ab6dd": {
+  "transcripts": [
+   "I've decided"
+  ]
+ },
+ "gemini-3.8-flash:52e351ec24fd913ea2f9": {
+  "transcripts": [
+   "Interesting."
+  ]
+ },
+ "gemini-3.8-flash:b7d99ddb37e9ceaa7b9d": {
+  "transcripts": [
+   "Not worth it."
+  ]
+ },
+ "gemini-3.8-flash:e43cae626f6eda24a667": {
+  "transcripts": [
+   "Pass."
+  ]
+ },
+ "gemini-3.8-flash:bebe156b8e0364af1547": {
+  "transcripts": [
+   "Take all the time you need."
+  ]
+ },
+ "gemini-3.8-flash:2aabb8853768f406835c": {
+  "transcripts": [
+   "Doubt is expensive."
+  ]
+ },
+ "gemini-3.8-flash:193bf9864be92b84b73a": {
+  "transcripts": [
+   "Noted."
+  ]
+ },
+ "gemini-3.8-flash:795ffb6f4d1829404c91": {
+  "transcripts": [
+   "Careful."
+  ]
+ },
+ "gemini-3.8-flash:655fcd4b97fa1e32e245": {
+  "transcripts": [
+   "Is that supposed to scare me?"
+  ]
+ },
+ "gemini-3.8-flash:f745478ec1db2d07e11b": {
+  "transcripts": [
+   "Find anything?"
+  ]
+ },
+ "gemini-3.8-flash:79174fef1c2cf69971da": {
+  "transcripts": [
+   "Keep looking."
+  ]
+ },
+ "gemini-3.8-flash:769c909a2d533adb769a": {
+  "transcripts": [
+   "Good."
+  ]
+ },
+ "gemini-3.8-flash:d46f9d9bd5d3809691b0": {
+  "transcripts": [
+   "Mm."
+  ]
+ },
+ "gemini-3.8-flash:e298d28864f492d30df3": {
+  "transcripts": [
+   "As expected."
+  ]
+ },
+ "gemini-3.8-flash:60d0ff02a695765b4f2d": {
+  "transcripts": [
+   "this time"
+  ]
+ },
+ "gemini-3.8-flash:387f14be482a54515320": {
+  "transcripts": [
+   "Seven seconds."
+  ]
+ },
+ "gemini-3.8-flash:7437b9ccd5d11f012c6f": {
+  "transcripts": [
+   "Twelve seconds, noted."
+  ]
+ },
+ "gemini-3.8-flash:e93514a0e90304258727": {
+  "transcripts": [
+   "Decide"
+  ]
+ },
+ "gemini-3.8-flash:59edb8b8f254f8347d32": {
+  "transcripts": [
+   "Checking again? Hm."
+  ]
+ },
+ "gemini-3.8-flash:c64cbe6d20cf95e50ade": {
+  "transcripts": [
+   "Twice now,"
+  ]
+ },
+ "gemini-3.8-flash:43cfd8faff7b24bd3466": {
+  "transcripts": [
+   "Go on."
+  ]
+ },
+ "gemini-3.8-flash:632adbfe0d594fc10673": {
+  "transcripts": [
+   "Hmm, interested."
+  ]
+ },
+ "gemini-3.8-flash:e3b2905b169ffd405ca8": {
+  "transcripts": [
+   "Hesitation noted."
+  ]
+ },
+ "gemini-3.8-flash:cd38400a4f5d13c0dbfb": {
+  "transcripts": [
+   "You flinched."
+  ]
+ },
+ "gemini-3.8-flash:f04f8d3c52352bcd18e4": {
+  "transcripts": [
+   "heavy decision"
+  ]
+ },
+ "gemini-3.8-flash:74027f8dc742ddb07077": {
+  "transcripts": [
+   "Count them twice"
+  ]
+ },
+ "gemini-3.8-flash:9dcc975615a63e8a8597": {
+  "transcripts": [
+   "Back in the stack. Mhm."
+  ]
+ },
+ "gemini-3.8-flash:185f572993533e22def7": {
+  "transcripts": [
+   "Your cards won't save you"
+  ]
+ },
+ "gemini-3.8-flash:1dccf2df89393618befd": {
+  "transcripts": [
+   "Fold then"
+  ]
+ },
+ "gemini-3.8-flash:e4284e6e098d3d0c26c3": {
+  "transcripts": [
+   "readable"
+  ]
+ },
+ "gemini-3.8-flash:aa9cdc73eb919b9c1343": {
+  "transcripts": [
+   "Clever once"
+  ]
+ },
+ "gemini-3.8-flash:64839dda5be3240f253a": {
+  "transcripts": [
+   "Say again."
+  ]
+ },
+ "gemini-3.8-flash:95489717f3031dec9b37": {
+  "transcripts": [
+   "Nothing to call, you can check."
+  ]
+ },
+ "gemini-3.8-flash:f7d1dd4f36b53f70a47e": {
+  "transcripts": [
+   "Nobody's up right now."
+  ]
+ },
+ "gemini-3.8-flash:fe33d372b1ad203ad920": {
+  "transcripts": [
+   "It's your turn."
+  ]
+ },
+ "gemini-3.8-flash:f56818a6f3f3c0471ff5": {
+  "transcripts": [
+   "It's my turn."
+  ]
+ },
+ "gemini-3.8-flash:26ffa4e64c173ce1ebb5": {
+  "transcripts": [
+   "Pip has"
+  ]
+ },
+ "gemini-3.8-flash:53548b70dde5184d4091": {
+  "transcripts": [
+   "It's Pip's turn."
+  ]
+ },
+ "gemini-3.8-flash:a4c87f8a7919408850eb": {
+  "transcripts": [
+   "It's Rocco's turn."
+  ]
+ },
+ "gemini-3.8-flash:18a16d77961f65305f8f": {
+  "transcripts": [
+   "Rocco has"
+  ]
+ },
+ "gemini-3.8-flash:395a1cf16ee0e169ee2f": {
+  "transcripts": [
+   "Silas has"
+  ]
+ },
+ "gemini-3.8-flash:bc32a7e38af2ea5d4fd6": {
+  "transcripts": [
+   "It's Silas's turn."
+  ]
+ },
+ "gemini-3.8-flash:c12028dde3fa03a83285": {
+  "transcripts": [
+   "You need"
+  ]
+ },
+ "gemini-3.8-flash:e508dc346ac21942d2b7": {
+  "transcripts": [
+   "The pod is",
+   "The pot is"
+  ]
+ },
+ "gemini-3.8-flash:8e79c7abd4c08830b637": {
+  "transcripts": [
+   "to call"
+  ]
+ },
+ "gemini-3.8-flash:5d9a124446101fb392df": {
+  "transcripts": [
+   "Blinds are"
+  ]
+ },
+ "gemini-3.8-flash:8fded8019b06ceff8f7d": {
+  "transcripts": [
+   "And"
+  ]
+ },
+ "gemini-3.8-flash:3c47b99db85ce9959486": {
+  "transcripts": [
+   "You have"
+  ]
+ },
+ "gemini-3.8-flash:7cdae5b1b830487a2074": {
+  "transcripts": [
+   "I have"
+  ]
+ },
+ "gemini-3.8-flash:f7eea2837e9eef1e5a62": {
+  "transcripts": [
+   "Zero."
+  ]
+ },
+ "gemini-3.8-flash:36a3c35560b3b014518b": {
+  "transcripts": [
+   "three",
+   "You get angry."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:2a0eb83504243b164f94": {
+  "transcripts": [
+   "You tell me.",
+   "the head"
+  ]
+ },
+ "gemini-3.8-flash:b04e899d0793d0192771": {
+  "transcripts": [
+   "Three."
+  ]
+ },
+ "gemini-3.8-flash:6bd7b68510a20958e28f": {
+  "transcripts": [
+   "Four."
+  ]
+ },
+ "gemini-3.8-flash:512fbbebad6cacdd0b0c": {
+  "transcripts": [
+   "Five."
+  ]
+ },
+ "gemini-3.8-flash:30c4f21ba05da9d697c3": {
+  "transcripts": [
+   "Six."
+  ]
+ },
+ "gemini-3.8-flash:d54ec7dfb1c9a399d502": {
+  "transcripts": [
+   "Seven."
+  ]
+ },
+ "gemini-3.8-flash:66ad82c110ffd9c8b9c7": {
+  "transcripts": [
+   "Eight."
+  ]
+ },
+ "gemini-3.8-flash:d741e0b6f717ddee3482": {
+  "transcripts": [
+   "Nine."
+  ]
+ },
+ "gemini-3.8-flash:25c6c44dea4d4fd4a076": {
+  "transcripts": [
+   "Then,",
+   "Ten, hmm."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:7c802319339efafb2d5d": {
+  "transcripts": [
+   "eleven"
+  ]
+ },
+ "gemini-3.8-flash:e9c8680e82dcf34d8406": {
+  "transcripts": [
+   "Twelve"
+  ]
+ },
+ "gemini-3.8-flash:67c02384e34e77f77b58": {
+  "transcripts": [
+   "Thirteen."
+  ]
+ },
+ "gemini-3.8-flash:bb527cba008da765e862": {
+  "transcripts": [
+   "Fourteen."
+  ]
+ },
+ "gemini-3.8-flash:2c90911888ae5017bee9": {
+  "transcripts": [
+   "Fifteen."
+  ]
+ },
+ "gemini-3.8-flash:def52178a55f65c2096d": {
+  "transcripts": [
+   "Sixteen."
+  ]
+ },
+ "gemini-3.8-flash:d9d71859df20508aa56c": {
+  "transcripts": [
+   "Seventeen."
+  ]
+ },
+ "gemini-3.8-flash:abf2e0d558834bb22113": {
+  "transcripts": [
+   "18."
+  ]
+ },
+ "gemini-3.8-flash:c0fadfadc45ca1334aec": {
+  "transcripts": [
+   "Nineteen."
+  ]
+ },
+ "gemini-3.8-flash:c6b0900e70b9fa984a66": {
+  "transcripts": [
+   "Twenty."
+  ]
+ },
+ "gemini-3.8-flash:8709557fc8b00a9d61ca": {
+  "transcripts": [
+   "Thirty."
+  ]
+ },
+ "gemini-3.8-flash:bdc2a42be833d12d11c9": {
+  "transcripts": [
+   "Forty."
+  ]
+ },
+ "gemini-3.8-flash:5fe1f4a9fe34d816b9e8": {
+  "transcripts": [
+   "Fifty."
+  ]
+ },
+ "gemini-3.8-flash:c49f33667220554e7e37": {
+  "transcripts": [
+   "Sixty."
+  ]
+ },
+ "gemini-3.8-flash:77c0e4743d26b1f29a38": {
+  "transcripts": [
+   "Seventy."
+  ]
+ },
+ "gemini-3.8-flash:1209779c913a935bbc8a": {
+  "transcripts": [
+   "eighty."
+  ]
+ },
+ "gemini-3.8-flash:f907ff21215af2f4a51b": {
+  "transcripts": [
+   "Ninety."
+  ]
+ },
+ "gemini-3.8-flash:e48b43eab895fd8e4470": {
+  "transcripts": [
+   "hundred."
+  ]
+ },
+ "gemini-3.8-flash:c1a4e6b9b270165c99ea": {
+  "transcripts": [
+   "thousand"
+  ]
+ },
+ "gemini-3.8-flash:4a900a2822205ea94845": {
+  "transcripts": [
+   "million"
+  ]
+ },
+ "gemini-3.8-flash:276bd092a5be12fc8866": {
+  "transcripts": [
+   "percent"
+  ]
+ },
+ "gemini-3.8-flash:21c5247dd9e2e51a200c": {
+  "transcripts": [
+   "your girlfriend",
+   "your girlfriend"
+  ]
+ },
+ "gemini-3.8-flash:8254e60c56197f4f770a": {
+  "transcripts": [
+   "Vax has",
+   "That's his"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:e1fc737c8b9c93700475": {
+  "transcripts": [
+   "million."
+  ]
+ },
+ "gemini-3.8-flash:d06603c77f98e21105ed": {
+  "transcripts": [
+   "One."
+  ]
+ },
+ "gemini-3.8-flash:e15ff161fc3ef87484e3": {
+  "transcripts": [
+   "Next is",
+   "Vexes"
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ },
+ "gemini-3.8-flash:d1925993ff27a080100a": {
+  "transcripts": [
+   "Hesitation noted."
+  ]
+ },
+ "gemini-3.8-flash:ff01fe60c9f724a5b95d": {
+  "transcripts": [
+   "Denn",
+   "Ten"
+  ]
+ },
+ "gemini-3.8-flash:d26730fb38cd49e9167b": {
+  "transcripts": [
+   "Two."
+  ]
+ },
+ "gemini-3.8-flash:bd5012a285bc70a07a42": {
+  "transcripts": [
+   "your call, friend."
+  ]
+ },
+ "gemini-3.8-flash:7935b52ef33beff95d85": {
+  "transcripts": [
+   "Pot goes to Silas."
+  ]
+ },
+ "gemini-3.8-flash:7d4eebe3c4e5b8bb4a5b": {
+  "transcripts": [
+   "Side Pocket Silas.",
+   "Sigh, part of the silence."
+  ],
+  "judge": {
+   "match": true,
+   "differences": ""
+  }
+ }
+}

@@ -1,0 +1,20 @@
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+23:17:42 | INFO: Data are loaded, start creating Blender stuff
+23:17:42 | INFO: Blender create Mesh node meshes[0]
+23:17:42 | INFO: glTF import finished in 0.12s
+/Users/laichanean/WebstormProject/vr-poker/docs/concept/2026-10-28/dealer-3d/compare.py:15: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  sc.world = bpy.data.worlds.new('w'); sc.world.use_nodes = True
+00:01.244  render           | Saved: 'dealer-3d/dealer-decimate-compare_0a.png'
+00:01.668  render           | Saved: 'dealer-3d/dealer-decimate-compare_0b.png'
+23:17:43 | INFO: Data are loaded, start creating Blender stuff
+23:17:43 | INFO: Blender create Mesh node meshes[0]
+23:17:43 | INFO: glTF import finished in 0.04s
+00:02.179  render           | Saved: 'dealer-3d/dealer-decimate-compare_1a.png'
+00:02.623  render           | Saved: 'dealer-3d/dealer-decimate-compare_1b.png'
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

@@ -1,0 +1,24 @@
+{
+    "name": "Poker.Editor",
+    "rootNamespace": "Poker.Editor",
+    "references": [
+        "Poker.Runtime",
+        "Poker.Gestures",
+        "Poker.Game",
+        "Poker.Characters",
+        "Poker.AI",
+        "Oculus.VR",
+        "Oculus.Interaction",
+        "Oculus.Interaction.OVR",
+        "meta.xr.mrutilitykit"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

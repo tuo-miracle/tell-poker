@@ -1,0 +1,30 @@
+{
+    "name": "Poker.Tests.UX",
+    "rootNamespace": "Poker.Tests.UX",
+    "references": [
+        "Poker.UX",
+        "Poker.Voice",
+        "Poker.Core",
+        "Poker.Game",
+        "Poker.Runtime",
+        "Poker.Gestures",
+        "Poker.Characters",
+        "Oculus.VR",
+        "Oculus.Interaction",
+        "Poker.Tests.HandsKit",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

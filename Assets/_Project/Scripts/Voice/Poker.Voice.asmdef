@@ -1,0 +1,19 @@
+{
+    "name": "Poker.Voice",
+    "rootNamespace": "Poker.Voice",
+    "references": [
+        "Poker.Core",
+        "Poker.AI",
+        "Poker.Game",
+        "Poker.Characters"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+08:53:09 | INFO: Data are loaded, start creating Blender stuff
+08:53:09 | INFO: Blender create Mesh node meshes[0]
+08:53:09 | INFO: glTF import finished in 0.13s
+DEC drop helper mesh Icosphere 80
+DEC weld 27551 -> 24379
+DEC face verts 1222 face tris before 2333
+DEC tris before 48758
+DEC ratio 0.2461 tris after 12002
+DEC face tris after 2334
+DEC after: boundary edges 30 non-manifold 60
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+08:53:11 | INFO: Starting glTF 2.0 export
+08:53:11 | INFO: Extracting primitive: meshes[0]
+08:53:11 | INFO: Primitives created: 1
+08:53:11 | WARNING: There are more than 4 joint vertex influences.The 4 with highest weight will be used (and normalized).
+08:53:11 | INFO: Finished glTF 2.0 export in 0.061469078063964844 s
+
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

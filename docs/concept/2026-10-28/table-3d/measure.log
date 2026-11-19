@@ -1,0 +1,31 @@
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+23:18:37 | INFO: Data are loaded, start creating Blender stuff
+23:18:37 | INFO: Blender create Mesh node meshes[0]
+23:18:37 | INFO: glTF import finished in 0.21s
+MEAS up-facing area 0.3428 m2 at z 0.365-0.370
+MEAS up-facing area 0.1225 m2 at z 0.385-0.390
+MEAS up-facing area 0.0199 m2 at z 0.370-0.375
+MEAS up-facing area 0.0000 m2 at z 0.325-0.330
+MEAS up-facing area 0.0000 m2 at z 0.320-0.325
+MEAS up-facing area 0.0000 m2 at z 0.355-0.360
+MEAS up-facing area 0.0000 m2 at z 0.130-0.135
+MEAS up-facing area 0.0000 m2 at z 0.095-0.100
+MEAS centre up-facing z [0.3689 0.369  0.3691]
+MEAS top profile along X(length) 0.00:0.369 0.02:0.369 0.04:0.369 0.06:0.369 0.08:0.369 0.10:0.369 0.12:0.369 0.14:0.369 0.16:0.369 0.18:0.369 0.20:0.369 0.22:0.369 0.24:0.369 0.26:0.369 0.28:0.369 0.30:0.369 0.32:0.369 0.34:0.369 0.36:0.369 0.38:0.369 0.40:0.369 0.42:0.388 0.44:0.390 0.46:0.390 0.48:0.388 0.50:0.367
+MEAS top profile along Y(width) 0.00:0.369 0.02:0.369 0.04:0.369 0.06:0.369 0.08:0.369 0.10:0.369 0.12:0.369 0.14:0.369 0.16:0.369 0.18:0.369 0.20:0.369 0.22:0.372 0.24:0.374 0.26:0.372 0.28:0.374 0.30:0.372
+MEAS felt z 0.3690 extent x -0.4225..0.4221 y -0.2720..0.3084
+MEAS outline radius at 0 deg: 0.500
+MEAS outline radius at 30 deg: 0.464
+MEAS outline radius at 45 deg: 0.421
+MEAS outline radius at 60 deg: 0.365
+MEAS outline radius at 90 deg: 0.310
+MEAS felt(tight) extent x -0.4216..0.4212 y -0.2595..0.2283 area 0.3410
+MEAS felt y-range at x=0.0: -0.2545..0.2281
+MEAS felt y-range at x=0.2: -0.2236..0.2235
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

@@ -1,0 +1,14 @@
+{
+    "name": "Poker.Characters",
+    "rootNamespace": "Poker.Characters",
+    "references": ["Poker.AI"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

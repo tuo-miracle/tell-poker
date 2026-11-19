@@ -1,0 +1,23 @@
+{
+  "name": "erik",
+  "note": "Tripo 'bearded man'. ~35, red full beard, man bun, Hawaiian shirt. Body skin in front of the mask is kept (cut_poke_marg null): it is the beard volume.",
+  "source_glb": "../../erik-3d/erik-source.glb",
+  "char_glb": "../../erik-3d/erik-12k.glb",
+  "decimate": {"target": 12000, "face": true},
+  "template": {"id": "Male_Adult_16", "tga": "m019_head_color.tga", "normal": "m019_head_normal.tga"},
+  "unity_height_m": 1.83,
+  "concept_png": "../../turnaround-p5-erik.png",
+  "concept_crop": [0.12, 0.03, 0.195, 0.21],
+  "out_dir": "../../erik-3d/wrap",
+  "face_cz": 0.923,
+  "face_size": 0.21,
+  "fit": {"eye_r0": 0.010, "eye_r1": 0.025, "nose_r0": 0.010, "nose_r1": 0.022, "offset_rings": 1.5, "eye_tol2": 1.0,
+          "eye_back0": 0.04, "cut_poke_marg": null, "eye_pin_r": 0.012, "eye_sym": "min", "top_cut": 0.15},
+  "skin_detail": {"k": 0.9, "sigma": 3},
+  "inner": {"mouth_dark": [], "mouth_gain": 1.3},
+  "eye": {"sclera": true, "catchlight": true, "iris": [70, 85, 95], "limbus": [30, 36, 42]},
+  "rig": {"eye_rough": 0.2, "eyelook_lids_only": true, "normal_rings": 3, "lookdown_lid_mm": 3.5,
+          "eye_scale": 0.88, "blink_gain": 1.15, "eye_dx_mm": 1.0, "lid_open_deg": 6, "jaw_inner_lag": 0.25,
+          "basis_keys": {"mouthClose": 0.12}, "basis_keep": ["jawOpen"], "normal_strength": 0.7},
+  "lid": {"mode": "detail", "d_full": 0.6, "d_full1": 0.8, "lid_base": "skin"}
+}

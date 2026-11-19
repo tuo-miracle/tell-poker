@@ -1,0 +1,46 @@
+{
+ "changed_keys_max_mm": {
+  "eyeLookDownLeft": 3.63922119140625,
+  "eyeLookDownRight": 2.7712583541870117
+ },
+ "lid": {
+  "Left": {
+   "rim_verts": 8,
+   "travel_mm_v5_median_max": [
+    1.15,
+    1.8
+   ],
+   "travel_mm_new_median_max": [
+    3.92,
+    4.81
+   ],
+   "drop_z_mm_new": 3.85,
+   "blink_drop_z_mm": 6.27,
+   "rim_radius_mm_basis_key_blink": [
+    10.02,
+    10.17,
+    10.17
+   ],
+   "blink_plus_down_extra_drop_mm": 3.85
+  },
+  "Right": {
+   "rim_verts": 8,
+   "travel_mm_v5_median_max": [
+    1.49,
+    1.92
+   ],
+   "travel_mm_new_median_max": [
+    3.8,
+    4.41
+   ],
+   "drop_z_mm_new": 3.71,
+   "blink_drop_z_mm": 6.64,
+   "rim_radius_mm_basis_key_blink": [
+    9.98,
+    10.17,
+    10.26
+   ],
+   "blink_plus_down_extra_drop_mm": 3.71
+  }
+ }
+}

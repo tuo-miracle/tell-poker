@@ -1,0 +1,87 @@
+{
+ "look": {
+  "level": {
+   "L": {
+    "iris": 0.644,
+    "pupil": 1.0
+   },
+   "R": {
+    "iris": 0.677,
+    "pupil": 1.0
+   }
+  },
+  "up15": {
+   "L": {
+    "iris": 0.411,
+    "pupil": 0.384
+   },
+   "R": {
+    "iris": 0.498,
+    "pupil": 0.593
+   }
+  },
+  "down15": {
+   "L": {
+    "iris": 0.615,
+    "pupil": 0.982
+   },
+   "R": {
+    "iris": 0.565,
+    "pupil": 0.759
+   }
+  }
+ },
+ "look_key": {
+  "down13_w0.5": {
+   "L": {
+    "iris": 0.688,
+    "pupil": 1.0
+   },
+   "R": {
+    "iris": 0.655,
+    "pupil": 1.0
+   }
+  },
+  "down26_w1.0": {
+   "L": {
+    "iris": 0.617,
+    "pupil": 0.902
+   },
+   "R": {
+    "iris": 0.539,
+    "pupil": 0.648
+   }
+  }
+ },
+ "blink_exposed_rays": {
+  "blink": 0,
+  "blink_squint": 0,
+  "blink_lookdown": 5
+ },
+ "poke": {
+  "neutral": {
+   "n_over_0.1mm": 11,
+   "max_mm": 2.472
+  },
+  "blink": {
+   "n_over_0.1mm": 5,
+   "max_mm": 2.447
+  },
+  "halfblink": {
+   "n_over_0.1mm": 9,
+   "max_mm": 2.411
+  },
+  "squint": {
+   "n_over_0.1mm": 9,
+   "max_mm": 2.445
+  },
+  "wide": {
+   "n_over_0.1mm": 14,
+   "max_mm": 2.44
+  },
+  "lookdown": {
+   "n_over_0.1mm": 15,
+   "max_mm": 2.458
+  }
+ }
+}

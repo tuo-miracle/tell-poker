@@ -1,0 +1,14 @@
+{
+    "name": "Poker.AI",
+    "rootNamespace": "Poker.AI",
+    "references": ["Poker.Core"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

@@ -1,0 +1,11 @@
+# 流程產物與素材都不進 repo（影片、音檔、node_modules）
+/src/
+/shots/
+/out/
+/music/
+__pycache__/
+remotion/node_modules/
+remotion/public/
+remotion/src/edl.json
+remotion/src/tracks.json
+remotion/package-lock.json

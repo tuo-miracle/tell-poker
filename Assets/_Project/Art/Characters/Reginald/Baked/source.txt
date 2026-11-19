@@ -1,0 +1,1 @@
+Assets/_Project/Art/Characters/Reginald/Reginald.glb sha1 d4b62ff9896e077112ea49074c4f0fe25a334fb4

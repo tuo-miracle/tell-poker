@@ -1,0 +1,41 @@
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+23:14:55 | INFO: Data are loaded, start creating Blender stuff
+23:14:55 | INFO: Blender create Mesh node meshes[0]
+23:14:55 | INFO: glTF import finished in 0.12s
+INSPECT OBJ Node_0 EMPTY parent None loc (0.0, 0.0, 0.0) scale (1.0, 1.0, 1.0)
+INSPECT OBJ node_0 EMPTY parent Node_0 loc (-0.0, -0.0, -0.0) scale (1.0, 1.0, 1.0)
+INSPECT OBJ Armature ARMATURE parent node_0 loc (-0.0, -0.0, -0.0) scale (1.0, 1.0, 1.0)
+INSPECT   ARMATURE bones 52 ['mixamorig:Hips', 'mixamorig:LeftUpLeg', 'mixamorig:LeftLeg', 'mixamorig:LeftFoot', 'mixamorig:LeftToeBase', 'mixamorig:RightUpLeg', 'mixamorig:RightLeg', 'mixamorig:RightFoot', 'mixamorig:RightToeBase', 'mixamorig:Spine', 'mixamorig:Spine1', 'mixamorig:Spine2', 'mixamorig:LeftShoulder', 'mixamorig:LeftArm', 'mixamorig:LeftForeArm', 'mixamorig:LeftHand', 'mixamorig:LeftHandIndex1', 'mixamorig:LeftHandIndex2', 'mixamorig:LeftHandIndex3', 'mixamorig:LeftHandMiddle1', 'mixamorig:LeftHandMiddle2', 'mixamorig:LeftHandMiddle3', 'mixamorig:LeftHandPinky1', 'mixamorig:LeftHandPinky2', 'mixamorig:LeftHandPinky3', 'mixamorig:LeftHandRing1', 'mixamorig:LeftHandRing2', 'mixamorig:LeftHandRing3', 'mixamorig:LeftHandThumb1', 'mixamorig:LeftHandThumb2', 'mixamorig:LeftHandThumb3', 'mixamorig:Neck', 'mixamorig:Head', 'mixamorig:RightShoulder', 'mixamorig:RightArm', 'mixamorig:RightForeArm', 'mixamorig:RightHand', 'mixamorig:RightHandIndex1', 'mixamorig:RightHandIndex2', 'mixamorig:RightHandIndex3', 'mixamorig:RightHandMiddle1', 'mixamorig:RightHandMiddle2', 'mixamorig:RightHandMiddle3', 'mixamorig:RightHandPinky1', 'mixamorig:RightHandPinky2', 'mixamorig:RightHandPinky3', 'mixamorig:RightHandRing1', 'mixamorig:RightHandRing2', 'mixamorig:RightHandRing3', 'mixamorig:RightHandThumb1', 'mixamorig:RightHandThumb2', 'mixamorig:RightHandThumb3']
+INSPECT OBJ tripo_node_c0d21402-1a9f-4a49-87fc-ec8d973526aa MESH parent Armature loc (-0.0, -0.0, -0.0) scale (1.0, 1.0, 1.0)
+INSPECT   MESH verts 27540 polys 49248 tris 49248 uv ['UVMap'] vgroups 52 shapekeys 0 [] mats ['tripo_material_c0d21402-1a9f-4a49-87fc-ec8d973526aa'] mods ['ARMATURE']
+INSPECT   BOUNDS(Blender Z-up) min (-0.1804, -0.0905, 0.0) max (0.1804, 0.0905, 1.0) size (0.3609, 0.1811, 1.0)
+INSPECT   WELD verts 27540 -> 24600 after weld: non-manifold edges 84 boundary edges 42 faces 49208
+INSPECT OBJ mixamorig:LeftToe_End EMPTY parent Armature loc (0.0879, -0.1091, 0.0098) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightToe_End EMPTY parent Armature loc (-0.0801, -0.1091, 0.0098) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandIndex4 EMPTY parent Armature loc (0.1441, -0.0423, 0.3932) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandMiddle4 EMPTY parent Armature loc (0.143, -0.0258, 0.3911) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandPinky4 EMPTY parent Armature loc (0.1525, -0.0041, 0.4023) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandRing4 EMPTY parent Armature loc (0.1484, -0.013, 0.3964) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandThumb4 EMPTY parent Armature loc (0.1397, -0.0471, 0.4257) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:HeadTop_End EMPTY parent Armature loc (0.002, -0.0104, 0.9716) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandIndex4 EMPTY parent Armature loc (-0.1411, -0.042, 0.3907) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandMiddle4 EMPTY parent Armature loc (-0.1399, -0.0265, 0.3912) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandPinky4 EMPTY parent Armature loc (-0.1498, -0.0029, 0.4002) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandRing4 EMPTY parent Armature loc (-0.1454, -0.0139, 0.3956) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandThumb4 EMPTY parent Armature loc (-0.1376, -0.0479, 0.4246) scale (1.0, 1.0, 1.0)
+INSPECT OBJ Icosphere MESH parent None loc (0.0, 0.0, 0.0) scale (1.0, 1.0, 1.0)
+INSPECT   MESH verts 42 polys 80 tris 80 uv ['UVMap'] vgroups 0 shapekeys 0 [] mats [] mods []
+INSPECT   BOUNDS(Blender Z-up) min (-0.9511, -1.0, -1.0) max (0.9511, 1.0, 1.0) size (1.9021, 2.0, 2.0)
+INSPECT   WELD verts 42 -> 42 after weld: non-manifold edges 0 boundary edges 0 faces 80
+/Users/laichanean/WebstormProject/vr-poker/docs/concept/2026-10-28/table-3d/inspect.py:44: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if m.use_nodes:
+INSPECT MAT tripo_material_c0d21402-1a9f-4a49-87fc-ec8d973526aa [('casino_uniformed_employee_3d_model_basecolor.jpg', (2048, 2048), ['Base Color@Principled BSDF'])]
+INSPECT IMG casino_uniformed_employee_3d_model_basecolor.jpg (2048, 2048) sRGB
+INSPECT TOTAL tris 49328 verts 27582
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

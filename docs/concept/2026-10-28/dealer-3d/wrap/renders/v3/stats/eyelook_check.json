@@ -1,0 +1,13 @@
+{
+ "eyeball_verts": 146,
+ "max_abs_delta_m": {
+  "eyeLookDownLeft": 0.0,
+  "eyeLookDownRight": 0.0,
+  "eyeLookInLeft": 0.0,
+  "eyeLookInRight": 0.0,
+  "eyeLookOutLeft": 0.0,
+  "eyeLookOutRight": 0.0,
+  "eyeLookUpLeft": 0.0,
+  "eyeLookUpRight": 0.0
+ }
+}

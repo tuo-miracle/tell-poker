@@ -1,0 +1,23 @@
+{
+    "name": "Poker.Tests.Runtime",
+    "rootNamespace": "Poker.Tests.Runtime",
+    "references": [
+        "Poker.Runtime",
+        "Poker.Gestures",
+        "Oculus.Interaction", "Oculus.VR",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

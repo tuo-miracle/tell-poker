@@ -1,0 +1,7 @@
+SPACING concept {'ipd/face': 0.477, 'ipd/eye': 2.542, 'inner/eye': 1.422, 'outer/face': 0.642, 'eye/face': 0.188}
+SPACING source {'ipd/face': 0.468, 'ipd/eye': 2.484, 'inner/eye': 1.403, 'outer/face': 0.64, 'eye/face': 0.189}
+SPACING t12k {'ipd/face': 0.478, 'ipd/eye': 2.521, 'inner/eye': 1.407, 'outer/face': 0.645, 'eye/face': 0.19}
+SPACING F07 {'ipd/face': 0.468, 'ipd/eye': 2.328, 'inner/eye': 1.211, 'outer/face': 0.644, 'eye/face': 0.201}
+SPACING v3 {'ipd/face': 0.494, 'ipd/eye': 2.504, 'inner/eye': 1.551, 'outer/face': 0.698, 'eye/face': 0.197}
+SPACING v4 {'ipd/face': 0.532, 'ipd/eye': 2.655, 'inner/eye': 1.531, 'outer/face': 0.706, 'eye/face': 0.2}
+SPACING v5 {'ipd/face': 0.46, 'ipd/eye': 2.412, 'inner/eye': 1.378, 'outer/face': 0.643, 'eye/face': 0.191}

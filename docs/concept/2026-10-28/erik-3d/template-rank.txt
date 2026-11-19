@@ -1,0 +1,22 @@
+RANK character {'w/h': 0.899, 'jaw/w': 0.895, 'eyes/w': 0.604}
+RANK {'tag': '19', 'score': 0.0606, 'all': 0.0291, 'oval': 0.0315, 'w/h': 0.89, 'jaw/w': 0.828, 'eyes/w': 0.659}
+RANK {'tag': '16', 'score': 0.0618, 'all': 0.0264, 'oval': 0.0353, 'w/h': 0.908, 'jaw/w': 0.807, 'eyes/w': 0.604}
+RANK {'tag': '21', 'score': 0.0684, 'all': 0.0324, 'oval': 0.0361, 'w/h': 0.846, 'jaw/w': 0.855, 'eyes/w': 0.657}
+RANK {'tag': '15', 'score': 0.0729, 'all': 0.0288, 'oval': 0.0441, 'w/h': 0.887, 'jaw/w': 0.82, 'eyes/w': 0.634}
+RANK {'tag': '04', 'score': 0.0738, 'all': 0.0319, 'oval': 0.0419, 'w/h': 0.869, 'jaw/w': 0.815, 'eyes/w': 0.634}
+RANK {'tag': '12', 'score': 0.077, 'all': 0.0358, 'oval': 0.0412, 'w/h': 0.897, 'jaw/w': 0.811, 'eyes/w': 0.631}
+RANK {'tag': '14', 'score': 0.0787, 'all': 0.0314, 'oval': 0.0473, 'w/h': 0.919, 'jaw/w': 0.815, 'eyes/w': 0.602}
+RANK {'tag': '18', 'score': 0.0794, 'all': 0.0438, 'oval': 0.0355, 'w/h': 0.863, 'jaw/w': 0.843, 'eyes/w': 0.673}
+RANK {'tag': '08', 'score': 0.0815, 'all': 0.0303, 'oval': 0.0512, 'w/h': 0.869, 'jaw/w': 0.825, 'eyes/w': 0.634}
+RANK {'tag': '03', 'score': 0.0817, 'all': 0.0308, 'oval': 0.0509, 'w/h': 0.884, 'jaw/w': 0.787, 'eyes/w': 0.605}
+RANK {'tag': '07', 'score': 0.0827, 'all': 0.0326, 'oval': 0.0501, 'w/h': 0.896, 'jaw/w': 0.798, 'eyes/w': 0.633}
+RANK {'tag': '09', 'score': 0.0844, 'all': 0.0305, 'oval': 0.0539, 'w/h': 0.926, 'jaw/w': 0.784, 'eyes/w': 0.602}
+RANK {'tag': '01', 'score': 0.0871, 'all': 0.0353, 'oval': 0.0517, 'w/h': 0.851, 'jaw/w': 0.826, 'eyes/w': 0.622}
+RANK {'tag': '17', 'score': 0.0887, 'all': 0.0357, 'oval': 0.0529, 'w/h': 0.86, 'jaw/w': 0.79, 'eyes/w': 0.651}
+RANK {'tag': '05', 'score': 0.0902, 'all': 0.0307, 'oval': 0.0594, 'w/h': 0.871, 'jaw/w': 0.809, 'eyes/w': 0.618}
+RANK {'tag': '11', 'score': 0.0936, 'all': 0.0353, 'oval': 0.0582, 'w/h': 0.872, 'jaw/w': 0.797, 'eyes/w': 0.629}
+RANK {'tag': '10', 'score': 0.0941, 'all': 0.0408, 'oval': 0.0533, 'w/h': 0.88, 'jaw/w': 0.795, 'eyes/w': 0.607}
+RANK {'tag': '13', 'score': 0.1073, 'all': 0.0411, 'oval': 0.0662, 'w/h': 0.847, 'jaw/w': 0.801, 'eyes/w': 0.635}
+RANK {'tag': '02', 'score': 0.1095, 'all': 0.0386, 'oval': 0.0709, 'w/h': 0.846, 'jaw/w': 0.814, 'eyes/w': 0.635}
+RANK {'tag': '20', 'score': 0.1185, 'all': 0.0486, 'oval': 0.0699, 'w/h': 0.836, 'jaw/w': 0.811, 'eyes/w': 0.63}
+RANK {'tag': '06', 'score': 0.1296, 'all': 0.0505, 'oval': 0.0791, 'w/h': 0.814, 'jaw/w': 0.826, 'eyes/w': 0.614}

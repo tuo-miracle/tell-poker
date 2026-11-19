@@ -1,0 +1,34 @@
+08:50:11 | INFO: Data are loaded, start creating Blender stuff
+08:50:11 | INFO: Blender create Mesh node meshes[0]
+08:50:11 | INFO: glTF import finished in 0.14s
+INSPECT OBJ Node_0 EMPTY parent None loc (0.0, 0.0, 0.0) scale (1.0, 1.0, 1.0)
+INSPECT OBJ node_0 EMPTY parent Node_0 loc (0.0, -0.0, -0.0) scale (1.0, 1.0, 1.0)
+INSPECT OBJ Armature ARMATURE parent node_0 loc (0.0, -0.0, -0.0) scale (1.0, 1.0, 1.0)
+INSPECT   ARMATURE bones 54 ['mixamorig:Hips', 'mixamorig:LeftUpLeg', 'mixamorig:LeftLeg', 'mixamorig:LeftFoot', 'mixamorig:LeftToeBase', 'mixamorig:LeftToe_End', 'mixamorig:RightUpLeg', 'mixamorig:RightLeg', 'mixamorig:RightFoot', 'mixamorig:RightToeBase', 'mixamorig:RightToe_End', 'mixamorig:Spine', 'mixamorig:Spine1', 'mixamorig:Spine2', 'mixamorig:LeftShoulder', 'mixamorig:LeftArm', 'mixamorig:LeftForeArm', 'mixamorig:LeftHand', 'mixamorig:LeftHandIndex1', 'mixamorig:LeftHandIndex2', 'mixamorig:LeftHandIndex3', 'mixamorig:LeftHandMiddle1', 'mixamorig:LeftHandMiddle2', 'mixamorig:LeftHandMiddle3', 'mixamorig:LeftHandPinky1', 'mixamorig:LeftHandPinky2', 'mixamorig:LeftHandPinky3', 'mixamorig:LeftHandRing1', 'mixamorig:LeftHandRing2', 'mixamorig:LeftHandRing3', 'mixamorig:LeftHandThumb1', 'mixamorig:LeftHandThumb2', 'mixamorig:LeftHandThumb3', 'mixamorig:Neck', 'mixamorig:Head', 'mixamorig:RightShoulder', 'mixamorig:RightArm', 'mixamorig:RightForeArm', 'mixamorig:RightHand', 'mixamorig:RightHandIndex1', 'mixamorig:RightHandIndex2', 'mixamorig:RightHandIndex3', 'mixamorig:RightHandMiddle1', 'mixamorig:RightHandMiddle2', 'mixamorig:RightHandMiddle3', 'mixamorig:RightHandPinky1', 'mixamorig:RightHandPinky2', 'mixamorig:RightHandPinky3', 'mixamorig:RightHandRing1', 'mixamorig:RightHandRing2', 'mixamorig:RightHandRing3', 'mixamorig:RightHandThumb1', 'mixamorig:RightHandThumb2', 'mixamorig:RightHandThumb3']
+INSPECT OBJ tripo_node_144be6dd-39f7-4c8b-961c-10e71f55e07f MESH parent Armature loc (0.0, -0.0, -0.0) scale (1.0, 1.0, 1.0)
+INSPECT   MESH verts 26494 polys 47406 tris 47406 uv ['UVMap'] vgroups 54 shapekeys 0 [] mats ['tripo_material_144be6dd-39f7-4c8b-961c-10e71f55e07f'] mods ['ARMATURE']
+INSPECT   BOUNDS(Blender Z-up) min (-0.1663, -0.0911, -0.0) max (0.1663, 0.0911, 1.0) size (0.3326, 0.1822, 1.0)
+INSPECT   WELD verts 26494 -> 23678 after weld: non-manifold edges 76 boundary edges 38 faces 47368
+INSPECT OBJ mixamorig:LeftHandIndex4 EMPTY parent Armature loc (0.1094, -0.0397, 0.3966) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandMiddle4 EMPTY parent Armature loc (0.1082, -0.0255, 0.3982) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandPinky4 EMPTY parent Armature loc (0.1213, -0.0086, 0.4066) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandRing4 EMPTY parent Armature loc (0.1143, -0.0157, 0.4025) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:LeftHandThumb4 EMPTY parent Armature loc (0.1084, -0.0457, 0.4247) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:HeadTop_End EMPTY parent Armature loc (0.002, -0.0407, 0.9995) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandIndex4 EMPTY parent Armature loc (-0.1093, -0.0399, 0.3967) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandMiddle4 EMPTY parent Armature loc (-0.1091, -0.0263, 0.3964) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandPinky4 EMPTY parent Armature loc (-0.1215, -0.008, 0.4079) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandRing4 EMPTY parent Armature loc (-0.1131, -0.0142, 0.3999) scale (1.0, 1.0, 1.0)
+INSPECT OBJ mixamorig:RightHandThumb4 EMPTY parent Armature loc (-0.1059, -0.0477, 0.4276) scale (1.0, 1.0, 1.0)
+INSPECT OBJ Icosphere MESH parent None loc (0.0, 0.0, 0.0) scale (1.0, 1.0, 1.0)
+INSPECT   MESH verts 42 polys 80 tris 80 uv ['UVMap'] vgroups 0 shapekeys 0 [] mats [] mods []
+INSPECT   BOUNDS(Blender Z-up) min (-0.9511, -1.0, -1.0) max (0.9511, 1.0, 1.0) size (1.9021, 2.0, 2.0)
+INSPECT   WELD verts 42 -> 42 after weld: non-manifold edges 0 boundary edges 0 faces 80
+/Users/laichanean/WebstormProject/vr-poker/docs/concept/2026-10-28/dealer-3d/inspect.py:44: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if m.use_nodes:
+INSPECT MAT tripo_material_144be6dd-39f7-4c8b-961c-10e71f55e07f [('man_in_turtleneck_3d_model_basecolor.jpg', (2048, 2048), ['Base Color@Principled BSDF'])]
+INSPECT IMG man_in_turtleneck_3d_model_basecolor.jpg (2048, 2048) sRGB
+INSPECT TOTAL tris 47486 verts 26536
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

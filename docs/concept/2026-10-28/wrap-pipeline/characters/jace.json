@@ -1,0 +1,23 @@
+{
+  "name": "jace",
+  "note": "Tripo 'black male human'. Black, ~30, short hair, short beard, black bomber jacket.",
+  "source_glb": "../../jace-3d/jace-source.glb",
+  "char_glb": "../../jace-3d/jace-12k.glb",
+  "decimate": {"target": 12000, "face": true},
+  "template": {"id": "Male_Adult_12", "tga": "m007_head_color.tga", "normal": "m007_head_normal.tga"},
+  "unity_height_m": 1.83,
+  "concept_png": "../../turnaround-p4-jace.png",
+  "concept_crop": [0.115, 0.04, 0.19, 0.2],
+  "out_dir": "../../jace-3d/wrap",
+  "face_cz": 0.934,
+  "face_size": 0.20,
+  "fit": {"eye_r0": 0.010, "eye_r1": 0.025, "nose_r0": 0.010, "nose_r1": 0.022, "offset_rings": 1.5, "eye_tol2": 1.0,
+          "eye_back0": 0.04, "cut_poke_marg": 0.5, "eye_pin_r": 0.012, "eye_sym": "min", "oval_scale": 1.08},
+  "skin_detail": {"k": 0.9, "sigma": 3},
+  "inner": {"mouth_dark": [], "mouth_gain": 1.3},
+  "eye": {"sclera": true, "catchlight": true, "iris": [48, 30, 20], "limbus": [18, 12, 8], "iris_scale": 1.25, "pupil_set_frac": 0.36},
+  "rig": {"eye_rough": 0.2, "eyelook_lids_only": true, "normal_rings": 3, "lookdown_lid_mm": 3.5,
+          "eye_scale": 0.88, "blink_gain": 1.15, "eye_dx_mm": 1.3, "lid_open_deg": 8, "jaw_inner_lag": 0.25,
+          "basis_keys": {"mouthClose": 0.12}, "basis_keep": ["jawOpen"], "normal_strength": 0.7},
+  "lid": {"mode": "detail", "d_full": 0.6, "d_full1": 0.8, "lid_base": "skin", "d0": 2.2, "d1": 3.0, "lid_detail": 0.25, "lid_gain": 0.88}
+}

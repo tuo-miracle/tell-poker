@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# The exact dealer build (2026-10-30). usage: PY=... MP_MODEL=... dealer_run.sh RB_DIR WORK_DIR OUT_DIR
+# RB_DIR holds Female_Adult_07_facial.fbx and f007_head_color.tga (see ../CREDITS.md for the URLs).
+set -euo pipefail
+SC=$(cd "$(dirname "$0")" && pwd); RB=$1; W=$2; OUT=$3
+export INNER_JSON='{"sclera_gain":0.6,"sclera_tint":[0.86,0.94,1.0]}'
+export SEAM_JSON='{"vmin":140,"full":4,"fade":8,"radius":0.015,"radius_smooth":0.03}' SEAM_VMIN=140
+export EYE_JSON='{"pupil_frac":0.33,"iris_scale":1.282,"sclera":true,"catchlight":true,"iris":[95,58,32],"limbus":[35,22,14]}'
+export RIG_JSON='{"lid_open_deg":10,"lid_falloff":[1.25,2.3,-0.20,-0.02],"lid_full_at":0.1,"lower_lid_deg":-2,"lower_lid_falloff":[1.25,2.3,-0.02,-0.18],"eye_dx_mm":0.75,"eye_scale":0.78,"eye_rough":0.2,"eyelook_lids_only":true,"normal_rings":3,"lookdown_lid_mm":3.8}'
+export LID_JSON='{"mode":"detail","nose_r0":0.10,"nose_r1":0.22,"rim":[0.72,0.92],"rim_tint":[1.0,0.9,0.88],"lash":[0.85,0.3]}'
+bash $SC/run_wrap.sh dealer $SC/../../dealer-12k.glb $RB/Female_Adult_07_facial.fbx $RB/f007_head_color.tga $W $OUT 0.90 0.17 \
+  '{"eye_r0":0.010,"eye_r1":0.025,"nose_r0":0.010,"nose_r1":0.022,"offset_rings":1.5,"eye_tol2":1.0,"eye_back0":0.02,"cut_poke_marg":0.5,"eye_pin_r":0.012}'

@@ -1,0 +1,6986 @@
+{
+ "model": "eleven_multilingual_v2",
+ "format": "mp3_22050_32",
+ "lines": [
+  {
+   "id": "pip.value.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh! Um, I'll... put some in.",
+   "file": "Speech/pip/pip_value_01",
+   "hash": "2c0499c077f76bb3",
+   "bytes": 10676
+  },
+  {
+   "id": "pip.value.02",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Is this good? I think this is good.",
+   "file": "Speech/pip/pip_value_02",
+   "hash": "2a7e42d47576dc56",
+   "bytes": 12139
+  },
+  {
+   "id": "pip.nervous.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Totally normal wager. Nothing to see here.",
+   "file": "Speech/pip/pip_nervous_01",
+   "hash": "201dbb724a9b404b",
+   "bytes": 11094
+  },
+  {
+   "id": "pip.nervous.02",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Why is it so warm in here?",
+   "file": "Speech/pip/pip_nervous_02",
+   "hash": "dd5e8f4a96e14ad4",
+   "bytes": 6392
+  },
+  {
+   "id": "pip.unsure.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Hmm. Hmm hmm hmm.",
+   "file": "Speech/pip/pip_unsure_01",
+   "hash": "62434cedc18d1ef4",
+   "bytes": 8064
+  },
+  {
+   "id": "pip.unsure.02",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Wait, what beats what again?",
+   "file": "Speech/pip/pip_unsure_02",
+   "hash": "fbe48550bf89b659",
+   "bytes": 6392
+  },
+  {
+   "id": "pip.fold.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Nope. Not today.",
+   "file": "Speech/pip/pip_fold_01",
+   "hash": "a6d873cd70c2f5c5",
+   "bytes": 5660
+  },
+  {
+   "id": "pip.fold.02",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "I'll just... sit this one out.",
+   "file": "Speech/pip/pip_fold_02",
+   "hash": "9533ff82efcbb70a",
+   "bytes": 8482
+  },
+  {
+   "id": "pip.tank.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Take your time! No pressure. Ha.",
+   "file": "Speech/pip/pip_tank_01",
+   "hash": "6e150c12472df1a5",
+   "bytes": 9631
+  },
+  {
+   "id": "pip.slam.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Eep! You scared me!",
+   "file": "Speech/pip/pip_slam_01",
+   "hash": "f67415e50ec30d28",
+   "bytes": 5451
+  },
+  {
+   "id": "pip.slam.02",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Whoa, okay, okay!",
+   "file": "Speech/pip/pip_slam_02",
+   "hash": "9e62e86ec7f187ca",
+   "bytes": 6287
+  },
+  {
+   "id": "pip.bigbet.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "That's... a lot of chips.",
+   "file": "Speech/pip/pip_bigbet_01",
+   "hash": "6039d8ba8c8d6043",
+   "bytes": 6810
+  },
+  {
+   "id": "pip.stare.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Why are you looking at me?",
+   "file": "Speech/pip/pip_stare_01",
+   "hash": "8cd258b15d4bee72",
+   "bytes": 6392
+  },
+  {
+   "id": "pip.stare.02",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Stop it, I can feel you staring.",
+   "file": "Speech/pip/pip_stare_02",
+   "hash": "fb84e5ec2ad45c24",
+   "bytes": 7123
+  },
+  {
+   "id": "pip.good.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Ooh! Ooh. I mean... okay.",
+   "file": "Speech/pip/pip_good_01",
+   "hash": "88f1e244cd02d4fe",
+   "bytes": 9213
+  },
+  {
+   "id": "pip.bad.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Aw, come on, cards.",
+   "file": "Speech/pip/pip_bad_01",
+   "hash": "a6e8a6900efd17c5",
+   "bytes": 6078
+  },
+  {
+   "id": "pip.win.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "I won? I actually won!",
+   "file": "Speech/pip/pip_win_01",
+   "hash": "de628f02ed671324",
+   "bytes": 8064
+  },
+  {
+   "id": "pip.win.02",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Beginner's luck, maybe?",
+   "file": "Speech/pip/pip_win_02",
+   "hash": "4fd0e1f9216b1be8",
+   "bytes": 5451
+  },
+  {
+   "id": "pip.lose.01",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Okay. Learning experience.",
+   "file": "Speech/pip/pip_lose_01",
+   "hash": "ba2ca50225993bcc",
+   "bytes": 9422
+  },
+  {
+   "id": "pip.lose.02",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "I'll get the hang of this.",
+   "file": "Speech/pip/pip_lose_02",
+   "hash": "73d29702e07c209d",
+   "bytes": 5869
+  },
+  {
+   "id": "rocco.value.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Pay up, friend. Pay up.",
+   "file": "Speech/rocco/rocco_value_01",
+   "hash": "1f675af9501c80db",
+   "bytes": 7332
+  },
+  {
+   "id": "rocco.value.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You know what time it is.",
+   "file": "Speech/rocco/rocco_value_02",
+   "hash": "40fb3d36f8634683",
+   "bytes": 6810
+  },
+  {
+   "id": "rocco.value.03",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Chips in. Feeling generous?",
+   "file": "Speech/rocco/rocco_value_03",
+   "hash": "79db242b4bc15670",
+   "bytes": 9631
+  },
+  {
+   "id": "rocco.nervous.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Big bet. Bigger heart.",
+   "file": "Speech/rocco/rocco_nervous_01",
+   "hash": "23a4279f228c41f0",
+   "bytes": 8273
+  },
+  {
+   "id": "rocco.nervous.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Go ahead, call. I dare you.",
+   "file": "Speech/rocco/rocco_nervous_02",
+   "hash": "42beabcbfc9bd10c",
+   "bytes": 9736
+  },
+  {
+   "id": "rocco.unsure.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Eh, let's see where this goes.",
+   "file": "Speech/rocco/rocco_unsure_01",
+   "hash": "5e88aaba642e5ba9",
+   "bytes": 9736
+  },
+  {
+   "id": "rocco.fold.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Fine. Your pot. Enjoy it.",
+   "file": "Speech/rocco/rocco_fold_01",
+   "hash": "0c56c4fccfcc5eb9",
+   "bytes": 10467
+  },
+  {
+   "id": "rocco.fold.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "I'm saving my ammo.",
+   "file": "Speech/rocco/rocco_fold_02",
+   "hash": "4ebc195beaf436e1",
+   "bytes": 7019
+  },
+  {
+   "id": "rocco.tank.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Thinking hard, huh? That's a tell.",
+   "file": "Speech/rocco/rocco_tank_01",
+   "hash": "becfb649e92eeb51",
+   "bytes": 11407
+  },
+  {
+   "id": "rocco.tank.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Clock's ticking, champ.",
+   "file": "Speech/rocco/rocco_tank_02",
+   "hash": "88e2d97732bbb279",
+   "bytes": 7019
+  },
+  {
+   "id": "rocco.tank.03",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Long think. Somebody's scared.",
+   "file": "Speech/rocco/rocco_tank_03",
+   "hash": "2e13fe1d16797c14",
+   "bytes": 10154
+  },
+  {
+   "id": "rocco.slam.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Hey! Easy on the felt!",
+   "file": "Speech/rocco/rocco_slam_01",
+   "hash": "b358e96de1ca89e4",
+   "bytes": 7959
+  },
+  {
+   "id": "rocco.slam.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Whoa, you break it, you buy it.",
+   "file": "Speech/rocco/rocco_slam_02",
+   "hash": "f161a39ad03fcbb1",
+   "bytes": 8795
+  },
+  {
+   "id": "rocco.bigbet.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh, so we're doing this now?",
+   "file": "Speech/rocco/rocco_bigbet_01",
+   "hash": "493d77ee8ab5ff7a",
+   "bytes": 8691
+  },
+  {
+   "id": "rocco.bigbet.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Cute bet. Real cute.",
+   "file": "Speech/rocco/rocco_bigbet_02",
+   "hash": "ef9aed67661873ca",
+   "bytes": 9004
+  },
+  {
+   "id": "rocco.stare.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Like what you see?",
+   "file": "Speech/rocco/rocco_stare_01",
+   "hash": "6523e7c7843d81e3",
+   "bytes": 5869
+  },
+  {
+   "id": "rocco.stare.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Staring won't save you.",
+   "file": "Speech/rocco/rocco_stare_02",
+   "hash": "427eaf08528c4144",
+   "bytes": 7123
+  },
+  {
+   "id": "rocco.good.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Now that's my kind of card.",
+   "file": "Speech/rocco/rocco_good_01",
+   "hash": "1c6aa1c44ea25e5d",
+   "bytes": 8691
+  },
+  {
+   "id": "rocco.bad.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Who ordered that card?",
+   "file": "Speech/rocco/rocco_bad_01",
+   "hash": "07be3c4818d6cf6e",
+   "bytes": 6601
+  },
+  {
+   "id": "rocco.win.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco eats again!",
+   "file": "Speech/rocco/rocco_win_01",
+   "hash": "cd873c31a97e7d10",
+   "bytes": 6392
+  },
+  {
+   "id": "rocco.win.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Told you. I always tell you.",
+   "file": "Speech/rocco/rocco_win_02",
+   "hash": "30c985d35920c5f8",
+   "bytes": 9213
+  },
+  {
+   "id": "rocco.lose.01",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Lucky. Pure dumb luck.",
+   "file": "Speech/rocco/rocco_lose_01",
+   "hash": "ea89c55267fa7530",
+   "bytes": 9945
+  },
+  {
+   "id": "rocco.lose.02",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Enjoy it. It won't last.",
+   "file": "Speech/rocco/rocco_lose_02",
+   "hash": "e63fdb1b45bafb8f",
+   "bytes": 8064
+  },
+  {
+   "id": "vex.value.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Bet.",
+   "file": "Speech/vex/vex_value_01",
+   "hash": "8316d1d5bf1702f4",
+   "bytes": 3048
+  },
+  {
+   "id": "vex.value.02",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Your move.",
+   "file": "Speech/vex/vex_value_02",
+   "hash": "1e3bc92655f19c2d",
+   "bytes": 4198
+  },
+  {
+   "id": "vex.nervous.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Let's make it interesting.",
+   "file": "Speech/vex/vex_nervous_01",
+   "hash": "688de05645b0f377",
+   "bytes": 5869
+  },
+  {
+   "id": "vex.nervous.02",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "I've decided.",
+   "file": "Speech/vex/vex_nervous_02",
+   "hash": "99e6e9f64259004c",
+   "bytes": 5138
+  },
+  {
+   "id": "vex.unsure.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Interesting.",
+   "file": "Speech/vex/vex_unsure_01",
+   "hash": "4125d38dd2c768f9",
+   "bytes": 4616
+  },
+  {
+   "id": "vex.fold.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Not worth it.",
+   "file": "Speech/vex/vex_fold_01",
+   "hash": "1a1d87e4b5f0eebb",
+   "bytes": 4407
+  },
+  {
+   "id": "vex.fold.02",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Pass.",
+   "file": "Speech/vex/vex_fold_02",
+   "hash": "2e8a05a88512a1ed",
+   "bytes": 3675
+  },
+  {
+   "id": "vex.tank.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Take all the time you need.",
+   "file": "Speech/vex/vex_tank_01",
+   "hash": "0ae8a89eb9ce9fb6",
+   "bytes": 6287
+  },
+  {
+   "id": "vex.tank.02",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Doubt is expensive.",
+   "file": "Speech/vex/vex_tank_02",
+   "hash": "176557fbc99e0b1c",
+   "bytes": 6078
+  },
+  {
+   "id": "vex.slam.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Careful.",
+   "file": "Speech/vex/vex_slam_01",
+   "hash": "b06136c2a0ae015b",
+   "bytes": 3675
+  },
+  {
+   "id": "vex.bigbet.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Noted.",
+   "file": "Speech/vex/vex_bigbet_01",
+   "hash": "7d2a4429d95f64a2",
+   "bytes": 3257
+  },
+  {
+   "id": "vex.bigbet.02",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Is that supposed to scare me?",
+   "file": "Speech/vex/vex_bigbet_02",
+   "hash": "8fa339235746873b",
+   "bytes": 7123
+  },
+  {
+   "id": "vex.stare.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Find anything?",
+   "file": "Speech/vex/vex_stare_01",
+   "hash": "2c89e50e75a3ea0b",
+   "bytes": 4720
+  },
+  {
+   "id": "vex.stare.02",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Keep looking.",
+   "file": "Speech/vex/vex_stare_02",
+   "hash": "f6b8f5da9920c1f2",
+   "bytes": 3989
+  },
+  {
+   "id": "vex.good.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Good.",
+   "file": "Speech/vex/vex_good_01",
+   "hash": "1d8941853ed0fee6",
+   "bytes": 3048
+  },
+  {
+   "id": "vex.bad.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Hm.",
+   "file": "Speech/vex/vex_bad_01",
+   "hash": "0e1a648b8e99d9e5",
+   "bytes": 2944
+  },
+  {
+   "id": "vex.win.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "As expected.",
+   "file": "Speech/vex/vex_win_01",
+   "hash": "1763f1da7a8a17c6",
+   "bytes": 4720
+  },
+  {
+   "id": "vex.lose.01",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "This time.",
+   "file": "Speech/vex/vex_lose_01",
+   "hash": "a294e74fcd76196f",
+   "bytes": 4407
+  },
+  {
+   "id": "silas.value.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Bet. Don't take it personally.",
+   "file": "Speech/silas/silas_value_01",
+   "hash": "c97242ce3ebdac5b",
+   "bytes": 8481
+  },
+  {
+   "id": "silas.value.02",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "I'll keep this simple.",
+   "file": "Speech/silas/silas_value_02",
+   "hash": "16708c1bb7a49d85",
+   "bytes": 6286
+  },
+  {
+   "id": "silas.nervous.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "I've seen worse hands win.",
+   "file": "Speech/silas/silas_nervous_01",
+   "hash": "7bf35d486b692dba",
+   "bytes": 7122
+  },
+  {
+   "id": "silas.nervous.02",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Go ahead. Call.",
+   "file": "Speech/silas/silas_nervous_02",
+   "hash": "9281f03da1fd76a1",
+   "bytes": 6809
+  },
+  {
+   "id": "silas.unsure.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Hm. We'll see.",
+   "file": "Speech/silas/silas_unsure_01",
+   "hash": "845fb4e3f22fb878",
+   "bytes": 5450
+  },
+  {
+   "id": "silas.fold.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Not my hand. Not my night.",
+   "file": "Speech/silas/silas_fold_01",
+   "hash": "355a0d23a4a6c312",
+   "bytes": 7749
+  },
+  {
+   "id": "silas.fold.02",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Folding. Write that down.",
+   "file": "Speech/silas/silas_fold_02",
+   "hash": "6bb238ba8e6716ad",
+   "bytes": 7018
+  },
+  {
+   "id": "silas.tank.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Take your time. I'm not getting younger.",
+   "file": "Speech/silas/silas_tank_01",
+   "hash": "8159a8a14d2fd48b",
+   "bytes": 10675
+  },
+  {
+   "id": "silas.tank.02",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "I've waited longer for worse.",
+   "file": "Speech/silas/silas_tank_02",
+   "hash": "c6d5afe16676ab56",
+   "bytes": 6391
+  },
+  {
+   "id": "silas.slam.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "The table didn't do anything to you.",
+   "file": "Speech/silas/silas_slam_01",
+   "hash": "5ee1cfe7292521ee",
+   "bytes": 9212
+  },
+  {
+   "id": "silas.bigbet.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Bold. I remember being bold.",
+   "file": "Speech/silas/silas_bigbet_01",
+   "hash": "0c02bb42c2680ee1",
+   "bytes": 10153
+  },
+  {
+   "id": "silas.bigbet.02",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "That's a lot of conviction.",
+   "file": "Speech/silas/silas_bigbet_02",
+   "hash": "5c599159a999bbc0",
+   "bytes": 6809
+  },
+  {
+   "id": "silas.stare.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "I don't blink much, kid.",
+   "file": "Speech/silas/silas_stare_01",
+   "hash": "6dc8b3bcc77a5135",
+   "bytes": 6391
+  },
+  {
+   "id": "silas.stare.02",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Forty years of poker face.",
+   "file": "Speech/silas/silas_stare_02",
+   "hash": "23bb95859ee462df",
+   "bytes": 7958
+  },
+  {
+   "id": "silas.good.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "That'll do.",
+   "file": "Speech/silas/silas_good_01",
+   "hash": "ff620eeb848bce1b",
+   "bytes": 3779
+  },
+  {
+   "id": "silas.bad.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Of course it is.",
+   "file": "Speech/silas/silas_bad_01",
+   "hash": "19d42be14026608a",
+   "bytes": 5346
+  },
+  {
+   "id": "silas.win.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Experience pays. Slowly.",
+   "file": "Speech/silas/silas_win_01",
+   "hash": "5fcdbf3691cedb8b",
+   "bytes": 9735
+  },
+  {
+   "id": "silas.win.02",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Nothing personal.",
+   "file": "Speech/silas/silas_win_02",
+   "hash": "6129971388384245",
+   "bytes": 5659
+  },
+  {
+   "id": "silas.lose.01",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Happens. Rarely.",
+   "file": "Speech/silas/silas_lose_01",
+   "hash": "02d0931d44fad903",
+   "bytes": 6391
+  },
+  {
+   "id": "silas.lose.02",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Enjoy it. I did, once.",
+   "file": "Speech/silas/silas_lose_02",
+   "hash": "a1a88290b88c1db5",
+   "bytes": 8063
+  },
+  {
+   "id": "dot.welcome.01",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Welcome to the table!",
+   "file": "Speech/dot/dot_welcome_01",
+   "hash": "3de6b49a9a32c947",
+   "bytes": 5137
+  },
+  {
+   "id": "dot.welcome.02",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Fresh deck. Good luck, everyone.",
+   "file": "Speech/dot/dot_welcome_02",
+   "hash": "c02d1d47d941f868",
+   "bytes": 7958
+  },
+  {
+   "id": "dot.yourturn.01",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Action is on you.",
+   "file": "Speech/dot/dot_yourturn_01",
+   "hash": "cd7b8ff4aa269475",
+   "bytes": 5346
+  },
+  {
+   "id": "dot.yourturn.02",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Your call, friend.",
+   "file": "Speech/dot/dot_yourturn_02",
+   "hash": "50a883d649d83d0d",
+   "bytes": 5659
+  },
+  {
+   "id": "dot.yourturn.03",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Whenever you're ready.",
+   "file": "Speech/dot/dot_yourturn_03",
+   "hash": "09930726d5857ce2",
+   "bytes": 5137
+  },
+  {
+   "id": "dot.flop.01",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Here comes the flop.",
+   "file": "Speech/dot/dot_flop_01",
+   "hash": "0681278765c0e1a5",
+   "bytes": 6077
+  },
+  {
+   "id": "dot.flop.02",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Three on the board.",
+   "file": "Speech/dot/dot_flop_02",
+   "hash": "0f8e6bbba46dfa85",
+   "bytes": 4928
+  },
+  {
+   "id": "dot.turn.01",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "The turn.",
+   "file": "Speech/dot/dot_turn_01",
+   "hash": "0e291afad2b6a470",
+   "bytes": 4406
+  },
+  {
+   "id": "dot.turn.02",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Fourth card coming up.",
+   "file": "Speech/dot/dot_turn_02",
+   "hash": "0cc7d5f149da527a",
+   "bytes": 5346
+  },
+  {
+   "id": "dot.river.01",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "And the river.",
+   "file": "Speech/dot/dot_river_01",
+   "hash": "c49b9d6f68303ff9",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.river.02",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Last card.",
+   "file": "Speech/dot/dot_river_02",
+   "hash": "86cb78487ecb3e59",
+   "bytes": 4928
+  },
+  {
+   "id": "dot.showdown.01",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Cards up, please.",
+   "file": "Speech/dot/dot_showdown_01",
+   "hash": "dc9e3916ead32b6e",
+   "bytes": 4928
+  },
+  {
+   "id": "dot.showdown.02",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Let's see them.",
+   "file": "Speech/dot/dot_showdown_02",
+   "hash": "37714384f6f729f9",
+   "bytes": 4719
+  },
+  {
+   "id": "dot.winner.01",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Pot goes to the winner!",
+   "file": "Speech/dot/dot_winner_01",
+   "hash": "9a42aef2834b493a",
+   "bytes": 5450
+  },
+  {
+   "id": "dot.winner.02",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Chips coming your way.",
+   "file": "Speech/dot/dot_winner_02",
+   "hash": "a7c5347e6429ca15",
+   "bytes": 6286
+  },
+  {
+   "id": "dot.allin.01",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "We have an all-in!",
+   "file": "Speech/dot/dot_allin_01",
+   "hash": "a0db8d0cadc0b72f",
+   "bytes": 7018
+  },
+  {
+   "id": "dot.check",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Check.",
+   "file": "Speech/dot/dot_check",
+   "hash": "d118a146b28d616b",
+   "bytes": 2525
+  },
+  {
+   "id": "dot.hello.first",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Hi, I'm Dot. Let's play one together.",
+   "file": "Speech/dot/dot_hello_first",
+   "hash": "1309b19f571d2f6e",
+   "bytes": 9003
+  },
+  {
+   "id": "dot.hello.newtutorial",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Welcome back! Let me show you the new gestures.",
+   "file": "Speech/dot/dot_hello_newtutorial",
+   "hash": "c15a28138d0a464a",
+   "bytes": 11302
+  },
+  {
+   "id": "dot.hello.fullgame",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Welcome back! Ready for a full game?",
+   "file": "Speech/dot/dot_hello_fullgame",
+   "hash": "5b2f341bd7d35c01",
+   "bytes": 9003
+  },
+  {
+   "id": "dot.tutorial.nexthand",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Tutorial next hand!",
+   "file": "Speech/dot/dot_tutorial_nexthand",
+   "hash": "7659817e4966c71e",
+   "bytes": 5659
+  },
+  {
+   "id": "dot.tutorial.smallbet",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Just a few chips for now.",
+   "file": "Speech/dot/dot_tutorial_smallbet",
+   "hash": "7196e090af2bbd2b",
+   "bytes": 6286
+  },
+  {
+   "id": "dot.tutorial.peek",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Let's peek at your cards — cup your hand over them and lift your wrist.",
+   "file": "Speech/dot/dot_tutorial_peek",
+   "hash": "e4839de5b3d73f05",
+   "bytes": 16631
+  },
+  {
+   "id": "dot.tutorial.decide",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco raised, and he's reading you. Toss in chips to call, or push your cards forward to fold.",
+   "file": "Speech/dot/dot_tutorial_decide",
+   "hash": "850a8ee4043ed193",
+   "bytes": 22064
+  },
+  {
+   "id": "dot.praise.1",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Nice!",
+   "file": "Speech/dot/dot_praise_1",
+   "hash": "96495a7bf50cf2a1",
+   "bytes": 3674
+  },
+  {
+   "id": "dot.praise.2",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Perfect!",
+   "file": "Speech/dot/dot_praise_2",
+   "hash": "6d4dff955691b134",
+   "bytes": 3465
+  },
+  {
+   "id": "dot.praise.3",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Great job!",
+   "file": "Speech/dot/dot_praise_3",
+   "hash": "999c698e9611c56e",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.praise.4",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "You got it!",
+   "file": "Speech/dot/dot_praise_4",
+   "hash": "cb884e1f320374ec",
+   "bytes": 3674
+  },
+  {
+   "id": "dot.praise.5",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Well done!",
+   "file": "Speech/dot/dot_praise_5",
+   "hash": "e9bd939ccd59b827",
+   "bytes": 3779
+  },
+  {
+   "id": "dot.tutorial.finished",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "You're ready. Good luck!",
+   "file": "Speech/dot/dot_tutorial_finished",
+   "hash": "5c62741d29177396",
+   "bytes": 4928
+  },
+  {
+   "id": "dot.tutorial.skip",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Okay, let's play!",
+   "file": "Speech/dot/dot_tutorial_skip",
+   "hash": "9d15e9bd261b3e8c",
+   "bytes": 5346
+  },
+  {
+   "id": "dot.tip.peek.wrist",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Lift your wrist a little higher.",
+   "file": "Speech/dot/dot_tip_peek_wrist",
+   "hash": "bd40dddcbe74ce36",
+   "bytes": 7540
+  },
+  {
+   "id": "dot.tip.peek.fingertips",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Rest your fingertips on the cards, then lift your wrist.",
+   "file": "Speech/dot/dot_tip_peek_fingertips",
+   "hash": "2858e7b074890f28",
+   "bytes": 11824
+  },
+  {
+   "id": "dot.tip.peek.palmdown",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Turn your palm down over your cards.",
+   "file": "Speech/dot/dot_tip_peek_palmdown",
+   "hash": "89d9396fa9a1b9ff",
+   "bytes": 9212
+  },
+  {
+   "id": "dot.tip.peek.overcards",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Move your hand right over your cards.",
+   "file": "Speech/dot/dot_tip_peek_overcards",
+   "hash": "fe74d3ecb6d2fdce",
+   "bytes": 8272
+  },
+  {
+   "id": "dot.tip.chips.pinch",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Pinch right on the chips.",
+   "file": "Speech/dot/dot_tip_chips_pinch",
+   "hash": "59abe0e5716f4b33",
+   "bytes": 5450
+  },
+  {
+   "id": "dot.tip.chips.zone",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Toss them onto the glowing zone.",
+   "file": "Speech/dot/dot_tip_chips_zone",
+   "hash": "ea5faeed2423c060",
+   "bytes": 7958
+  },
+  {
+   "id": "dot.tip.fold",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Toss your cards toward the middle.",
+   "file": "Speech/dot/dot_tip_fold",
+   "hash": "874a72f5c5474929",
+   "bytes": 7958
+  },
+  {
+   "id": "dot.tutorial.check",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Nobody bet. Knock twice to check.",
+   "file": "Speech/dot/dot_tutorial_check",
+   "hash": "764dafbb0d943379",
+   "bytes": 7958
+  },
+  {
+   "id": "dot.tutorial.voice",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Ask me anything about the table — try: how much is in the pot?",
+   "file": "Speech/dot/dot_tutorial_voice",
+   "hash": "30d6bcba8d8d6fc2",
+   "bytes": 13705
+  },
+  {
+   "id": "dot.jit.showdown",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Toss your cards forward to show.",
+   "file": "Speech/dot/dot_jit_showdown",
+   "hash": "462fb1ea3a508440",
+   "bytes": 8481
+  },
+  {
+   "id": "dot.jit.allin",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Big hand? Push all your chips with both hands to go all-in.",
+   "file": "Speech/dot/dot_jit_allin",
+   "hash": "ed0ba2688d96dbb6",
+   "bytes": 14646
+  },
+  {
+   "id": "dot.jit.gaze",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Keep watching. Tells get bigger when you stare.",
+   "file": "Speech/dot/dot_jit_gaze",
+   "hash": "aca1e2e03964714b",
+   "bytes": 9735
+  },
+  {
+   "id": "dot.hint.strong",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Psst — that's a strong hand.",
+   "file": "Speech/dot/dot_hint_strong",
+   "hash": "e5bf73dcee30d316",
+   "bytes": 7331
+  },
+  {
+   "id": "dot.hint.decent",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Psst — that's a decent hand.",
+   "file": "Speech/dot/dot_hint_decent",
+   "hash": "fd871ad1f84d5d92",
+   "bytes": 7540
+  },
+  {
+   "id": "dot.hint.weak",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Psst — that's a weak hand.",
+   "file": "Speech/dot/dot_hint_weak",
+   "hash": "d84d8f3417397f80",
+   "bytes": 8063
+  },
+  {
+   "id": "dot.hint.drawing",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Psst — you're drawing. It could improve.",
+   "file": "Speech/dot/dot_hint_drawing",
+   "hash": "8fec9e57926ecf0f",
+   "bytes": 9735
+  },
+  {
+   "id": "dot.invalid.cannotcheck",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Can't check here. Call or fold.",
+   "file": "Speech/dot/dot_invalid_cannotcheck",
+   "hash": "adfb097c55aa3d2a",
+   "bytes": 8794
+  },
+  {
+   "id": "dot.invalid.invalidbet",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "That bet doesn't work.",
+   "file": "Speech/dot/dot_invalid_invalidbet",
+   "hash": "1c27321e663ca51e",
+   "bytes": 5450
+  },
+  {
+   "id": "dot.invalid.notyourturn",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Not your turn yet.",
+   "file": "Speech/dot/dot_invalid_notyourturn",
+   "hash": "896df6f81ef88eb4",
+   "bytes": 5137
+  },
+  {
+   "id": "dot.pot.you",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Pot goes to you!",
+   "file": "Speech/dot/dot_pot_you",
+   "hash": "21be5b09ec1c072c",
+   "bytes": 5137
+  },
+  {
+   "id": "dot.sidepot.you",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Side pot to you!",
+   "file": "Speech/dot/dot_sidepot_you",
+   "hash": "e6735e1017d96292",
+   "bytes": 5137
+  },
+  {
+   "id": "dot.pot.pip",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Pot goes to Pip!",
+   "file": "Speech/dot/dot_pot_pip",
+   "hash": "371929ff4a4ba08f",
+   "bytes": 5659
+  },
+  {
+   "id": "dot.sidepot.pip",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Side pot to Pip!",
+   "file": "Speech/dot/dot_sidepot_pip",
+   "hash": "1e8e60e1e940331e",
+   "bytes": 5450
+  },
+  {
+   "id": "dot.pot.rocco",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Pot goes to Rocco!",
+   "file": "Speech/dot/dot_pot_rocco",
+   "hash": "687211b238ac8d4f",
+   "bytes": 5346
+  },
+  {
+   "id": "dot.sidepot.rocco",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Side pot to Rocco!",
+   "file": "Speech/dot/dot_sidepot_rocco",
+   "hash": "006e4c7eaa0d4bd6",
+   "bytes": 6391
+  },
+  {
+   "id": "dot.pot.vex",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Pot goes to Vex!",
+   "file": "Speech/dot/dot_pot_vex",
+   "hash": "b3594a09f9628ac4",
+   "bytes": 6077
+  },
+  {
+   "id": "dot.sidepot.vex",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Side pot to Vex!",
+   "file": "Speech/dot/dot_sidepot_vex",
+   "hash": "95a257287aa7ad99",
+   "bytes": 5659
+  },
+  {
+   "id": "dot.pot.silas",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Pot goes to Silas!",
+   "file": "Speech/dot/dot_pot_silas",
+   "hash": "1ed214923a741cb8",
+   "bytes": 6077
+  },
+  {
+   "id": "dot.sidepot.silas",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Side pot to Silas!",
+   "file": "Speech/dot/dot_sidepot_silas",
+   "hash": "feb1667e8685e3bf",
+   "bytes": 6077
+  },
+  {
+   "id": "dot.pot.split",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Split pot.",
+   "file": "Speech/dot/dot_pot_split",
+   "hash": "6692840f0e5e0ef5",
+   "bytes": 4719
+  },
+  {
+   "id": "dot.sidepot.split",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Side pot is split.",
+   "file": "Speech/dot/dot_sidepot_split",
+   "hash": "9bf7a045f09adb15",
+   "bytes": 5659
+  },
+  {
+   "id": "dot.gameover.won",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "You took the table!",
+   "file": "Speech/dot/dot_gameover_won",
+   "hash": "65dbd46f77cf357e",
+   "bytes": 5450
+  },
+  {
+   "id": "dot.gameover.busted",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Out of chips. Knock for a rematch.",
+   "file": "Speech/dot/dot_gameover_busted",
+   "hash": "02f08a28f7930be9",
+   "bytes": 8794
+  },
+  {
+   "id": "dot.gameover.end",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "That's the game! Knock to go again.",
+   "file": "Speech/dot/dot_gameover_end",
+   "hash": "c4a3707f8e3f8ac3",
+   "bytes": 8794
+  },
+  {
+   "id": "dot.newgame",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "New game! Chips reset.",
+   "file": "Speech/dot/dot_newgame",
+   "hash": "b1d29b38777ba386",
+   "bytes": 7540
+  },
+  {
+   "id": "dot.prefold",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Fold noted.",
+   "file": "Speech/dot/dot_prefold",
+   "hash": "63e94d58cb84f66b",
+   "bytes": 4406
+  },
+  {
+   "id": "dot.waitturn",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Wait for your turn.",
+   "file": "Speech/dot/dot_waitturn",
+   "hash": "7c06fda8cf89361a",
+   "bytes": 4928
+  },
+  {
+   "id": "dot.seg.welcome_back",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Welcome back!",
+   "file": "Speech/dot/dot_seg_welcome_back",
+   "hash": "57a254d02be7b53c",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.seg.wins_in",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "wins in",
+   "file": "Speech/dot/dot_seg_wins_in",
+   "hash": "b352cb0d7470b981",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.seg.win_in",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "win in",
+   "file": "Speech/dot/dot_seg_win_in",
+   "hash": "e7f8e3d2c70eebd8",
+   "bytes": 3465
+  },
+  {
+   "id": "dot.seg.tells_read",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "tells read",
+   "file": "Speech/dot/dot_seg_tells_read",
+   "hash": "a3c2a682e189efd4",
+   "bytes": 4406
+  },
+  {
+   "id": "dot.seg.so_far",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "so far",
+   "file": "Speech/dot/dot_seg_so_far",
+   "hash": "30305c8287953652",
+   "bytes": 4615
+  },
+  {
+   "id": "rocco.fool.peeks.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You looked at your cards twice. Not loving that hand, huh?",
+   "file": "Speech/rocco/rocco_fool_peeks_2",
+   "hash": "a83ae15d35e0aaf7",
+   "bytes": 16841
+  },
+  {
+   "id": "rocco.fool.peeks.3",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You looked at your cards three times. Not loving that hand, huh?",
+   "file": "Speech/rocco/rocco_fool_peeks_3",
+   "hash": "bf86190d8eb48104",
+   "bytes": 17781
+  },
+  {
+   "id": "rocco.fool.peeks.4",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You looked at your cards four times. Not loving that hand, huh?",
+   "file": "Speech/rocco/rocco_fool_peeks_4",
+   "hash": "6cef7f066c5075ab",
+   "bytes": 17781
+  },
+  {
+   "id": "rocco.fool.peeks.many",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You keep looking at your cards. Not loving that hand, huh?",
+   "file": "Speech/rocco/rocco_fool_peeks_many",
+   "hash": "de758fa44136792f",
+   "bytes": 16632
+  },
+  {
+   "id": "rocco.fool.slowreach",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Took you a while to reach for those chips. Weak.",
+   "file": "Speech/rocco/rocco_fool_slowreach",
+   "hash": "ade2dbf5644c04df",
+   "bytes": 14751
+  },
+  {
+   "id": "rocco.fool.slowmove",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Took you a while to make a move. Weak.",
+   "file": "Speech/rocco/rocco_fool_slowmove",
+   "hash": "922d7560e6d7394d",
+   "bytes": 12766
+  },
+  {
+   "id": "rocco.fool.hover",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Fiddling with your chips? Nervous.",
+   "file": "Speech/rocco/rocco_fool_hover",
+   "hash": "ad3c35da61088db7",
+   "bytes": 11616
+  },
+  {
+   "id": "rocco.fool.quick",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Quick decision. Confident, huh?",
+   "file": "Speech/rocco/rocco_fool_quick",
+   "hash": "2b520864310f4389",
+   "bytes": 10885
+  },
+  {
+   "id": "rocco.fool.call",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Took your time… you're bluffing. I call.",
+   "file": "Speech/rocco/rocco_fool_call",
+   "hash": "b11c818811427e12",
+   "bytes": 11825
+  },
+  {
+   "id": "rocco.fool.fold",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Quick bet. You've got it. I'm out.",
+   "file": "Speech/rocco/rocco_fool_fold",
+   "hash": "0d9b69df92650d5d",
+   "bytes": 12348
+  },
+  {
+   "id": "rocco.fool.played",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You played me!",
+   "file": "Speech/rocco/rocco_fool_played",
+   "hash": "699637df5ecf2b9a",
+   "bytes": 5869
+  },
+  {
+   "id": "rocco.fool.distrust",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Not this time.",
+   "file": "Speech/rocco/rocco_fool_distrust",
+   "hash": "254b4e4bea9f9980",
+   "bytes": 5869
+  },
+  {
+   "id": "dot.fool.nexthand",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Fool Rocco next hand!",
+   "file": "Speech/dot/dot_fool_nexthand",
+   "hash": "653bf18b22e40409",
+   "bytes": 6600
+  },
+  {
+   "id": "dot.fool.intro",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco reads your hands. Just play this one.",
+   "file": "Speech/dot/dot_fool_intro",
+   "hash": "0a3374d29f69c437",
+   "bytes": 9003
+  },
+  {
+   "id": "dot.fool.coach",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco thinks a slow reach means a weak hand. Try it — wait a few seconds before you bet.",
+   "file": "Speech/dot/dot_fool_coach",
+   "hash": "5094427fcfa0c181",
+   "bytes": 20706
+  },
+  {
+   "id": "dot.fool.fooled",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "You fooled him.",
+   "file": "Speech/dot/dot_fool_fooled",
+   "hash": "c1e9e6284e750fa8",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.fool.retry",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Try waiting next time.",
+   "file": "Speech/dot/dot_fool_retry",
+   "hash": "bee05da242bb8b8d",
+   "bytes": 5868
+  },
+  {
+   "id": "dot.fool.learns",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "He learns. Mix it up.",
+   "file": "Speech/dot/dot_fool_learns",
+   "hash": "6fd0d9568a56da86",
+   "bytes": 7018
+  },
+  {
+   "id": "rocco.live.think3.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Something wrong, champ?",
+   "file": "Speech/rocco/rocco_live_think3_1",
+   "hash": "cb145b023bf88af8",
+   "bytes": 6077
+  },
+  {
+   "id": "rocco.live.think3.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Tough one, huh?",
+   "file": "Speech/rocco/rocco_live_think3_2",
+   "hash": "33368cf2724d71b4",
+   "bytes": 5137
+  },
+  {
+   "id": "rocco.live.think3.3",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Need a minute, champ?",
+   "file": "Speech/rocco/rocco_live_think3_3",
+   "hash": "58b31d7425ecd723",
+   "bytes": 6391
+  },
+  {
+   "id": "rocco.live.think7.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Still thinking? That's a tell.",
+   "file": "Speech/rocco/rocco_live_think7_2",
+   "hash": "17749708c5e022c1",
+   "bytes": 9735
+  },
+  {
+   "id": "rocco.live.think7.3",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Somebody's scared.",
+   "file": "Speech/rocco/rocco_live_think7_3",
+   "hash": "6003cfc3d1fb37e0",
+   "bytes": 6391
+  },
+  {
+   "id": "rocco.live.think12.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Any day now, champ.",
+   "file": "Speech/rocco/rocco_live_think12_1",
+   "hash": "5f66a162cdca801e",
+   "bytes": 6809
+  },
+  {
+   "id": "rocco.live.think12.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "We're all getting older here.",
+   "file": "Speech/rocco/rocco_live_think12_2",
+   "hash": "7ed32ce755429714",
+   "bytes": 7749
+  },
+  {
+   "id": "rocco.live.relook.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Again? They didn't change.",
+   "file": "Speech/rocco/rocco_live_relook_1",
+   "hash": "5880a24f214de306",
+   "bytes": 8272
+  },
+  {
+   "id": "rocco.live.relook.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Not loving those cards, huh?",
+   "file": "Speech/rocco/rocco_live_relook_2",
+   "hash": "f721da1d9197c36b",
+   "bytes": 8272
+  },
+  {
+   "id": "rocco.live.relook.3",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Look all you want. Same cards.",
+   "file": "Speech/rocco/rocco_live_relook_3",
+   "hash": "d7a2cc487845a96b",
+   "bytes": 9735
+  },
+  {
+   "id": "rocco.live.reach.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Ooh, going in?",
+   "file": "Speech/rocco/rocco_live_reach_1",
+   "hash": "c54df5fc671c9cb7",
+   "bytes": 5868
+  },
+  {
+   "id": "rocco.live.reach.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "There it is. Reach for it.",
+   "file": "Speech/rocco/rocco_live_reach_2",
+   "hash": "b2db4f2cbff17816",
+   "bytes": 8481
+  },
+  {
+   "id": "rocco.live.reach.3",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Go on, grab some chips.",
+   "file": "Speech/rocco/rocco_live_reach_3",
+   "hash": "a85135ad2937bc90",
+   "bytes": 7018
+  },
+  {
+   "id": "rocco.live.pullback.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Changed your mind? I saw that.",
+   "file": "Speech/rocco/rocco_live_pullback_1",
+   "hash": "c972543dcf7866e2",
+   "bytes": 8794
+  },
+  {
+   "id": "rocco.live.pullback.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Ooh, cold feet?",
+   "file": "Speech/rocco/rocco_live_pullback_2",
+   "hash": "44a488a63dc149d9",
+   "bytes": 6286
+  },
+  {
+   "id": "rocco.live.pullback.3",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Hand goes in, hand comes back.",
+   "file": "Speech/rocco/rocco_live_pullback_3",
+   "hash": "8f93c70af1fefa4a",
+   "bytes": 9944
+  },
+  {
+   "id": "rocco.live.held.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Gonna hold those all day?",
+   "file": "Speech/rocco/rocco_live_held_1",
+   "hash": "2de1b4e2ab6dfa73",
+   "bytes": 7122
+  },
+  {
+   "id": "rocco.live.held.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Drop them in, champ.",
+   "file": "Speech/rocco/rocco_live_held_2",
+   "hash": "f013472bd5d6bc73",
+   "bytes": 6809
+  },
+  {
+   "id": "rocco.live.held.3",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Heavy, huh? Put them in.",
+   "file": "Speech/rocco/rocco_live_held_3",
+   "hash": "46e055e00ca5eece",
+   "bytes": 9212
+  },
+  {
+   "id": "rocco.live.putback.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Putting them back? Scared.",
+   "file": "Speech/rocco/rocco_live_putback_1",
+   "hash": "37d9077caadda197",
+   "bytes": 7958
+  },
+  {
+   "id": "rocco.live.putback.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Back in the stack, huh?",
+   "file": "Speech/rocco/rocco_live_putback_2",
+   "hash": "bb2f2460ef2e805a",
+   "bytes": 6809
+  },
+  {
+   "id": "rocco.live.cards.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Thinking of folding? Do it.",
+   "file": "Speech/rocco/rocco_live_cards_1",
+   "hash": "d0a034953193284b",
+   "bytes": 9630
+  },
+  {
+   "id": "rocco.live.cards.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Go on, toss them.",
+   "file": "Speech/rocco/rocco_live_cards_2",
+   "hash": "46099f758ccc5cf9",
+   "bytes": 8063
+  },
+  {
+   "id": "rocco.live.cards.3",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Folding already?",
+   "file": "Speech/rocco/rocco_live_cards_3",
+   "hash": "f9c4d13914c91047",
+   "bytes": 5868
+  },
+  {
+   "id": "rocco.live.gaze.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "See something you like?",
+   "file": "Speech/rocco/rocco_live_gaze_1",
+   "hash": "c3239d634e7ab550",
+   "bytes": 6286
+  },
+  {
+   "id": "rocco.live.gaze.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Looking for a tell? Good luck.",
+   "file": "Speech/rocco/rocco_live_gaze_2",
+   "hash": "4d9feff23e98de80",
+   "bytes": 9212
+  },
+  {
+   "id": "rocco.live.right.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Read you like a book.",
+   "file": "Speech/rocco/rocco_live_right_1",
+   "hash": "b6a1fb08f58c5426",
+   "bytes": 6286
+  },
+  {
+   "id": "rocco.live.right.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Called it. You were weak.",
+   "file": "Speech/rocco/rocco_live_right_2",
+   "hash": "873056431ca6cf0e",
+   "bytes": 8272
+  },
+  {
+   "id": "rocco.live.fooled.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You faked that? Nice.",
+   "file": "Speech/rocco/rocco_live_fooled_1",
+   "hash": "2110283e703e78ab",
+   "bytes": 7331
+  },
+  {
+   "id": "rocco.live.fooled.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Okay. That was a trick.",
+   "file": "Speech/rocco/rocco_live_fooled_2",
+   "hash": "94532ef7bfd6361e",
+   "bytes": 8272
+  },
+  {
+   "id": "pip.live.think3.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh, um, take your time.",
+   "file": "Speech/pip/pip_live_think3_1",
+   "hash": "98181984d8330633",
+   "bytes": 6809
+  },
+  {
+   "id": "pip.live.think3.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Is it hard? It looks hard.",
+   "file": "Speech/pip/pip_live_think3_2",
+   "hash": "36488c1e3ce1d770",
+   "bytes": 7331
+  },
+  {
+   "id": "pip.live.think7.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "I'd be thinking too.",
+   "file": "Speech/pip/pip_live_think7_1",
+   "hash": "64fac7899fba3d2a",
+   "bytes": 5868
+  },
+  {
+   "id": "pip.live.think7.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Long think. Is that bad for me?",
+   "file": "Speech/pip/pip_live_think7_2",
+   "hash": "e15a10e3174f05d4",
+   "bytes": 8690
+  },
+  {
+   "id": "pip.live.think12.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Should I get snacks?",
+   "file": "Speech/pip/pip_live_think12_1",
+   "hash": "14a5b611b39eb53f",
+   "bytes": 5868
+  },
+  {
+   "id": "pip.live.think12.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "I'm so nervous right now.",
+   "file": "Speech/pip/pip_live_think12_2",
+   "hash": "dd6bce3089a73d45",
+   "bytes": 6077
+  },
+  {
+   "id": "pip.live.relook.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Did they change? Mine never do.",
+   "file": "Speech/pip/pip_live_relook_1",
+   "hash": "b6fa940f2b567e21",
+   "bytes": 9944
+  },
+  {
+   "id": "pip.live.relook.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "You checked again! Is that good?",
+   "file": "Speech/pip/pip_live_relook_2",
+   "hash": "5c3ba0a60ae454e9",
+   "bytes": 8794
+  },
+  {
+   "id": "pip.live.reach.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh no, here it comes.",
+   "file": "Speech/pip/pip_live_reach_1",
+   "hash": "426a473321c10356",
+   "bytes": 6077
+  },
+  {
+   "id": "pip.live.reach.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Wait, you're betting?",
+   "file": "Speech/pip/pip_live_reach_2",
+   "hash": "a91eb82824d20973",
+   "bytes": 6077
+  },
+  {
+   "id": "pip.live.pullback.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh, thank goodness.",
+   "file": "Speech/pip/pip_live_pullback_1",
+   "hash": "1b95c8f7de2314dc",
+   "bytes": 5450
+  },
+  {
+   "id": "pip.live.pullback.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Phew. Wait, you're not?",
+   "file": "Speech/pip/pip_live_pullback_2",
+   "hash": "14978a1ccc65bcf3",
+   "bytes": 7749
+  },
+  {
+   "id": "pip.live.held.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "H-how much are you thinking?",
+   "file": "Speech/pip/pip_live_held_1",
+   "hash": "2074f0cb22644f44",
+   "bytes": 6077
+  },
+  {
+   "id": "pip.live.held.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "That's a lot of chips. Right?",
+   "file": "Speech/pip/pip_live_held_2",
+   "hash": "fac8ced952c26f8e",
+   "bytes": 8481
+  },
+  {
+   "id": "pip.live.putback.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "You put them back. Phew.",
+   "file": "Speech/pip/pip_live_putback_1",
+   "hash": "701473e37690935d",
+   "bytes": 6077
+  },
+  {
+   "id": "pip.live.putback.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Not betting? Okay. Okay good.",
+   "file": "Speech/pip/pip_live_putback_2",
+   "hash": "5aed7ae949417e55",
+   "bytes": 13287
+  },
+  {
+   "id": "pip.live.cards.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Are you folding? I won't tell.",
+   "file": "Speech/pip/pip_live_cards_1",
+   "hash": "74a8bbc432121b18",
+   "bytes": 7749
+  },
+  {
+   "id": "pip.live.cards.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh, are you out?",
+   "file": "Speech/pip/pip_live_cards_2",
+   "hash": "651f0bf318f50c4e",
+   "bytes": 4719
+  },
+  {
+   "id": "pip.live.gaze.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "I didn't do anything!",
+   "file": "Speech/pip/pip_live_gaze_2",
+   "hash": "0ab0f17e1b9cfc81",
+   "bytes": 5868
+  },
+  {
+   "id": "pip.live.right.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "I, um, kind of saw that coming.",
+   "file": "Speech/pip/pip_live_right_1",
+   "hash": "bedbd52c1da0cd5c",
+   "bytes": 8063
+  },
+  {
+   "id": "pip.live.fooled.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "You tricked me!",
+   "file": "Speech/pip/pip_live_fooled_1",
+   "hash": "87925feda0cd7b55",
+   "bytes": 4928
+  },
+  {
+   "id": "vex.live.think7.2",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Seven seconds.",
+   "file": "Speech/vex/vex_live_think7_2",
+   "hash": "651fda582b68c291",
+   "bytes": 4406
+  },
+  {
+   "id": "vex.live.think12.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Twelve seconds. Noted.",
+   "file": "Speech/vex/vex_live_think12_1",
+   "hash": "dd821063fcf96b53",
+   "bytes": 7122
+  },
+  {
+   "id": "vex.live.think12.2",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Decide.",
+   "file": "Speech/vex/vex_live_think12_2",
+   "hash": "0d14ecb545e1ece4",
+   "bytes": 3779
+  },
+  {
+   "id": "vex.live.relook.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Checking again? Hm.",
+   "file": "Speech/vex/vex_live_relook_1",
+   "hash": "01778acf2b52fd80",
+   "bytes": 6600
+  },
+  {
+   "id": "vex.live.relook.2",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Twice now.",
+   "file": "Speech/vex/vex_live_relook_2",
+   "hash": "7e8ad0c07eb4ed03",
+   "bytes": 4406
+  },
+  {
+   "id": "vex.live.reach.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Go on.",
+   "file": "Speech/vex/vex_live_reach_1",
+   "hash": "15038f50b77581dc",
+   "bytes": 3256
+  },
+  {
+   "id": "vex.live.reach.2",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Hm. Interested.",
+   "file": "Speech/vex/vex_live_reach_2",
+   "hash": "814eac4954798ad9",
+   "bytes": 5868
+  },
+  {
+   "id": "vex.live.pullback.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Hesitation. Noted.",
+   "file": "Speech/vex/vex_live_pullback_1",
+   "hash": "bc22d559a30ce53f",
+   "bytes": 6391
+  },
+  {
+   "id": "vex.live.pullback.2",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "You flinched.",
+   "file": "Speech/vex/vex_live_pullback_2",
+   "hash": "b7a08d864ba3d83b",
+   "bytes": 4719
+  },
+  {
+   "id": "vex.live.held.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Heavy decision.",
+   "file": "Speech/vex/vex_live_held_1",
+   "hash": "966779ad368ffe44",
+   "bytes": 4928
+  },
+  {
+   "id": "vex.live.held.2",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Count them twice.",
+   "file": "Speech/vex/vex_live_held_2",
+   "hash": "48c7ce7aeb545f8a",
+   "bytes": 5450
+  },
+  {
+   "id": "vex.live.putback.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Back in the stack. Hm.",
+   "file": "Speech/vex/vex_live_putback_1",
+   "hash": "c4717d4be8d884e1",
+   "bytes": 6391
+  },
+  {
+   "id": "vex.live.cards.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Your cards won't save you.",
+   "file": "Speech/vex/vex_live_cards_1",
+   "hash": "d081758dd861c091",
+   "bytes": 7018
+  },
+  {
+   "id": "vex.live.cards.2",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Fold, then.",
+   "file": "Speech/vex/vex_live_cards_2",
+   "hash": "3cef3b89bbaba5fd",
+   "bytes": 4197
+  },
+  {
+   "id": "vex.live.right.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Readable.",
+   "file": "Speech/vex/vex_live_right_1",
+   "hash": "3790a4373763dbd9",
+   "bytes": 3988
+  },
+  {
+   "id": "vex.live.fooled.1",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Clever. Once.",
+   "file": "Speech/vex/vex_live_fooled_1",
+   "hash": "2bdbe1686ca75669",
+   "bytes": 4406
+  },
+  {
+   "id": "silas.live.think3.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "No rush.",
+   "file": "Speech/silas/silas_live_think3_1",
+   "hash": "7aea3a4e9d8b935f",
+   "bytes": 4197
+  },
+  {
+   "id": "silas.live.think7.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "I've got all night.",
+   "file": "Speech/silas/silas_live_think7_1",
+   "hash": "e58f1c7da5f199e0",
+   "bytes": 5659
+  },
+  {
+   "id": "silas.live.think7.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Still deciding? Fine.",
+   "file": "Speech/silas/silas_live_think7_2",
+   "hash": "f38faee7dada5d70",
+   "bytes": 6809
+  },
+  {
+   "id": "silas.live.think12.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "My coffee's getting cold.",
+   "file": "Speech/silas/silas_live_think12_1",
+   "hash": "f5696933b76e0cbc",
+   "bytes": 7018
+  },
+  {
+   "id": "silas.live.think12.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "I've aged a little here.",
+   "file": "Speech/silas/silas_live_think12_2",
+   "hash": "c556e15ec7caa669",
+   "bytes": 6600
+  },
+  {
+   "id": "silas.live.relook.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Still the same two cards.",
+   "file": "Speech/silas/silas_live_relook_1",
+   "hash": "0f51afe6787dd37b",
+   "bytes": 6600
+  },
+  {
+   "id": "silas.live.relook.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Second look. I saw.",
+   "file": "Speech/silas/silas_live_relook_2",
+   "hash": "255cf49ec40a9c29",
+   "bytes": 8272
+  },
+  {
+   "id": "silas.live.reach.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Go on, then.",
+   "file": "Speech/silas/silas_live_reach_1",
+   "hash": "736ee03c296e90b7",
+   "bytes": 4719
+  },
+  {
+   "id": "silas.live.reach.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "There's the reach.",
+   "file": "Speech/silas/silas_live_reach_2",
+   "hash": "409305772ce268e8",
+   "bytes": 5137
+  },
+  {
+   "id": "silas.live.pullback.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Hand came back. Hm.",
+   "file": "Speech/silas/silas_live_pullback_1",
+   "hash": "27dff7b67e6daa84",
+   "bytes": 7540
+  },
+  {
+   "id": "silas.live.pullback.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Second thoughts.",
+   "file": "Speech/silas/silas_live_pullback_2",
+   "hash": "db2219c84b5bfdad",
+   "bytes": 5659
+  },
+  {
+   "id": "silas.live.held.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "They don't get lighter.",
+   "file": "Speech/silas/silas_live_held_1",
+   "hash": "bb3b270eb8d8ed7f",
+   "bytes": 5450
+  },
+  {
+   "id": "silas.live.held.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Weighing it, huh?",
+   "file": "Speech/silas/silas_live_held_2",
+   "hash": "5345649fc0b70946",
+   "bytes": 5137
+  },
+  {
+   "id": "silas.live.putback.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Back in the stack.",
+   "file": "Speech/silas/silas_live_putback_1",
+   "hash": "5936479a40c713be",
+   "bytes": 5659
+  },
+  {
+   "id": "silas.live.putback.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Changed your mind.",
+   "file": "Speech/silas/silas_live_putback_2",
+   "hash": "53626f602b0d0d3e",
+   "bytes": 5450
+  },
+  {
+   "id": "silas.live.cards.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Folding is a choice too.",
+   "file": "Speech/silas/silas_live_cards_1",
+   "hash": "68d1afd4809a2028",
+   "bytes": 7331
+  },
+  {
+   "id": "silas.live.cards.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Cards looking tired?",
+   "file": "Speech/silas/silas_live_cards_2",
+   "hash": "5dfff52bb35d612c",
+   "bytes": 6809
+  },
+  {
+   "id": "silas.live.gaze.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Seen enough, kid?",
+   "file": "Speech/silas/silas_live_gaze_1",
+   "hash": "e92b776c172fd388",
+   "bytes": 5137
+  },
+  {
+   "id": "silas.live.gaze.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Look all you like.",
+   "file": "Speech/silas/silas_live_gaze_2",
+   "hash": "7efc3e905469e9da",
+   "bytes": 5137
+  },
+  {
+   "id": "silas.live.right.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Old tricks still work.",
+   "file": "Speech/silas/silas_live_right_1",
+   "hash": "01daead6f06cf132",
+   "bytes": 6391
+  },
+  {
+   "id": "silas.live.fooled.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Hm. You got me.",
+   "file": "Speech/silas/silas_live_fooled_1",
+   "hash": "38ca10e3e02088d4",
+   "bytes": 6809
+  },
+  {
+   "id": "dot.live.think12.1",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Take your time.",
+   "file": "Speech/dot/dot_live_think12_1",
+   "hash": "a2c4e35bdda3b048",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.live.think12.2",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Action is still on you.",
+   "file": "Speech/dot/dot_live_think12_2",
+   "hash": "8463f57720a232b5",
+   "bytes": 6286
+  },
+  {
+   "id": "dot.live.think12.3",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "No rush. Your call.",
+   "file": "Speech/dot/dot_live_think12_3",
+   "hash": "5694e967125a5611",
+   "bytes": 7018
+  },
+  {
+   "id": "pip.filler",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Hm?",
+   "file": "Speech/pip/pip_filler",
+   "hash": "f9e2f73ec8b09ac7",
+   "bytes": 2944
+  },
+  {
+   "id": "pip.canned.1",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Um, sorry, I didn't catch that.",
+   "file": "Speech/pip/pip_canned_1",
+   "hash": "e5816ca63b0a4450",
+   "bytes": 9422
+  },
+  {
+   "id": "pip.canned.2",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh gosh, could you say that again?",
+   "file": "Speech/pip/pip_canned_2",
+   "hash": "ed12b611a9645739",
+   "bytes": 7332
+  },
+  {
+   "id": "pip.fb.nothing_to_call",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Nothing to call. You can check.",
+   "file": "Speech/pip/pip_fb_nothing_to_call",
+   "hash": "1872afa8b6a43661",
+   "bytes": 9213
+  },
+  {
+   "id": "pip.fb.nobody_up",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Nobody's up right now.",
+   "file": "Speech/pip/pip_fb_nobody_up",
+   "hash": "47bfcd5ed267b579",
+   "bytes": 5660
+  },
+  {
+   "id": "pip.fb.your_turn",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "It's your turn.",
+   "file": "Speech/pip/pip_fb_your_turn",
+   "hash": "99d57dd5490a4d96",
+   "bytes": 4616
+  },
+  {
+   "id": "pip.fb.my_turn",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "It's my turn.",
+   "file": "Speech/pip/pip_fb_my_turn",
+   "hash": "ebf54e367e57d63c",
+   "bytes": 4616
+  },
+  {
+   "id": "pip.fb.turn_rocco",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Rocco's turn.",
+   "file": "Speech/pip/pip_fb_turn_rocco",
+   "hash": "f7129d41de74dfdb",
+   "bytes": 5660
+  },
+  {
+   "id": "pip.seg.rocco_has",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco has",
+   "file": "Speech/pip/pip_seg_rocco_has",
+   "hash": "26db1c4ff8b8f37a",
+   "bytes": 4616
+  },
+  {
+   "id": "pip.fb.turn_vex",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Vex's turn.",
+   "file": "Speech/pip/pip_fb_turn_vex",
+   "hash": "7f36edc5f5d38a87",
+   "bytes": 5451
+  },
+  {
+   "id": "pip.seg.vex_has",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Vex has",
+   "file": "Speech/pip/pip_seg_vex_has",
+   "hash": "15721bc308fb04e4",
+   "bytes": 3989
+  },
+  {
+   "id": "pip.fb.turn_silas",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Silas's turn.",
+   "file": "Speech/pip/pip_fb_turn_silas",
+   "hash": "88013dbe515e086a",
+   "bytes": 5868
+  },
+  {
+   "id": "pip.seg.silas_has",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Silas has",
+   "file": "Speech/pip/pip_seg_silas_has",
+   "hash": "cdd45597b89fd251",
+   "bytes": 4719
+  },
+  {
+   "id": "pip.seg.pot_is",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "The pot is",
+   "file": "Speech/pip/pip_seg_pot_is",
+   "hash": "2c300e99d8a3e3b0",
+   "bytes": 4198
+  },
+  {
+   "id": "pip.seg.you_need",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "You need",
+   "file": "Speech/pip/pip_seg_you_need",
+   "hash": "082af2bf8d1e16c8",
+   "bytes": 3466
+  },
+  {
+   "id": "pip.seg.to_call",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "to call",
+   "file": "Speech/pip/pip_seg_to_call",
+   "hash": "6bbf7b8fcbff6268",
+   "bytes": 3466
+  },
+  {
+   "id": "pip.seg.blinds_are",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "Blinds are",
+   "file": "Speech/pip/pip_seg_blinds_are",
+   "hash": "7edf9dc988e94f61",
+   "bytes": 4616
+  },
+  {
+   "id": "pip.seg.and",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "and",
+   "file": "Speech/pip/pip_seg_and",
+   "hash": "e17fe1633f1c61f5",
+   "bytes": 2735
+  },
+  {
+   "id": "pip.seg.you_have",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "You have",
+   "file": "Speech/pip/pip_seg_you_have",
+   "hash": "e1f6996690ac747a",
+   "bytes": 3780
+  },
+  {
+   "id": "pip.seg.i_have",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "I have",
+   "file": "Speech/pip/pip_seg_i_have",
+   "hash": "a67577c57da39098",
+   "bytes": 3466
+  },
+  {
+   "id": "rocco.filler",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Yeah?",
+   "file": "Speech/rocco/rocco_filler",
+   "hash": "059e64f8344d4473",
+   "bytes": 3466
+  },
+  {
+   "id": "rocco.canned.1",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Speak up, kid.",
+   "file": "Speech/rocco/rocco_canned_1",
+   "hash": "3e1b4a9d6b5cd487",
+   "bytes": 5451
+  },
+  {
+   "id": "rocco.canned.2",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "What? Mumbling won't win you chips.",
+   "file": "Speech/rocco/rocco_canned_2",
+   "hash": "510f6a4e0efeb3ca",
+   "bytes": 12557
+  },
+  {
+   "id": "rocco.fb.nothing_to_call",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Nothing to call. You can check.",
+   "file": "Speech/rocco/rocco_fb_nothing_to_call",
+   "hash": "a6b3fb99d541ea53",
+   "bytes": 9736
+  },
+  {
+   "id": "rocco.fb.nobody_up",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Nobody's up right now.",
+   "file": "Speech/rocco/rocco_fb_nobody_up",
+   "hash": "9aa0400096b34c06",
+   "bytes": 6287
+  },
+  {
+   "id": "rocco.fb.your_turn",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "It's your turn.",
+   "file": "Speech/rocco/rocco_fb_your_turn",
+   "hash": "ec4e30afa4e4ab3e",
+   "bytes": 5138
+  },
+  {
+   "id": "rocco.fb.my_turn",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "It's my turn.",
+   "file": "Speech/rocco/rocco_fb_my_turn",
+   "hash": "3984147ba11f2785",
+   "bytes": 5347
+  },
+  {
+   "id": "rocco.fb.turn_pip",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Pip's turn.",
+   "file": "Speech/rocco/rocco_fb_turn_pip",
+   "hash": "34446e284df423fa",
+   "bytes": 6287
+  },
+  {
+   "id": "rocco.seg.pip_has",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Pip has",
+   "file": "Speech/rocco/rocco_seg_pip_has",
+   "hash": "7038396374136c46",
+   "bytes": 4616
+  },
+  {
+   "id": "rocco.fb.turn_vex",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Vex's turn.",
+   "file": "Speech/rocco/rocco_fb_turn_vex",
+   "hash": "684f425b1a9b9a75",
+   "bytes": 6078
+  },
+  {
+   "id": "rocco.seg.vex_has",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Vex has",
+   "file": "Speech/rocco/rocco_seg_vex_has",
+   "hash": "544e1c22b33406fb",
+   "bytes": 4929
+  },
+  {
+   "id": "rocco.fb.turn_silas",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Silas's turn.",
+   "file": "Speech/rocco/rocco_fb_turn_silas",
+   "hash": "d5ccae45cfb3690f",
+   "bytes": 6600
+  },
+  {
+   "id": "rocco.seg.silas_has",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Silas has",
+   "file": "Speech/rocco/rocco_seg_silas_has",
+   "hash": "9cd2f44ee61aa2ae",
+   "bytes": 6077
+  },
+  {
+   "id": "rocco.seg.pot_is",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "The pot is",
+   "file": "Speech/rocco/rocco_seg_pot_is",
+   "hash": "0a0733ba80720d82",
+   "bytes": 5138
+  },
+  {
+   "id": "rocco.seg.you_need",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You need",
+   "file": "Speech/rocco/rocco_seg_you_need",
+   "hash": "6511ad9390d8b2b0",
+   "bytes": 3989
+  },
+  {
+   "id": "rocco.seg.to_call",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "to call",
+   "file": "Speech/rocco/rocco_seg_to_call",
+   "hash": "5f19d9d736cb41e2",
+   "bytes": 4407
+  },
+  {
+   "id": "rocco.seg.blinds_are",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "Blinds are",
+   "file": "Speech/rocco/rocco_seg_blinds_are",
+   "hash": "39146ede85647812",
+   "bytes": 5138
+  },
+  {
+   "id": "rocco.seg.and",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "and",
+   "file": "Speech/rocco/rocco_seg_and",
+   "hash": "369f1283c945a9f0",
+   "bytes": 3257
+  },
+  {
+   "id": "rocco.seg.you_have",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "You have",
+   "file": "Speech/rocco/rocco_seg_you_have",
+   "hash": "4590b6475bf98420",
+   "bytes": 4198
+  },
+  {
+   "id": "rocco.seg.i_have",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "I have",
+   "file": "Speech/rocco/rocco_seg_i_have",
+   "hash": "e68902c1806f7283",
+   "bytes": 3989
+  },
+  {
+   "id": "vex.canned.2",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Say again.",
+   "file": "Speech/vex/vex_canned_2",
+   "hash": "7afb2d0f5d996a97",
+   "bytes": 3989
+  },
+  {
+   "id": "vex.fb.nothing_to_call",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Nothing to call. You can check.",
+   "file": "Speech/vex/vex_fb_nothing_to_call",
+   "hash": "3ee726ed575e13ab",
+   "bytes": 8273
+  },
+  {
+   "id": "vex.fb.nobody_up",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Nobody's up right now.",
+   "file": "Speech/vex/vex_fb_nobody_up",
+   "hash": "49a75e58a6da9076",
+   "bytes": 5869
+  },
+  {
+   "id": "vex.fb.your_turn",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "It's your turn.",
+   "file": "Speech/vex/vex_fb_your_turn",
+   "hash": "fc5d2ed3119d0fdf",
+   "bytes": 5138
+  },
+  {
+   "id": "vex.fb.my_turn",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "It's my turn.",
+   "file": "Speech/vex/vex_fb_my_turn",
+   "hash": "24ab51a6e89078eb",
+   "bytes": 5138
+  },
+  {
+   "id": "vex.fb.turn_pip",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Pip's turn.",
+   "file": "Speech/vex/vex_fb_turn_pip",
+   "hash": "97c21cfaf2699ff0",
+   "bytes": 5451
+  },
+  {
+   "id": "vex.seg.pip_has",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Pip has",
+   "file": "Speech/vex/vex_seg_pip_has",
+   "hash": "5bd4e953ce2607e5",
+   "bytes": 4198
+  },
+  {
+   "id": "vex.fb.turn_rocco",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Rocco's turn.",
+   "file": "Speech/vex/vex_fb_turn_rocco",
+   "hash": "b56faf7ca2e700cf",
+   "bytes": 5451
+  },
+  {
+   "id": "vex.seg.rocco_has",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco has",
+   "file": "Speech/vex/vex_seg_rocco_has",
+   "hash": "4e8f59a1978d85e1",
+   "bytes": 4720
+  },
+  {
+   "id": "vex.fb.turn_silas",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Silas's turn.",
+   "file": "Speech/vex/vex_fb_turn_silas",
+   "hash": "60c3c371ed19c96b",
+   "bytes": 6600
+  },
+  {
+   "id": "vex.seg.silas_has",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Silas has",
+   "file": "Speech/vex/vex_seg_silas_has",
+   "hash": "ffe47bc3af4886c0",
+   "bytes": 5137
+  },
+  {
+   "id": "vex.seg.pot_is",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "The pot is",
+   "file": "Speech/vex/vex_seg_pot_is",
+   "hash": "6ce1ffb7273e1252",
+   "bytes": 4616
+  },
+  {
+   "id": "vex.seg.you_need",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "You need",
+   "file": "Speech/vex/vex_seg_you_need",
+   "hash": "d3fc8ebd3a21f079",
+   "bytes": 4407
+  },
+  {
+   "id": "vex.seg.to_call",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "to call",
+   "file": "Speech/vex/vex_seg_to_call",
+   "hash": "43c83ef7abf218aa",
+   "bytes": 3780
+  },
+  {
+   "id": "vex.seg.blinds_are",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "Blinds are",
+   "file": "Speech/vex/vex_seg_blinds_are",
+   "hash": "d50abd3afe687c16",
+   "bytes": 4198
+  },
+  {
+   "id": "vex.seg.and",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "and",
+   "file": "Speech/vex/vex_seg_and",
+   "hash": "8f65533afe15d04a",
+   "bytes": 3466
+  },
+  {
+   "id": "vex.seg.you_have",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "You have",
+   "file": "Speech/vex/vex_seg_you_have",
+   "hash": "a8380293b63f5546",
+   "bytes": 3780
+  },
+  {
+   "id": "vex.seg.i_have",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "I have",
+   "file": "Speech/vex/vex_seg_i_have",
+   "hash": "14aa2951ce0c6b41",
+   "bytes": 3675
+  },
+  {
+   "id": "dot.filler",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Yes?",
+   "file": "Speech/dot/dot_filler",
+   "hash": "c9fa099a61208f10",
+   "bytes": 2734
+  },
+  {
+   "id": "dot.canned.1",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Sorry, I didn't catch that.",
+   "file": "Speech/dot/dot_canned_1",
+   "hash": "b60846ef3d5cb8e5",
+   "bytes": 6600
+  },
+  {
+   "id": "dot.canned.2",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Could you repeat that, please?",
+   "file": "Speech/dot/dot_canned_2",
+   "hash": "d608f3b50613dc3b",
+   "bytes": 7122
+  },
+  {
+   "id": "dot.fb.nothing_to_call",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Nothing to call. You can check.",
+   "file": "Speech/dot/dot_fb_nothing_to_call",
+   "hash": "de4bffd8dab1eb90",
+   "bytes": 9212
+  },
+  {
+   "id": "dot.fb.nobody_up",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Nobody's up right now.",
+   "file": "Speech/dot/dot_fb_nobody_up",
+   "hash": "08e1d5b5df2e4fb9",
+   "bytes": 6286
+  },
+  {
+   "id": "dot.fb.your_turn",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "It's your turn.",
+   "file": "Speech/dot/dot_fb_your_turn",
+   "hash": "e6d93384cb1bdae9",
+   "bytes": 4928
+  },
+  {
+   "id": "dot.fb.turn_pip",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Pip's turn.",
+   "file": "Speech/dot/dot_fb_turn_pip",
+   "hash": "f81a2a8b9f24303b",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.seg.pip_has",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Pip has",
+   "file": "Speech/dot/dot_seg_pip_has",
+   "hash": "00b589617d84aa55",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.fb.turn_rocco",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Rocco's turn.",
+   "file": "Speech/dot/dot_fb_turn_rocco",
+   "hash": "bd60beea78177f61",
+   "bytes": 6286
+  },
+  {
+   "id": "dot.seg.rocco_has",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco has",
+   "file": "Speech/dot/dot_seg_rocco_has",
+   "hash": "ebd886631f93ac26",
+   "bytes": 5137
+  },
+  {
+   "id": "dot.fb.turn_vex",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Vex's turn.",
+   "file": "Speech/dot/dot_fb_turn_vex",
+   "hash": "83cc56f5bcc0a559",
+   "bytes": 5346
+  },
+  {
+   "id": "dot.seg.vex_has",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Vex has",
+   "file": "Speech/dot/dot_seg_vex_has",
+   "hash": "e0b0505eefdb989f",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.fb.turn_silas",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Silas's turn.",
+   "file": "Speech/dot/dot_fb_turn_silas",
+   "hash": "9bbea2980655976b",
+   "bytes": 6077
+  },
+  {
+   "id": "dot.seg.silas_has",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Silas has",
+   "file": "Speech/dot/dot_seg_silas_has",
+   "hash": "57c02cb880c66c47",
+   "bytes": 4615
+  },
+  {
+   "id": "dot.seg.pot_is",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "The pot is",
+   "file": "Speech/dot/dot_seg_pot_is",
+   "hash": "04ed8b07ed70b066",
+   "bytes": 4406
+  },
+  {
+   "id": "dot.seg.you_need",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "You need",
+   "file": "Speech/dot/dot_seg_you_need",
+   "hash": "b457fe82f698fb6d",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.seg.to_call",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "to call",
+   "file": "Speech/dot/dot_seg_to_call",
+   "hash": "9362c653abff9e62",
+   "bytes": 4197
+  },
+  {
+   "id": "dot.seg.blinds_are",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "Blinds are",
+   "file": "Speech/dot/dot_seg_blinds_are",
+   "hash": "b8a9c6412f8752b9",
+   "bytes": 4197
+  },
+  {
+   "id": "dot.seg.and",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "and",
+   "file": "Speech/dot/dot_seg_and",
+   "hash": "d707b63fcb34e174",
+   "bytes": 3256
+  },
+  {
+   "id": "dot.seg.you_have",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "You have",
+   "file": "Speech/dot/dot_seg_you_have",
+   "hash": "f6dce5ac3657b035",
+   "bytes": 3988
+  },
+  {
+   "id": "silas.filler",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Go on.",
+   "file": "Speech/silas/silas_filler",
+   "hash": "026f4b69ee2cbb1f",
+   "bytes": 3674
+  },
+  {
+   "id": "silas.canned.1",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Didn't catch that, kid.",
+   "file": "Speech/silas/silas_canned_1",
+   "hash": "6ce422a531c545c3",
+   "bytes": 6391
+  },
+  {
+   "id": "silas.canned.2",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Once more. Slower.",
+   "file": "Speech/silas/silas_canned_2",
+   "hash": "e58e1062ae7c91d7",
+   "bytes": 6809
+  },
+  {
+   "id": "silas.fb.nothing_to_call",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Nothing to call. You can check.",
+   "file": "Speech/silas/silas_fb_nothing_to_call",
+   "hash": "af7e84018815bcba",
+   "bytes": 9212
+  },
+  {
+   "id": "silas.fb.nobody_up",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Nobody's up right now.",
+   "file": "Speech/silas/silas_fb_nobody_up",
+   "hash": "cf2c831451f382a6",
+   "bytes": 6286
+  },
+  {
+   "id": "silas.fb.your_turn",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "It's your turn.",
+   "file": "Speech/silas/silas_fb_your_turn",
+   "hash": "71a9242ff1f10784",
+   "bytes": 5137
+  },
+  {
+   "id": "silas.fb.my_turn",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "It's my turn.",
+   "file": "Speech/silas/silas_fb_my_turn",
+   "hash": "00919e1dd7afb11b",
+   "bytes": 4615
+  },
+  {
+   "id": "silas.fb.turn_pip",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Pip's turn.",
+   "file": "Speech/silas/silas_fb_turn_pip",
+   "hash": "3c22605ceb0ff07b",
+   "bytes": 5137
+  },
+  {
+   "id": "silas.seg.pip_has",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Pip has",
+   "file": "Speech/silas/silas_seg_pip_has",
+   "hash": "ce15de6622496555",
+   "bytes": 4406
+  },
+  {
+   "id": "silas.fb.turn_rocco",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Rocco's turn.",
+   "file": "Speech/silas/silas_fb_turn_rocco",
+   "hash": "088d3922706ddb5f",
+   "bytes": 5868
+  },
+  {
+   "id": "silas.seg.rocco_has",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco has",
+   "file": "Speech/silas/silas_seg_rocco_has",
+   "hash": "1bbe6809338b59e5",
+   "bytes": 4615
+  },
+  {
+   "id": "silas.fb.turn_vex",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Vex's turn.",
+   "file": "Speech/silas/silas_fb_turn_vex",
+   "hash": "a61531ded546206d",
+   "bytes": 6286
+  },
+  {
+   "id": "silas.seg.vex_has",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Vex has",
+   "file": "Speech/silas/silas_seg_vex_has",
+   "hash": "ae033bdd4792d24d",
+   "bytes": 3988
+  },
+  {
+   "id": "silas.seg.pot_is",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "The pot is",
+   "file": "Speech/silas/silas_seg_pot_is",
+   "hash": "97d682a83e09fee3",
+   "bytes": 4615
+  },
+  {
+   "id": "silas.seg.you_need",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "You need",
+   "file": "Speech/silas/silas_seg_you_need",
+   "hash": "b3359bcd3b2493c3",
+   "bytes": 3988
+  },
+  {
+   "id": "silas.seg.to_call",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "to call",
+   "file": "Speech/silas/silas_seg_to_call",
+   "hash": "ff0ed3acc9e0ce18",
+   "bytes": 3988
+  },
+  {
+   "id": "silas.seg.blinds_are",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "Blinds are",
+   "file": "Speech/silas/silas_seg_blinds_are",
+   "hash": "b2ac83794cb6b55c",
+   "bytes": 4928
+  },
+  {
+   "id": "silas.seg.and",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "and",
+   "file": "Speech/silas/silas_seg_and",
+   "hash": "2590b0cd83b1eeaf",
+   "bytes": 3047
+  },
+  {
+   "id": "silas.seg.you_have",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "You have",
+   "file": "Speech/silas/silas_seg_you_have",
+   "hash": "ad48c3952b4132a0",
+   "bytes": 4615
+  },
+  {
+   "id": "silas.seg.i_have",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "I have",
+   "file": "Speech/silas/silas_seg_i_have",
+   "hash": "11952bf3c9c52bb0",
+   "bytes": 3779
+  },
+  {
+   "id": "pip.num.zero",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "zero",
+   "file": "Speech/pip/pip_num_zero",
+   "hash": "1ddfbe239eb44dfa",
+   "bytes": 3466
+  },
+  {
+   "id": "pip.num.one",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "one",
+   "file": "Speech/pip/pip_num_one",
+   "hash": "bde2433bf95b9c8f",
+   "bytes": 2526
+  },
+  {
+   "id": "pip.num.two",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "two",
+   "file": "Speech/pip/pip_num_two",
+   "hash": "aa69b791f6439a5a",
+   "bytes": 4407
+  },
+  {
+   "id": "pip.num.three",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "three",
+   "file": "Speech/pip/pip_num_three",
+   "hash": "0a2858b98d6924e8",
+   "bytes": 3780
+  },
+  {
+   "id": "pip.num.four",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "four",
+   "file": "Speech/pip/pip_num_four",
+   "hash": "abb46fad8bcc88ba",
+   "bytes": 2944
+  },
+  {
+   "id": "pip.num.five",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "five",
+   "file": "Speech/pip/pip_num_five",
+   "hash": "c311cae929189c1c",
+   "bytes": 2735
+  },
+  {
+   "id": "pip.num.six",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "six",
+   "file": "Speech/pip/pip_num_six",
+   "hash": "4767c807ec3a52b3",
+   "bytes": 2526
+  },
+  {
+   "id": "pip.num.seven",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "seven",
+   "file": "Speech/pip/pip_num_seven",
+   "hash": "474bf13cf58a6bfd",
+   "bytes": 4198
+  },
+  {
+   "id": "pip.num.eight",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "eight",
+   "file": "Speech/pip/pip_num_eight",
+   "hash": "485b4911c0f9fd77",
+   "bytes": 3466
+  },
+  {
+   "id": "pip.num.nine",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "nine",
+   "file": "Speech/pip/pip_num_nine",
+   "hash": "75d9b6922cd3556d",
+   "bytes": 2526
+  },
+  {
+   "id": "pip.num.ten",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "ten",
+   "file": "Speech/pip/pip_num_ten",
+   "hash": "3c84d164dcbd9262",
+   "bytes": 3989
+  },
+  {
+   "id": "pip.num.eleven",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "eleven",
+   "file": "Speech/pip/pip_num_eleven",
+   "hash": "e7db38fd1ebccfc5",
+   "bytes": 3780
+  },
+  {
+   "id": "pip.num.twelve",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "twelve",
+   "file": "Speech/pip/pip_num_twelve",
+   "hash": "d834622de637f95d",
+   "bytes": 3780
+  },
+  {
+   "id": "pip.num.thirteen",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "thirteen",
+   "file": "Speech/pip/pip_num_thirteen",
+   "hash": "a8bda592a7b4c816",
+   "bytes": 3780
+  },
+  {
+   "id": "pip.num.fourteen",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "fourteen",
+   "file": "Speech/pip/pip_num_fourteen",
+   "hash": "fd281788fe4c5ead",
+   "bytes": 3989
+  },
+  {
+   "id": "pip.num.fifteen",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "fifteen",
+   "file": "Speech/pip/pip_num_fifteen",
+   "hash": "0b5fd89c7ffa2e07",
+   "bytes": 3675
+  },
+  {
+   "id": "pip.num.sixteen",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "sixteen",
+   "file": "Speech/pip/pip_num_sixteen",
+   "hash": "f637a5169cb743b8",
+   "bytes": 4198
+  },
+  {
+   "id": "pip.num.seventeen",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "seventeen",
+   "file": "Speech/pip/pip_num_seventeen",
+   "hash": "c73a7a6e6168b4aa",
+   "bytes": 4198
+  },
+  {
+   "id": "pip.num.eighteen",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "eighteen",
+   "file": "Speech/pip/pip_num_eighteen",
+   "hash": "1fa463541434431a",
+   "bytes": 4407
+  },
+  {
+   "id": "pip.num.nineteen",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "nineteen",
+   "file": "Speech/pip/pip_num_nineteen",
+   "hash": "7c3dfd6dd8e354d1",
+   "bytes": 4198
+  },
+  {
+   "id": "pip.num.twenty",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "twenty",
+   "file": "Speech/pip/pip_num_twenty",
+   "hash": "ccaf6991a0461026",
+   "bytes": 3257
+  },
+  {
+   "id": "pip.num.thirty",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "thirty",
+   "file": "Speech/pip/pip_num_thirty",
+   "hash": "5717e480b551c61b",
+   "bytes": 4198
+  },
+  {
+   "id": "pip.num.forty",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "forty",
+   "file": "Speech/pip/pip_num_forty",
+   "hash": "af88a36e805af235",
+   "bytes": 3257
+  },
+  {
+   "id": "pip.num.fifty",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "fifty",
+   "file": "Speech/pip/pip_num_fifty",
+   "hash": "fcab05650427af87",
+   "bytes": 3466
+  },
+  {
+   "id": "pip.num.sixty",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "sixty",
+   "file": "Speech/pip/pip_num_sixty",
+   "hash": "ad33319e73bde527",
+   "bytes": 2317
+  },
+  {
+   "id": "pip.num.seventy",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "seventy",
+   "file": "Speech/pip/pip_num_seventy",
+   "hash": "cfcb1ce2c89b2809",
+   "bytes": 4720
+  },
+  {
+   "id": "pip.num.eighty",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "eighty",
+   "file": "Speech/pip/pip_num_eighty",
+   "hash": "6848466202b8f7bc",
+   "bytes": 3048
+  },
+  {
+   "id": "pip.num.ninety",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "ninety",
+   "file": "Speech/pip/pip_num_ninety",
+   "hash": "397730eedfe70893",
+   "bytes": 3780
+  },
+  {
+   "id": "pip.num.hundred",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "hundred",
+   "file": "Speech/pip/pip_num_hundred",
+   "hash": "c293b1eb34d02242",
+   "bytes": 3466
+  },
+  {
+   "id": "pip.num.thousand",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "thousand",
+   "file": "Speech/pip/pip_num_thousand",
+   "hash": "80f78c8acc53c25c",
+   "bytes": 3675
+  },
+  {
+   "id": "pip.num.million",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "million",
+   "file": "Speech/pip/pip_num_million",
+   "hash": "07c968b3edffbe90",
+   "bytes": 3780
+  },
+  {
+   "id": "pip.num.percent",
+   "voice": "pip",
+   "voiceId": "cgSgspJ2msm6clMCkdW9",
+   "model": "eleven_multilingual_v2",
+   "text": "percent",
+   "file": "Speech/pip/pip_num_percent",
+   "hash": "f29b11798f0bfe4e",
+   "bytes": 3675
+  },
+  {
+   "id": "rocco.num.zero",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "zero",
+   "file": "Speech/rocco/rocco_num_zero",
+   "hash": "a6feb4ac71f47d4b",
+   "bytes": 3675
+  },
+  {
+   "id": "rocco.num.one",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "one",
+   "file": "Speech/rocco/rocco_num_one",
+   "hash": "6712881d001bc5e3",
+   "bytes": 3257
+  },
+  {
+   "id": "rocco.num.two",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "two",
+   "file": "Speech/rocco/rocco_num_two",
+   "hash": "c689501481c0af21",
+   "bytes": 3257
+  },
+  {
+   "id": "rocco.num.three",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "three",
+   "file": "Speech/rocco/rocco_num_three",
+   "hash": "76b4ba4f8c26cad1",
+   "bytes": 3675
+  },
+  {
+   "id": "rocco.num.four",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "four",
+   "file": "Speech/rocco/rocco_num_four",
+   "hash": "21313900da10df15",
+   "bytes": 3257
+  },
+  {
+   "id": "rocco.num.five",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "five",
+   "file": "Speech/rocco/rocco_num_five",
+   "hash": "4fc8b2d86f1c82e9",
+   "bytes": 3989
+  },
+  {
+   "id": "rocco.num.six",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "six",
+   "file": "Speech/rocco/rocco_num_six",
+   "hash": "570fe998efce6849",
+   "bytes": 3466
+  },
+  {
+   "id": "rocco.num.seven",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "seven",
+   "file": "Speech/rocco/rocco_num_seven",
+   "hash": "b7a92e40a2488c39",
+   "bytes": 3675
+  },
+  {
+   "id": "rocco.num.eight",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "eight",
+   "file": "Speech/rocco/rocco_num_eight",
+   "hash": "a84a9b4e8dbfc1ea",
+   "bytes": 3257
+  },
+  {
+   "id": "rocco.num.nine",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "nine",
+   "file": "Speech/rocco/rocco_num_nine",
+   "hash": "2ea910d82f48061e",
+   "bytes": 3675
+  },
+  {
+   "id": "rocco.num.ten",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "ten",
+   "file": "Speech/rocco/rocco_num_ten",
+   "hash": "ae798310ed67cf18",
+   "bytes": 3466
+  },
+  {
+   "id": "rocco.num.eleven",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "eleven",
+   "file": "Speech/rocco/rocco_num_eleven",
+   "hash": "b98faac6cb4cbd7e",
+   "bytes": 3989
+  },
+  {
+   "id": "rocco.num.twelve",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "twelve",
+   "file": "Speech/rocco/rocco_num_twelve",
+   "hash": "28a70f40439005a0",
+   "bytes": 4407
+  },
+  {
+   "id": "rocco.num.thirteen",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "thirteen",
+   "file": "Speech/rocco/rocco_num_thirteen",
+   "hash": "544952f8e3b30c1a",
+   "bytes": 4616
+  },
+  {
+   "id": "rocco.num.fourteen",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "fourteen",
+   "file": "Speech/rocco/rocco_num_fourteen",
+   "hash": "98a2e07a349f52c3",
+   "bytes": 4720
+  },
+  {
+   "id": "rocco.num.fifteen",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "fifteen",
+   "file": "Speech/rocco/rocco_num_fifteen",
+   "hash": "0887de51bf98e124",
+   "bytes": 4616
+  },
+  {
+   "id": "rocco.num.sixteen",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "sixteen",
+   "file": "Speech/rocco/rocco_num_sixteen",
+   "hash": "2aa3fab273e08f5f",
+   "bytes": 4616
+  },
+  {
+   "id": "rocco.num.seventeen",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "seventeen",
+   "file": "Speech/rocco/rocco_num_seventeen",
+   "hash": "ed39f7f838c21472",
+   "bytes": 4407
+  },
+  {
+   "id": "rocco.num.eighteen",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "eighteen",
+   "file": "Speech/rocco/rocco_num_eighteen",
+   "hash": "43a23348ebd70d81",
+   "bytes": 4616
+  },
+  {
+   "id": "rocco.num.nineteen",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "nineteen",
+   "file": "Speech/rocco/rocco_num_nineteen",
+   "hash": "ada32daab616ec5c",
+   "bytes": 4720
+  },
+  {
+   "id": "rocco.num.twenty",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "twenty",
+   "file": "Speech/rocco/rocco_num_twenty",
+   "hash": "50ece35e520178c5",
+   "bytes": 3989
+  },
+  {
+   "id": "rocco.num.thirty",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "thirty",
+   "file": "Speech/rocco/rocco_num_thirty",
+   "hash": "83419b260ef2f0d5",
+   "bytes": 4198
+  },
+  {
+   "id": "rocco.num.forty",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "forty",
+   "file": "Speech/rocco/rocco_num_forty",
+   "hash": "e7a7706179059604",
+   "bytes": 3989
+  },
+  {
+   "id": "rocco.num.fifty",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "fifty",
+   "file": "Speech/rocco/rocco_num_fifty",
+   "hash": "5be0b9882288bf30",
+   "bytes": 3780
+  },
+  {
+   "id": "rocco.num.sixty",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "sixty",
+   "file": "Speech/rocco/rocco_num_sixty",
+   "hash": "12b4e5e62e9cbaea",
+   "bytes": 3780
+  },
+  {
+   "id": "rocco.num.seventy",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "seventy",
+   "file": "Speech/rocco/rocco_num_seventy",
+   "hash": "bff8ff13110fbf4c",
+   "bytes": 4407
+  },
+  {
+   "id": "rocco.num.eighty",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "eighty",
+   "file": "Speech/rocco/rocco_num_eighty",
+   "hash": "1ffb6c5665d265a4",
+   "bytes": 3675
+  },
+  {
+   "id": "rocco.num.ninety",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "ninety",
+   "file": "Speech/rocco/rocco_num_ninety",
+   "hash": "56ee13673af0ca0e",
+   "bytes": 3780
+  },
+  {
+   "id": "rocco.num.hundred",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "hundred",
+   "file": "Speech/rocco/rocco_num_hundred",
+   "hash": "ee19c690aeba6ad2",
+   "bytes": 3466
+  },
+  {
+   "id": "rocco.num.thousand",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "thousand",
+   "file": "Speech/rocco/rocco_num_thousand",
+   "hash": "50e17f758e4cf296",
+   "bytes": 4616
+  },
+  {
+   "id": "rocco.num.million",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "million",
+   "file": "Speech/rocco/rocco_num_million",
+   "hash": "a3c2db0b414396c1",
+   "bytes": 4198
+  },
+  {
+   "id": "rocco.num.percent",
+   "voice": "rocco",
+   "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+   "model": "eleven_multilingual_v2",
+   "text": "percent",
+   "file": "Speech/rocco/rocco_num_percent",
+   "hash": "387efbbc5fd961fa",
+   "bytes": 4198
+  },
+  {
+   "id": "vex.num.zero",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "zero",
+   "file": "Speech/vex/vex_num_zero",
+   "hash": "229e5a685f81cf10",
+   "bytes": 3780
+  },
+  {
+   "id": "vex.num.one",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "one",
+   "file": "Speech/vex/vex_num_one",
+   "hash": "bd4e150efa960ee8",
+   "bytes": 2735
+  },
+  {
+   "id": "vex.num.two",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "two",
+   "file": "Speech/vex/vex_num_two",
+   "hash": "c21af7e35aa72cf7",
+   "bytes": 3048
+  },
+  {
+   "id": "vex.num.three",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "three",
+   "file": "Speech/vex/vex_num_three",
+   "hash": "1ced4f96dc700e68",
+   "bytes": 3257
+  },
+  {
+   "id": "vex.num.four",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "four",
+   "file": "Speech/vex/vex_num_four",
+   "hash": "3791d00b3acf52fe",
+   "bytes": 3466
+  },
+  {
+   "id": "vex.num.five",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "five",
+   "file": "Speech/vex/vex_num_five",
+   "hash": "f860a1199b12becb",
+   "bytes": 3466
+  },
+  {
+   "id": "vex.num.six",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "six",
+   "file": "Speech/vex/vex_num_six",
+   "hash": "7934a0e7ee57c4eb",
+   "bytes": 3466
+  },
+  {
+   "id": "vex.num.seven",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "seven",
+   "file": "Speech/vex/vex_num_seven",
+   "hash": "91184047ff45f11e",
+   "bytes": 3466
+  },
+  {
+   "id": "vex.num.eight",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "eight",
+   "file": "Speech/vex/vex_num_eight",
+   "hash": "d952491aa97dd13a",
+   "bytes": 3048
+  },
+  {
+   "id": "vex.num.nine",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "nine",
+   "file": "Speech/vex/vex_num_nine",
+   "hash": "ac92f0aca92191d3",
+   "bytes": 3780
+  },
+  {
+   "id": "vex.num.ten",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "ten",
+   "file": "Speech/vex/vex_num_ten",
+   "hash": "83e483c11e689b9b",
+   "bytes": 3780
+  },
+  {
+   "id": "vex.num.eleven",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "eleven",
+   "file": "Speech/vex/vex_num_eleven",
+   "hash": "4340c1e56f01812f",
+   "bytes": 3675
+  },
+  {
+   "id": "vex.num.twelve",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "twelve",
+   "file": "Speech/vex/vex_num_twelve",
+   "hash": "7ce821f2b2884d73",
+   "bytes": 3780
+  },
+  {
+   "id": "vex.num.thirteen",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "thirteen",
+   "file": "Speech/vex/vex_num_thirteen",
+   "hash": "6319c6adaaa6f5aa",
+   "bytes": 4407
+  },
+  {
+   "id": "vex.num.fourteen",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "fourteen",
+   "file": "Speech/vex/vex_num_fourteen",
+   "hash": "58ab8d8ccf93dff4",
+   "bytes": 4407
+  },
+  {
+   "id": "vex.num.fifteen",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "fifteen",
+   "file": "Speech/vex/vex_num_fifteen",
+   "hash": "6172781877b080de",
+   "bytes": 4198
+  },
+  {
+   "id": "vex.num.sixteen",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "sixteen",
+   "file": "Speech/vex/vex_num_sixteen",
+   "hash": "7d00026abd71cd53",
+   "bytes": 3780
+  },
+  {
+   "id": "vex.num.seventeen",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "seventeen",
+   "file": "Speech/vex/vex_num_seventeen",
+   "hash": "b68e3716c8955859",
+   "bytes": 4616
+  },
+  {
+   "id": "vex.num.eighteen",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "eighteen",
+   "file": "Speech/vex/vex_num_eighteen",
+   "hash": "b35eee146d435585",
+   "bytes": 3989
+  },
+  {
+   "id": "vex.num.nineteen",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "nineteen",
+   "file": "Speech/vex/vex_num_nineteen",
+   "hash": "bbf47f6aca54d1eb",
+   "bytes": 5138
+  },
+  {
+   "id": "vex.num.twenty",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "twenty",
+   "file": "Speech/vex/vex_num_twenty",
+   "hash": "a8069d48e2a36347",
+   "bytes": 3989
+  },
+  {
+   "id": "vex.num.thirty",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "thirty",
+   "file": "Speech/vex/vex_num_thirty",
+   "hash": "a245a407c150f013",
+   "bytes": 3675
+  },
+  {
+   "id": "vex.num.forty",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "forty",
+   "file": "Speech/vex/vex_num_forty",
+   "hash": "20a3bbfa34f48b59",
+   "bytes": 3989
+  },
+  {
+   "id": "vex.num.fifty",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "fifty",
+   "file": "Speech/vex/vex_num_fifty",
+   "hash": "af3a76b0f647a035",
+   "bytes": 3675
+  },
+  {
+   "id": "vex.num.sixty",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "sixty",
+   "file": "Speech/vex/vex_num_sixty",
+   "hash": "d70a7c6031f05245",
+   "bytes": 4198
+  },
+  {
+   "id": "vex.num.seventy",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "seventy",
+   "file": "Speech/vex/vex_num_seventy",
+   "hash": "54adf242c710e647",
+   "bytes": 3989
+  },
+  {
+   "id": "vex.num.eighty",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "eighty",
+   "file": "Speech/vex/vex_num_eighty",
+   "hash": "2e95425c38071b59",
+   "bytes": 3675
+  },
+  {
+   "id": "vex.num.ninety",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "ninety",
+   "file": "Speech/vex/vex_num_ninety",
+   "hash": "daa43fd6185a5daf",
+   "bytes": 3780
+  },
+  {
+   "id": "vex.num.hundred",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "hundred",
+   "file": "Speech/vex/vex_num_hundred",
+   "hash": "22afe9155ed1adc5",
+   "bytes": 3675
+  },
+  {
+   "id": "vex.num.thousand",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "thousand",
+   "file": "Speech/vex/vex_num_thousand",
+   "hash": "d9da31a8012e302d",
+   "bytes": 4198
+  },
+  {
+   "id": "vex.num.million",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "million",
+   "file": "Speech/vex/vex_num_million",
+   "hash": "888d3b9d6b269d01",
+   "bytes": 4198
+  },
+  {
+   "id": "vex.num.percent",
+   "voice": "vex",
+   "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+   "model": "eleven_multilingual_v2",
+   "text": "percent",
+   "file": "Speech/vex/vex_num_percent",
+   "hash": "6f480d10ffd5681d",
+   "bytes": 3780
+  },
+  {
+   "id": "dot.num.zero",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "zero",
+   "file": "Speech/dot/dot_num_zero",
+   "hash": "ecedcb0dca0a8fa2",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.num.one",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "one",
+   "file": "Speech/dot/dot_num_one",
+   "hash": "6415e120e872fc09",
+   "bytes": 3047
+  },
+  {
+   "id": "dot.num.two",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "two",
+   "file": "Speech/dot/dot_num_two",
+   "hash": "272da7f8f31b9477",
+   "bytes": 2943
+  },
+  {
+   "id": "dot.num.three",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "three",
+   "file": "Speech/dot/dot_num_three",
+   "hash": "d52de10d53f26788",
+   "bytes": 3256
+  },
+  {
+   "id": "dot.num.four",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "four",
+   "file": "Speech/dot/dot_num_four",
+   "hash": "6b401cee8c8a4cbb",
+   "bytes": 3674
+  },
+  {
+   "id": "dot.num.five",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "five",
+   "file": "Speech/dot/dot_num_five",
+   "hash": "d689a419c6108ef0",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.num.six",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "six",
+   "file": "Speech/dot/dot_num_six",
+   "hash": "bb1dd3a930c5f1ef",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.num.seven",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "seven",
+   "file": "Speech/dot/dot_num_seven",
+   "hash": "73688e5a2034f7f8",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.num.eight",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "eight",
+   "file": "Speech/dot/dot_num_eight",
+   "hash": "52e62a17cced7561",
+   "bytes": 2943
+  },
+  {
+   "id": "dot.num.nine",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "nine",
+   "file": "Speech/dot/dot_num_nine",
+   "hash": "11a86ae8734dc691",
+   "bytes": 3256
+  },
+  {
+   "id": "dot.num.ten",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "ten",
+   "file": "Speech/dot/dot_num_ten",
+   "hash": "16da7565065c32f3",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.num.eleven",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "eleven",
+   "file": "Speech/dot/dot_num_eleven",
+   "hash": "8d0e8caeb7649402",
+   "bytes": 3779
+  },
+  {
+   "id": "dot.num.twelve",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "twelve",
+   "file": "Speech/dot/dot_num_twelve",
+   "hash": "c6058fd1aeaefa59",
+   "bytes": 3779
+  },
+  {
+   "id": "dot.num.thirteen",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "thirteen",
+   "file": "Speech/dot/dot_num_thirteen",
+   "hash": "44759f3820d78c7b",
+   "bytes": 3779
+  },
+  {
+   "id": "dot.num.fourteen",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "fourteen",
+   "file": "Speech/dot/dot_num_fourteen",
+   "hash": "910002e105bc6a89",
+   "bytes": 4406
+  },
+  {
+   "id": "dot.num.fifteen",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "fifteen",
+   "file": "Speech/dot/dot_num_fifteen",
+   "hash": "790d06bb8145213d",
+   "bytes": 4197
+  },
+  {
+   "id": "dot.num.sixteen",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "sixteen",
+   "file": "Speech/dot/dot_num_sixteen",
+   "hash": "a58b6611f29a3dd0",
+   "bytes": 4406
+  },
+  {
+   "id": "dot.num.seventeen",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "seventeen",
+   "file": "Speech/dot/dot_num_seventeen",
+   "hash": "0934a70a405410e1",
+   "bytes": 5137
+  },
+  {
+   "id": "dot.num.eighteen",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "eighteen",
+   "file": "Speech/dot/dot_num_eighteen",
+   "hash": "5870c41f05b2ce80",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.num.nineteen",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "nineteen",
+   "file": "Speech/dot/dot_num_nineteen",
+   "hash": "8f2c3536ebd5b0c7",
+   "bytes": 4406
+  },
+  {
+   "id": "dot.num.twenty",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "twenty",
+   "file": "Speech/dot/dot_num_twenty",
+   "hash": "536563c9b26e5df3",
+   "bytes": 3674
+  },
+  {
+   "id": "dot.num.thirty",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "thirty",
+   "file": "Speech/dot/dot_num_thirty",
+   "hash": "309a6eb569eb1095",
+   "bytes": 3674
+  },
+  {
+   "id": "dot.num.forty",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "forty",
+   "file": "Speech/dot/dot_num_forty",
+   "hash": "f6bdf56edc310dd7",
+   "bytes": 3988
+  },
+  {
+   "id": "dot.num.fifty",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "fifty",
+   "file": "Speech/dot/dot_num_fifty",
+   "hash": "3dfdc48f024199bf",
+   "bytes": 3465
+  },
+  {
+   "id": "dot.num.sixty",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "sixty",
+   "file": "Speech/dot/dot_num_sixty",
+   "hash": "223b83121a93bc54",
+   "bytes": 3779
+  },
+  {
+   "id": "dot.num.seventy",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "seventy",
+   "file": "Speech/dot/dot_num_seventy",
+   "hash": "dace78e7baf574ed",
+   "bytes": 4197
+  },
+  {
+   "id": "dot.num.eighty",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "eighty",
+   "file": "Speech/dot/dot_num_eighty",
+   "hash": "badd9b8aa2b05e86",
+   "bytes": 3256
+  },
+  {
+   "id": "dot.num.ninety",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "ninety",
+   "file": "Speech/dot/dot_num_ninety",
+   "hash": "b6fa200647d7fee0",
+   "bytes": 3779
+  },
+  {
+   "id": "dot.num.hundred",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "hundred",
+   "file": "Speech/dot/dot_num_hundred",
+   "hash": "7ffad37de317c9bd",
+   "bytes": 3674
+  },
+  {
+   "id": "dot.num.thousand",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "thousand",
+   "file": "Speech/dot/dot_num_thousand",
+   "hash": "b3ecd4d81d54d2b3",
+   "bytes": 4197
+  },
+  {
+   "id": "dot.num.million",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "million",
+   "file": "Speech/dot/dot_num_million",
+   "hash": "22a7835391b90497",
+   "bytes": 4406
+  },
+  {
+   "id": "dot.num.percent",
+   "voice": "dot",
+   "voiceId": "EXAVITQu4vr4xnSDxMaL",
+   "model": "eleven_multilingual_v2",
+   "text": "percent",
+   "file": "Speech/dot/dot_num_percent",
+   "hash": "6067f47a80c4e32f",
+   "bytes": 4406
+  },
+  {
+   "id": "silas.num.zero",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "zero",
+   "file": "Speech/silas/silas_num_zero",
+   "hash": "80a95258fa7a71a5",
+   "bytes": 3779
+  },
+  {
+   "id": "silas.num.one",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "one",
+   "file": "Speech/silas/silas_num_one",
+   "hash": "9c3aea5d0aba4e3c",
+   "bytes": 3465
+  },
+  {
+   "id": "silas.num.two",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "two",
+   "file": "Speech/silas/silas_num_two",
+   "hash": "3d25cc84a57ef189",
+   "bytes": 3256
+  },
+  {
+   "id": "silas.num.three",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "three",
+   "file": "Speech/silas/silas_num_three",
+   "hash": "ac3289bc54f5ff03",
+   "bytes": 3256
+  },
+  {
+   "id": "silas.num.four",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "four",
+   "file": "Speech/silas/silas_num_four",
+   "hash": "2535f6ac7e043c05",
+   "bytes": 3465
+  },
+  {
+   "id": "silas.num.five",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "five",
+   "file": "Speech/silas/silas_num_five",
+   "hash": "61afb9c160e9e7f9",
+   "bytes": 3779
+  },
+  {
+   "id": "silas.num.six",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "six",
+   "file": "Speech/silas/silas_num_six",
+   "hash": "50afccfda73f5baa",
+   "bytes": 3674
+  },
+  {
+   "id": "silas.num.seven",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "seven",
+   "file": "Speech/silas/silas_num_seven",
+   "hash": "762a643b4df161c7",
+   "bytes": 3674
+  },
+  {
+   "id": "silas.num.eight",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "eight",
+   "file": "Speech/silas/silas_num_eight",
+   "hash": "a0acbef1d98a0ee1",
+   "bytes": 3047
+  },
+  {
+   "id": "silas.num.nine",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "nine",
+   "file": "Speech/silas/silas_num_nine",
+   "hash": "fe4855538e444ddf",
+   "bytes": 3256
+  },
+  {
+   "id": "silas.num.ten",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "ten",
+   "file": "Speech/silas/silas_num_ten",
+   "hash": "1d520a459a3009be",
+   "bytes": 4197
+  },
+  {
+   "id": "silas.num.eleven",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "eleven",
+   "file": "Speech/silas/silas_num_eleven",
+   "hash": "4c71de529feafa03",
+   "bytes": 3674
+  },
+  {
+   "id": "silas.num.twelve",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "twelve",
+   "file": "Speech/silas/silas_num_twelve",
+   "hash": "54c52a72a9d253ce",
+   "bytes": 3674
+  },
+  {
+   "id": "silas.num.thirteen",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "thirteen",
+   "file": "Speech/silas/silas_num_thirteen",
+   "hash": "4d956c0b4ebc580d",
+   "bytes": 4406
+  },
+  {
+   "id": "silas.num.fourteen",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "fourteen",
+   "file": "Speech/silas/silas_num_fourteen",
+   "hash": "c4d35a4caf4832c9",
+   "bytes": 4928
+  },
+  {
+   "id": "silas.num.fifteen",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "fifteen",
+   "file": "Speech/silas/silas_num_fifteen",
+   "hash": "21cc50b14695b99e",
+   "bytes": 4406
+  },
+  {
+   "id": "silas.num.sixteen",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "sixteen",
+   "file": "Speech/silas/silas_num_sixteen",
+   "hash": "89acd0226a6b9e3e",
+   "bytes": 4406
+  },
+  {
+   "id": "silas.num.seventeen",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "seventeen",
+   "file": "Speech/silas/silas_num_seventeen",
+   "hash": "ecefe18fe9f18bba",
+   "bytes": 4615
+  },
+  {
+   "id": "silas.num.eighteen",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "eighteen",
+   "file": "Speech/silas/silas_num_eighteen",
+   "hash": "084e09093e008081",
+   "bytes": 3988
+  },
+  {
+   "id": "silas.num.nineteen",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "nineteen",
+   "file": "Speech/silas/silas_num_nineteen",
+   "hash": "d71cc3b587f30712",
+   "bytes": 4615
+  },
+  {
+   "id": "silas.num.twenty",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "twenty",
+   "file": "Speech/silas/silas_num_twenty",
+   "hash": "6b3f748e1643a329",
+   "bytes": 3465
+  },
+  {
+   "id": "silas.num.thirty",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "thirty",
+   "file": "Speech/silas/silas_num_thirty",
+   "hash": "b8fb4e2ea9f89c26",
+   "bytes": 3674
+  },
+  {
+   "id": "silas.num.forty",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "forty",
+   "file": "Speech/silas/silas_num_forty",
+   "hash": "c59413038f6fe8be",
+   "bytes": 3674
+  },
+  {
+   "id": "silas.num.fifty",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "fifty",
+   "file": "Speech/silas/silas_num_fifty",
+   "hash": "0a5906c98f50c31c",
+   "bytes": 3779
+  },
+  {
+   "id": "silas.num.sixty",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "sixty",
+   "file": "Speech/silas/silas_num_sixty",
+   "hash": "dd71748b0dfff1c7",
+   "bytes": 3779
+  },
+  {
+   "id": "silas.num.seventy",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "seventy",
+   "file": "Speech/silas/silas_num_seventy",
+   "hash": "27e7a38523c441f0",
+   "bytes": 3988
+  },
+  {
+   "id": "silas.num.eighty",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "eighty",
+   "file": "Speech/silas/silas_num_eighty",
+   "hash": "a5225ac2ff67265d",
+   "bytes": 3256
+  },
+  {
+   "id": "silas.num.ninety",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "ninety",
+   "file": "Speech/silas/silas_num_ninety",
+   "hash": "6a65d20199bff1e8",
+   "bytes": 3779
+  },
+  {
+   "id": "silas.num.hundred",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "hundred",
+   "file": "Speech/silas/silas_num_hundred",
+   "hash": "04a0b55578e8d686",
+   "bytes": 3674
+  },
+  {
+   "id": "silas.num.thousand",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "thousand",
+   "file": "Speech/silas/silas_num_thousand",
+   "hash": "c67b335e2dc36ca0",
+   "bytes": 3988
+  },
+  {
+   "id": "silas.num.million",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "million",
+   "file": "Speech/silas/silas_num_million",
+   "hash": "a0fc29c4f01065bc",
+   "bytes": 3988
+  },
+  {
+   "id": "silas.num.percent",
+   "voice": "silas",
+   "voiceId": "pqHfZKP75CvOlQylNhV4",
+   "model": "eleven_multilingual_v2",
+   "text": "percent",
+   "file": "Speech/silas/silas_num_percent",
+   "hash": "9f1a8090e65d80b0",
+   "bytes": 3988
+  },
+  {
+   "id": "marcus:pip.value.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh! Um, I'll... put some in.",
+   "file": "Speech/marcus/marcus_pip_value_01",
+   "hash": "f67b65909679cbbe",
+   "bytes": 7540
+  },
+  {
+   "id": "marcus:pip.value.02",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Is this good? I think this is good.",
+   "file": "Speech/marcus/marcus_pip_value_02",
+   "hash": "d6c4b9f6cd59ddf9",
+   "bytes": 11406
+  },
+  {
+   "id": "marcus:pip.nervous.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Totally normal wager. Nothing to see here.",
+   "file": "Speech/marcus/marcus_pip_nervous_01",
+   "hash": "54769d97d4744708",
+   "bytes": 9212
+  },
+  {
+   "id": "marcus:pip.nervous.02",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Why is it so warm in here?",
+   "file": "Speech/marcus/marcus_pip_nervous_02",
+   "hash": "c20bb3adec069718",
+   "bytes": 6286
+  },
+  {
+   "id": "marcus:pip.unsure.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Hmm. Hmm hmm hmm.",
+   "file": "Speech/marcus/marcus_pip_unsure_01",
+   "hash": "0a988b223c332f3c",
+   "bytes": 6391
+  },
+  {
+   "id": "marcus:pip.unsure.02",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Wait, what beats what again?",
+   "file": "Speech/marcus/marcus_pip_unsure_02",
+   "hash": "d98c458352b4bd8f",
+   "bytes": 5868
+  },
+  {
+   "id": "marcus:pip.fold.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Nope. Not today.",
+   "file": "Speech/marcus/marcus_pip_fold_01",
+   "hash": "e91d1ee7eff97703",
+   "bytes": 5450
+  },
+  {
+   "id": "marcus:pip.fold.02",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "I'll just... sit this one out.",
+   "file": "Speech/marcus/marcus_pip_fold_02",
+   "hash": "c8d97fdd6ba95348",
+   "bytes": 7540
+  },
+  {
+   "id": "marcus:pip.tank.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Take your time! No pressure. Ha.",
+   "file": "Speech/marcus/marcus_pip_tank_01",
+   "hash": "38886a4f585d2199",
+   "bytes": 7331
+  },
+  {
+   "id": "marcus:pip.slam.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Eep! You scared me!",
+   "file": "Speech/marcus/marcus_pip_slam_01",
+   "hash": "27f7caf99518ce41",
+   "bytes": 6600
+  },
+  {
+   "id": "marcus:pip.slam.02",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Whoa, okay, okay!",
+   "file": "Speech/marcus/marcus_pip_slam_02",
+   "hash": "d4ad43f1f51c44f4",
+   "bytes": 6077
+  },
+  {
+   "id": "marcus:pip.bigbet.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "That's... a lot of chips.",
+   "file": "Speech/marcus/marcus_pip_bigbet_01",
+   "hash": "2a7c493ea5589508",
+   "bytes": 6391
+  },
+  {
+   "id": "marcus:pip.stare.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Why are you looking at me?",
+   "file": "Speech/marcus/marcus_pip_stare_01",
+   "hash": "740ef4115882da00",
+   "bytes": 5868
+  },
+  {
+   "id": "marcus:pip.stare.02",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Stop it, I can feel you staring.",
+   "file": "Speech/marcus/marcus_pip_stare_02",
+   "hash": "cbfa45d46b17951a",
+   "bytes": 7749
+  },
+  {
+   "id": "marcus:pip.good.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Ooh! Ooh. I mean... okay.",
+   "file": "Speech/marcus/marcus_pip_good_01",
+   "hash": "46bbf3b54d85d749",
+   "bytes": 7122
+  },
+  {
+   "id": "marcus:pip.bad.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Aw, come on, cards.",
+   "file": "Speech/marcus/marcus_pip_bad_01",
+   "hash": "379af014046d2816",
+   "bytes": 6286
+  },
+  {
+   "id": "marcus:pip.win.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "I won? I actually won!",
+   "file": "Speech/marcus/marcus_pip_win_01",
+   "hash": "bd67d45b4a0ebc99",
+   "bytes": 6077
+  },
+  {
+   "id": "marcus:pip.win.02",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Beginner's luck, maybe?",
+   "file": "Speech/marcus/marcus_pip_win_02",
+   "hash": "3e2410f5292af4e0",
+   "bytes": 5450
+  },
+  {
+   "id": "marcus:pip.lose.01",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Okay. Learning experience.",
+   "file": "Speech/marcus/marcus_pip_lose_01",
+   "hash": "e1e86bba0f57456c",
+   "bytes": 6600
+  },
+  {
+   "id": "marcus:pip.lose.02",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "I'll get the hang of this.",
+   "file": "Speech/marcus/marcus_pip_lose_02",
+   "hash": "e643966259b6f10c",
+   "bytes": 5137
+  },
+  {
+   "id": "marcus:pip.live.think3.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh, um, take your time.",
+   "file": "Speech/marcus/marcus_pip_live_think3_1",
+   "hash": "e2f9fa71f6676ba5",
+   "bytes": 5137
+  },
+  {
+   "id": "marcus:pip.live.think3.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Is it hard? It looks hard.",
+   "file": "Speech/marcus/marcus_pip_live_think3_2",
+   "hash": "9241b8b67b6921fb",
+   "bytes": 5868
+  },
+  {
+   "id": "marcus:pip.live.think7.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "I'd be thinking too.",
+   "file": "Speech/marcus/marcus_pip_live_think7_1",
+   "hash": "6aac6241aaa33b7e",
+   "bytes": 4928
+  },
+  {
+   "id": "marcus:pip.live.think7.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Long think. Is that bad for me?",
+   "file": "Speech/marcus/marcus_pip_live_think7_2",
+   "hash": "f496b002527748be",
+   "bytes": 6809
+  },
+  {
+   "id": "marcus:pip.live.think12.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Should I get snacks?",
+   "file": "Speech/marcus/marcus_pip_live_think12_1",
+   "hash": "5c6393105f2c3b32",
+   "bytes": 5450
+  },
+  {
+   "id": "marcus:pip.live.think12.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "I'm so nervous right now.",
+   "file": "Speech/marcus/marcus_pip_live_think12_2",
+   "hash": "430da0274e9ce9b3",
+   "bytes": 6077
+  },
+  {
+   "id": "marcus:pip.live.relook.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Did they change? Mine never do.",
+   "file": "Speech/marcus/marcus_pip_live_relook_1",
+   "hash": "a1bada92e2bd27be",
+   "bytes": 7540
+  },
+  {
+   "id": "marcus:pip.live.relook.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "You checked again! Is that good?",
+   "file": "Speech/marcus/marcus_pip_live_relook_2",
+   "hash": "dbc3f193598cbf16",
+   "bytes": 7331
+  },
+  {
+   "id": "marcus:pip.live.reach.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh no, here it comes.",
+   "file": "Speech/marcus/marcus_pip_live_reach_1",
+   "hash": "4dcace834a503f5d",
+   "bytes": 5137
+  },
+  {
+   "id": "marcus:pip.live.reach.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Wait, you're betting?",
+   "file": "Speech/marcus/marcus_pip_live_reach_2",
+   "hash": "491bda20f38043e3",
+   "bytes": 4928
+  },
+  {
+   "id": "marcus:pip.live.pullback.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh, thank goodness.",
+   "file": "Speech/marcus/marcus_pip_live_pullback_1",
+   "hash": "d516415055d0740c",
+   "bytes": 4928
+  },
+  {
+   "id": "marcus:pip.live.pullback.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Phew. Wait, you're not?",
+   "file": "Speech/marcus/marcus_pip_live_pullback_2",
+   "hash": "9ed442c23ec047e6",
+   "bytes": 6286
+  },
+  {
+   "id": "marcus:pip.live.held.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "H-how much are you thinking?",
+   "file": "Speech/marcus/marcus_pip_live_held_1",
+   "hash": "2d81c63277628fc8",
+   "bytes": 5137
+  },
+  {
+   "id": "marcus:pip.live.held.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "That's a lot of chips. Right?",
+   "file": "Speech/marcus/marcus_pip_live_held_2",
+   "hash": "e7977ee05e0bf95b",
+   "bytes": 7122
+  },
+  {
+   "id": "marcus:pip.live.putback.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "You put them back. Phew.",
+   "file": "Speech/marcus/marcus_pip_live_putback_1",
+   "hash": "7b5c207613e600c7",
+   "bytes": 5659
+  },
+  {
+   "id": "marcus:pip.live.putback.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Not betting? Okay. Okay good.",
+   "file": "Speech/marcus/marcus_pip_live_putback_2",
+   "hash": "e5c212b65db92a99",
+   "bytes": 9003
+  },
+  {
+   "id": "marcus:pip.live.cards.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Are you folding? I won't tell.",
+   "file": "Speech/marcus/marcus_pip_live_cards_1",
+   "hash": "364fa6dd7e506239",
+   "bytes": 7018
+  },
+  {
+   "id": "marcus:pip.live.cards.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh, are you out?",
+   "file": "Speech/marcus/marcus_pip_live_cards_2",
+   "hash": "63cc0274b3625366",
+   "bytes": 4615
+  },
+  {
+   "id": "marcus:pip.live.gaze.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "I didn't do anything!",
+   "file": "Speech/marcus/marcus_pip_live_gaze_2",
+   "hash": "6e9502eec203162c",
+   "bytes": 5346
+  },
+  {
+   "id": "marcus:pip.live.right.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "I, um, kind of saw that coming.",
+   "file": "Speech/marcus/marcus_pip_live_right_1",
+   "hash": "f88f8ccfcba0d4a9",
+   "bytes": 7749
+  },
+  {
+   "id": "marcus:pip.live.fooled.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "You tricked me!",
+   "file": "Speech/marcus/marcus_pip_live_fooled_1",
+   "hash": "14ace4c7a959a4fc",
+   "bytes": 4719
+  },
+  {
+   "id": "marcus:pip.filler",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Hm?",
+   "file": "Speech/marcus/marcus_pip_filler",
+   "hash": "300252e36a400fb0",
+   "bytes": 2734
+  },
+  {
+   "id": "marcus:pip.canned.1",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Um, sorry, I didn't catch that.",
+   "file": "Speech/marcus/marcus_pip_canned_1",
+   "hash": "82cff5798b50123b",
+   "bytes": 8063
+  },
+  {
+   "id": "marcus:pip.canned.2",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Oh gosh, could you say that again?",
+   "file": "Speech/marcus/marcus_pip_canned_2",
+   "hash": "a09a86ee8351a5a3",
+   "bytes": 8481
+  },
+  {
+   "id": "marcus:pip.fb.nothing_to_call",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Nothing to call. You can check.",
+   "file": "Speech/marcus/marcus_pip_fb_nothing_to_call",
+   "hash": "fe77f56dc076636e",
+   "bytes": 7122
+  },
+  {
+   "id": "marcus:pip.fb.nobody_up",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Nobody's up right now.",
+   "file": "Speech/marcus/marcus_pip_fb_nobody_up",
+   "hash": "fbe2c9494b17f987",
+   "bytes": 5868
+  },
+  {
+   "id": "marcus:pip.fb.your_turn",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "It's your turn.",
+   "file": "Speech/marcus/marcus_pip_fb_your_turn",
+   "hash": "80b338c366cd8f7a",
+   "bytes": 4406
+  },
+  {
+   "id": "marcus:pip.fb.my_turn",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "It's my turn.",
+   "file": "Speech/marcus/marcus_pip_fb_my_turn",
+   "hash": "991e638b24937670",
+   "bytes": 4615
+  },
+  {
+   "id": "marcus:pip.fb.turn_rocco",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Rocco's turn.",
+   "file": "Speech/marcus/marcus_pip_fb_turn_rocco",
+   "hash": "2dd70414cd1c504c",
+   "bytes": 5450
+  },
+  {
+   "id": "marcus:pip.seg.rocco_has",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco has",
+   "file": "Speech/marcus/marcus_pip_seg_rocco_has",
+   "hash": "1ce3af2e980156d5",
+   "bytes": 4197
+  },
+  {
+   "id": "marcus:pip.fb.turn_vex",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Vex's turn.",
+   "file": "Speech/marcus/marcus_pip_fb_turn_vex",
+   "hash": "d82ffaf120a732e0",
+   "bytes": 4928
+  },
+  {
+   "id": "marcus:pip.seg.vex_has",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Vex has",
+   "file": "Speech/marcus/marcus_pip_seg_vex_has",
+   "hash": "bdc917a25e4fe0ef",
+   "bytes": 2734
+  },
+  {
+   "id": "marcus:pip.fb.turn_silas",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Silas's turn.",
+   "file": "Speech/marcus/marcus_pip_fb_turn_silas",
+   "hash": "ac321d7ce9034c4c",
+   "bytes": 6077
+  },
+  {
+   "id": "marcus:pip.seg.silas_has",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Silas has",
+   "file": "Speech/marcus/marcus_pip_seg_silas_has",
+   "hash": "cdda2a507d3dd822",
+   "bytes": 4615
+  },
+  {
+   "id": "marcus:pip.seg.pot_is",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "The pot is",
+   "file": "Speech/marcus/marcus_pip_seg_pot_is",
+   "hash": "667ae72d768a128d",
+   "bytes": 3988
+  },
+  {
+   "id": "marcus:pip.seg.you_need",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "You need",
+   "file": "Speech/marcus/marcus_pip_seg_you_need",
+   "hash": "2e61e1ce7d2e3e1b",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.seg.to_call",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "to call",
+   "file": "Speech/marcus/marcus_pip_seg_to_call",
+   "hash": "477e9d905ec0e719",
+   "bytes": 3674
+  },
+  {
+   "id": "marcus:pip.seg.blinds_are",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "Blinds are",
+   "file": "Speech/marcus/marcus_pip_seg_blinds_are",
+   "hash": "d0bfa5545af77f0c",
+   "bytes": 4615
+  },
+  {
+   "id": "marcus:pip.seg.and",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "and",
+   "file": "Speech/marcus/marcus_pip_seg_and",
+   "hash": "0b87ea1e07189938",
+   "bytes": 2943
+  },
+  {
+   "id": "marcus:pip.seg.you_have",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "You have",
+   "file": "Speech/marcus/marcus_pip_seg_you_have",
+   "hash": "0006178a112bf9a5",
+   "bytes": 3674
+  },
+  {
+   "id": "marcus:pip.seg.i_have",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "I have",
+   "file": "Speech/marcus/marcus_pip_seg_i_have",
+   "hash": "3210e6cd682567f6",
+   "bytes": 3674
+  },
+  {
+   "id": "marcus:pip.num.zero",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "zero",
+   "file": "Speech/marcus/marcus_pip_num_zero",
+   "hash": "47094754a35c6dae",
+   "bytes": 3256
+  },
+  {
+   "id": "marcus:pip.num.one",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "one",
+   "file": "Speech/marcus/marcus_pip_num_one",
+   "hash": "214325edd18c0d01",
+   "bytes": 2734
+  },
+  {
+   "id": "marcus:pip.num.two",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "two",
+   "file": "Speech/marcus/marcus_pip_num_two",
+   "hash": "8273659e718d99e3",
+   "bytes": 2943
+  },
+  {
+   "id": "marcus:pip.num.three",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "three",
+   "file": "Speech/marcus/marcus_pip_num_three",
+   "hash": "09c44f865e3a055f",
+   "bytes": 3256
+  },
+  {
+   "id": "marcus:pip.num.four",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "four",
+   "file": "Speech/marcus/marcus_pip_num_four",
+   "hash": "aa59210f070e170e",
+   "bytes": 3047
+  },
+  {
+   "id": "marcus:pip.num.five",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "five",
+   "file": "Speech/marcus/marcus_pip_num_five",
+   "hash": "85027a7a0996344b",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.six",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "six",
+   "file": "Speech/marcus/marcus_pip_num_six",
+   "hash": "3666beb5dedaefe7",
+   "bytes": 3256
+  },
+  {
+   "id": "marcus:pip.num.seven",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "seven",
+   "file": "Speech/marcus/marcus_pip_num_seven",
+   "hash": "06975fa717d21f41",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.eight",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "eight",
+   "file": "Speech/marcus/marcus_pip_num_eight",
+   "hash": "bdda24613321c947",
+   "bytes": 2943
+  },
+  {
+   "id": "marcus:pip.num.nine",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "nine",
+   "file": "Speech/marcus/marcus_pip_num_nine",
+   "hash": "09144a8858dddaf6",
+   "bytes": 3256
+  },
+  {
+   "id": "marcus:pip.num.ten",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "ten",
+   "file": "Speech/marcus/marcus_pip_num_ten",
+   "hash": "8317f44170ec069e",
+   "bytes": 3988
+  },
+  {
+   "id": "marcus:pip.num.eleven",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "eleven",
+   "file": "Speech/marcus/marcus_pip_num_eleven",
+   "hash": "72afba11474aabdf",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.twelve",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "twelve",
+   "file": "Speech/marcus/marcus_pip_num_twelve",
+   "hash": "653332ad75d946b4",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.thirteen",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "thirteen",
+   "file": "Speech/marcus/marcus_pip_num_thirteen",
+   "hash": "6020429f5d827bd9",
+   "bytes": 3779
+  },
+  {
+   "id": "marcus:pip.num.fourteen",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "fourteen",
+   "file": "Speech/marcus/marcus_pip_num_fourteen",
+   "hash": "1f1e6c7406551746",
+   "bytes": 3988
+  },
+  {
+   "id": "marcus:pip.num.fifteen",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "fifteen",
+   "file": "Speech/marcus/marcus_pip_num_fifteen",
+   "hash": "57997290d64e64a2",
+   "bytes": 4197
+  },
+  {
+   "id": "marcus:pip.num.sixteen",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "sixteen",
+   "file": "Speech/marcus/marcus_pip_num_sixteen",
+   "hash": "d9dc5625b2219c83",
+   "bytes": 3988
+  },
+  {
+   "id": "marcus:pip.num.seventeen",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "seventeen",
+   "file": "Speech/marcus/marcus_pip_num_seventeen",
+   "hash": "8e9cffa851060c56",
+   "bytes": 4197
+  },
+  {
+   "id": "marcus:pip.num.eighteen",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "eighteen",
+   "file": "Speech/marcus/marcus_pip_num_eighteen",
+   "hash": "f26db2cbfacf5bab",
+   "bytes": 3988
+  },
+  {
+   "id": "marcus:pip.num.nineteen",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "nineteen",
+   "file": "Speech/marcus/marcus_pip_num_nineteen",
+   "hash": "5f9342591593206c",
+   "bytes": 3988
+  },
+  {
+   "id": "marcus:pip.num.twenty",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "twenty",
+   "file": "Speech/marcus/marcus_pip_num_twenty",
+   "hash": "9ad06071c134a4a4",
+   "bytes": 3256
+  },
+  {
+   "id": "marcus:pip.num.thirty",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "thirty",
+   "file": "Speech/marcus/marcus_pip_num_thirty",
+   "hash": "a22d8e64b50452e0",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.forty",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "forty",
+   "file": "Speech/marcus/marcus_pip_num_forty",
+   "hash": "1f4cea11034aa9fe",
+   "bytes": 3047
+  },
+  {
+   "id": "marcus:pip.num.fifty",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "fifty",
+   "file": "Speech/marcus/marcus_pip_num_fifty",
+   "hash": "d4b575989da8c9e3",
+   "bytes": 3256
+  },
+  {
+   "id": "marcus:pip.num.sixty",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "sixty",
+   "file": "Speech/marcus/marcus_pip_num_sixty",
+   "hash": "23dcc0ab75d49b3f",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.seventy",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "seventy",
+   "file": "Speech/marcus/marcus_pip_num_seventy",
+   "hash": "b3c76b9f903406da",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.eighty",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "eighty",
+   "file": "Speech/marcus/marcus_pip_num_eighty",
+   "hash": "d890b4359df89997",
+   "bytes": 3256
+  },
+  {
+   "id": "marcus:pip.num.ninety",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "ninety",
+   "file": "Speech/marcus/marcus_pip_num_ninety",
+   "hash": "09e101f4ab76aee5",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.hundred",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "hundred",
+   "file": "Speech/marcus/marcus_pip_num_hundred",
+   "hash": "e71e3bd5a85ea40d",
+   "bytes": 2943
+  },
+  {
+   "id": "marcus:pip.num.thousand",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "thousand",
+   "file": "Speech/marcus/marcus_pip_num_thousand",
+   "hash": "d2f246ae5cf6d561",
+   "bytes": 3674
+  },
+  {
+   "id": "marcus:pip.num.million",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "million",
+   "file": "Speech/marcus/marcus_pip_num_million",
+   "hash": "9b1acb4189cca9e8",
+   "bytes": 3465
+  },
+  {
+   "id": "marcus:pip.num.percent",
+   "voice": "marcus",
+   "voiceId": "cjVigY5qzO86Huf0OWal",
+   "model": "eleven_multilingual_v2",
+   "text": "percent",
+   "file": "Speech/marcus/marcus_pip_num_percent",
+   "hash": "410e67e11f16960b",
+   "bytes": 3465
+  },
+  {
+   "id": "jace:vex.value.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Bet.",
+   "file": "Speech/jace/jace_vex_value_01",
+   "hash": "0c6d87d38f047d0b",
+   "bytes": 3256
+  },
+  {
+   "id": "jace:vex.value.02",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Your move.",
+   "file": "Speech/jace/jace_vex_value_02",
+   "hash": "f4b2a24cea3128ed",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.nervous.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Let's make it interesting.",
+   "file": "Speech/jace/jace_vex_nervous_01",
+   "hash": "b36dc2d37257e05f",
+   "bytes": 6077
+  },
+  {
+   "id": "jace:vex.nervous.02",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "I've decided.",
+   "file": "Speech/jace/jace_vex_nervous_02",
+   "hash": "396bec402fc7c652",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.unsure.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Interesting.",
+   "file": "Speech/jace/jace_vex_unsure_01",
+   "hash": "d5cf6afb4be305f7",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.fold.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Not worth it.",
+   "file": "Speech/jace/jace_vex_fold_01",
+   "hash": "2059db1c785b3d16",
+   "bytes": 3988
+  },
+  {
+   "id": "jace:vex.fold.02",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Pass.",
+   "file": "Speech/jace/jace_vex_fold_02",
+   "hash": "cdc2f33c197cf1fa",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.tank.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Take all the time you need.",
+   "file": "Speech/jace/jace_vex_tank_01",
+   "hash": "191c3397b97c079e",
+   "bytes": 7331
+  },
+  {
+   "id": "jace:vex.tank.02",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Doubt is expensive.",
+   "file": "Speech/jace/jace_vex_tank_02",
+   "hash": "734195aa880945d9",
+   "bytes": 6809
+  },
+  {
+   "id": "jace:vex.slam.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Careful.",
+   "file": "Speech/jace/jace_vex_slam_01",
+   "hash": "c9ccf2574bc331e9",
+   "bytes": 3779
+  },
+  {
+   "id": "jace:vex.bigbet.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Noted.",
+   "file": "Speech/jace/jace_vex_bigbet_01",
+   "hash": "2c3c60a6af8d2c06",
+   "bytes": 3256
+  },
+  {
+   "id": "jace:vex.bigbet.02",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Is that supposed to scare me?",
+   "file": "Speech/jace/jace_vex_bigbet_02",
+   "hash": "ba962453be3f66ec",
+   "bytes": 7331
+  },
+  {
+   "id": "jace:vex.stare.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Find anything?",
+   "file": "Speech/jace/jace_vex_stare_01",
+   "hash": "6a44cc4701fe4de9",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.stare.02",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Keep looking.",
+   "file": "Speech/jace/jace_vex_stare_02",
+   "hash": "e8cd2b39a114b56f",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.good.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Good.",
+   "file": "Speech/jace/jace_vex_good_01",
+   "hash": "5ca1476026abd107",
+   "bytes": 3047
+  },
+  {
+   "id": "jace:vex.bad.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Hm.",
+   "file": "Speech/jace/jace_vex_bad_01",
+   "hash": "09ed9cb5c5d61837",
+   "bytes": 2943
+  },
+  {
+   "id": "jace:vex.win.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "As expected.",
+   "file": "Speech/jace/jace_vex_win_01",
+   "hash": "87ea0ff61674008b",
+   "bytes": 4719
+  },
+  {
+   "id": "jace:vex.lose.01",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "This time.",
+   "file": "Speech/jace/jace_vex_lose_01",
+   "hash": "cc6bf86c24396be2",
+   "bytes": 4406
+  },
+  {
+   "id": "jace:vex.live.think7.2",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Seven seconds.",
+   "file": "Speech/jace/jace_vex_live_think7_2",
+   "hash": "9d90dbe3e5e97afd",
+   "bytes": 4719
+  },
+  {
+   "id": "jace:vex.live.think12.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Twelve seconds. Noted.",
+   "file": "Speech/jace/jace_vex_live_think12_1",
+   "hash": "843c3a849f086d26",
+   "bytes": 7331
+  },
+  {
+   "id": "jace:vex.live.think12.2",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Decide.",
+   "file": "Speech/jace/jace_vex_live_think12_2",
+   "hash": "938fa0e3cb7feae2",
+   "bytes": 3988
+  },
+  {
+   "id": "jace:vex.live.relook.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Checking again? Hm.",
+   "file": "Speech/jace/jace_vex_live_relook_1",
+   "hash": "a2e1ecf01d1b159c",
+   "bytes": 7122
+  },
+  {
+   "id": "jace:vex.live.relook.2",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Twice now.",
+   "file": "Speech/jace/jace_vex_live_relook_2",
+   "hash": "32391641d4b1876d",
+   "bytes": 4406
+  },
+  {
+   "id": "jace:vex.live.reach.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Go on.",
+   "file": "Speech/jace/jace_vex_live_reach_1",
+   "hash": "ff011b33a6d7855f",
+   "bytes": 3465
+  },
+  {
+   "id": "jace:vex.live.reach.2",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Hm. Interested.",
+   "file": "Speech/jace/jace_vex_live_reach_2",
+   "hash": "961268915c1f5aae",
+   "bytes": 6600
+  },
+  {
+   "id": "jace:vex.live.pullback.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Hesitation. Noted.",
+   "file": "Speech/jace/jace_vex_live_pullback_1",
+   "hash": "63cd208a2a6a7d3c",
+   "bytes": 7331
+  },
+  {
+   "id": "jace:vex.live.pullback.2",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "You flinched.",
+   "file": "Speech/jace/jace_vex_live_pullback_2",
+   "hash": "9c14d04145369146",
+   "bytes": 4615
+  },
+  {
+   "id": "jace:vex.live.held.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Heavy decision.",
+   "file": "Speech/jace/jace_vex_live_held_1",
+   "hash": "5c57b515576cce24",
+   "bytes": 5137
+  },
+  {
+   "id": "jace:vex.live.held.2",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Count them twice.",
+   "file": "Speech/jace/jace_vex_live_held_2",
+   "hash": "bf1873d2736d1e82",
+   "bytes": 5659
+  },
+  {
+   "id": "jace:vex.live.putback.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Back in the stack. Hm.",
+   "file": "Speech/jace/jace_vex_live_putback_1",
+   "hash": "b3fe968544c5d725",
+   "bytes": 8481
+  },
+  {
+   "id": "jace:vex.live.cards.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Your cards won't save you.",
+   "file": "Speech/jace/jace_vex_live_cards_1",
+   "hash": "3d402be58cf4f5dc",
+   "bytes": 7018
+  },
+  {
+   "id": "jace:vex.live.cards.2",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Fold, then.",
+   "file": "Speech/jace/jace_vex_live_cards_2",
+   "hash": "c2e30b6ffedba5c7",
+   "bytes": 3779
+  },
+  {
+   "id": "jace:vex.live.right.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Readable.",
+   "file": "Speech/jace/jace_vex_live_right_1",
+   "hash": "f2b2166a85b327ae",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.live.fooled.1",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Clever. Once.",
+   "file": "Speech/jace/jace_vex_live_fooled_1",
+   "hash": "507005154a2c91cb",
+   "bytes": 7018
+  },
+  {
+   "id": "jace:vex.canned.2",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Say again.",
+   "file": "Speech/jace/jace_vex_canned_2",
+   "hash": "46939f45d5a397a5",
+   "bytes": 4406
+  },
+  {
+   "id": "jace:vex.fb.nothing_to_call",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Nothing to call. You can check.",
+   "file": "Speech/jace/jace_vex_fb_nothing_to_call",
+   "hash": "5731897e2e6eb1fc",
+   "bytes": 9421
+  },
+  {
+   "id": "jace:vex.fb.nobody_up",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Nobody's up right now.",
+   "file": "Speech/jace/jace_vex_fb_nobody_up",
+   "hash": "b506eaa764c2d694",
+   "bytes": 6077
+  },
+  {
+   "id": "jace:vex.fb.your_turn",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "It's your turn.",
+   "file": "Speech/jace/jace_vex_fb_your_turn",
+   "hash": "f3842f75d39450fa",
+   "bytes": 4928
+  },
+  {
+   "id": "jace:vex.fb.my_turn",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "It's my turn.",
+   "file": "Speech/jace/jace_vex_fb_my_turn",
+   "hash": "aeba1beed9d22fbf",
+   "bytes": 4719
+  },
+  {
+   "id": "jace:vex.fb.turn_pip",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Pip's turn.",
+   "file": "Speech/jace/jace_vex_fb_turn_pip",
+   "hash": "72fb3d64297244ce",
+   "bytes": 4928
+  },
+  {
+   "id": "jace:vex.seg.pip_has",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Pip has",
+   "file": "Speech/jace/jace_vex_seg_pip_has",
+   "hash": "7535ca378e976800",
+   "bytes": 4615
+  },
+  {
+   "id": "jace:vex.fb.turn_rocco",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Rocco's turn.",
+   "file": "Speech/jace/jace_vex_fb_turn_rocco",
+   "hash": "6ca76cf30238968f",
+   "bytes": 6077
+  },
+  {
+   "id": "jace:vex.seg.rocco_has",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Rocco has",
+   "file": "Speech/jace/jace_vex_seg_rocco_has",
+   "hash": "cbde3394e2437200",
+   "bytes": 4928
+  },
+  {
+   "id": "jace:vex.fb.turn_silas",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "It's Silas's turn.",
+   "file": "Speech/jace/jace_vex_fb_turn_silas",
+   "hash": "d348426dc9bbd4d1",
+   "bytes": 6286
+  },
+  {
+   "id": "jace:vex.seg.silas_has",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Silas has",
+   "file": "Speech/jace/jace_vex_seg_silas_has",
+   "hash": "9f98b10bf21ca594",
+   "bytes": 4928
+  },
+  {
+   "id": "jace:vex.seg.pot_is",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "The pot is",
+   "file": "Speech/jace/jace_vex_seg_pot_is",
+   "hash": "27992e6102ca7cdc",
+   "bytes": 5450
+  },
+  {
+   "id": "jace:vex.seg.you_need",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "You need",
+   "file": "Speech/jace/jace_vex_seg_you_need",
+   "hash": "8d54f531a11b57b3",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.seg.to_call",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "to call",
+   "file": "Speech/jace/jace_vex_seg_to_call",
+   "hash": "efc7133fb0f9445d",
+   "bytes": 4615
+  },
+  {
+   "id": "jace:vex.seg.blinds_are",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "Blinds are",
+   "file": "Speech/jace/jace_vex_seg_blinds_are",
+   "hash": "921475d79607be6b",
+   "bytes": 4719
+  },
+  {
+   "id": "jace:vex.seg.and",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "and",
+   "file": "Speech/jace/jace_vex_seg_and",
+   "hash": "4db0299508783e1b",
+   "bytes": 3047
+  },
+  {
+   "id": "jace:vex.seg.you_have",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "You have",
+   "file": "Speech/jace/jace_vex_seg_you_have",
+   "hash": "f28ba423243f1419",
+   "bytes": 4406
+  },
+  {
+   "id": "jace:vex.seg.i_have",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "I have",
+   "file": "Speech/jace/jace_vex_seg_i_have",
+   "hash": "2cb6000146863aa8",
+   "bytes": 3988
+  },
+  {
+   "id": "jace:vex.num.zero",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "zero",
+   "file": "Speech/jace/jace_vex_num_zero",
+   "hash": "968d80d03b26a092",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.num.one",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "one",
+   "file": "Speech/jace/jace_vex_num_one",
+   "hash": "ec429f153adfd812",
+   "bytes": 2943
+  },
+  {
+   "id": "jace:vex.num.two",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "two",
+   "file": "Speech/jace/jace_vex_num_two",
+   "hash": "8767974769dc9f27",
+   "bytes": 3256
+  },
+  {
+   "id": "jace:vex.num.three",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "three",
+   "file": "Speech/jace/jace_vex_num_three",
+   "hash": "17ceb42a9c6fd880",
+   "bytes": 3465
+  },
+  {
+   "id": "jace:vex.num.four",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "four",
+   "file": "Speech/jace/jace_vex_num_four",
+   "hash": "756f9d99d9ca5db9",
+   "bytes": 3465
+  },
+  {
+   "id": "jace:vex.num.five",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "five",
+   "file": "Speech/jace/jace_vex_num_five",
+   "hash": "78f2a6ca239f795b",
+   "bytes": 3779
+  },
+  {
+   "id": "jace:vex.num.six",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "six",
+   "file": "Speech/jace/jace_vex_num_six",
+   "hash": "93370d4e411f1cfc",
+   "bytes": 3465
+  },
+  {
+   "id": "jace:vex.num.seven",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "seven",
+   "file": "Speech/jace/jace_vex_num_seven",
+   "hash": "3c014f651022e597",
+   "bytes": 3465
+  },
+  {
+   "id": "jace:vex.num.eight",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "eight",
+   "file": "Speech/jace/jace_vex_num_eight",
+   "hash": "d78912fb7bf1bc56",
+   "bytes": 3047
+  },
+  {
+   "id": "jace:vex.num.nine",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "nine",
+   "file": "Speech/jace/jace_vex_num_nine",
+   "hash": "656243130f616db7",
+   "bytes": 3465
+  },
+  {
+   "id": "jace:vex.num.ten",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "ten",
+   "file": "Speech/jace/jace_vex_num_ten",
+   "hash": "c0ad4295a100e266",
+   "bytes": 4406
+  },
+  {
+   "id": "jace:vex.num.eleven",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "eleven",
+   "file": "Speech/jace/jace_vex_num_eleven",
+   "hash": "e1fbf068392ad9f0",
+   "bytes": 3779
+  },
+  {
+   "id": "jace:vex.num.twelve",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "twelve",
+   "file": "Speech/jace/jace_vex_num_twelve",
+   "hash": "89dddf003e31e65f",
+   "bytes": 3988
+  },
+  {
+   "id": "jace:vex.num.thirteen",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "thirteen",
+   "file": "Speech/jace/jace_vex_num_thirteen",
+   "hash": "ff346d616d538ee0",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.num.fourteen",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "fourteen",
+   "file": "Speech/jace/jace_vex_num_fourteen",
+   "hash": "135f10c04ddf60b7",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.num.fifteen",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "fifteen",
+   "file": "Speech/jace/jace_vex_num_fifteen",
+   "hash": "7511d0f777ee0661",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.num.sixteen",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "sixteen",
+   "file": "Speech/jace/jace_vex_num_sixteen",
+   "hash": "a43d119cc439a817",
+   "bytes": 4406
+  },
+  {
+   "id": "jace:vex.num.seventeen",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "seventeen",
+   "file": "Speech/jace/jace_vex_num_seventeen",
+   "hash": "91eb3eab57b2c19d",
+   "bytes": 4615
+  },
+  {
+   "id": "jace:vex.num.eighteen",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "eighteen",
+   "file": "Speech/jace/jace_vex_num_eighteen",
+   "hash": "d4705052813fd78a",
+   "bytes": 3779
+  },
+  {
+   "id": "jace:vex.num.nineteen",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "nineteen",
+   "file": "Speech/jace/jace_vex_num_nineteen",
+   "hash": "d21e697e75f49b43",
+   "bytes": 4197
+  },
+  {
+   "id": "jace:vex.num.twenty",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "twenty",
+   "file": "Speech/jace/jace_vex_num_twenty",
+   "hash": "639de3a5c4dc0259",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.num.thirty",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "thirty",
+   "file": "Speech/jace/jace_vex_num_thirty",
+   "hash": "e801bdf44a7c1716",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.num.forty",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "forty",
+   "file": "Speech/jace/jace_vex_num_forty",
+   "hash": "4956a0fd0fb66744",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.num.fifty",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "fifty",
+   "file": "Speech/jace/jace_vex_num_fifty",
+   "hash": "0cd9178db4ed1766",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.num.sixty",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "sixty",
+   "file": "Speech/jace/jace_vex_num_sixty",
+   "hash": "94e04a97053ab238",
+   "bytes": 3779
+  },
+  {
+   "id": "jace:vex.num.seventy",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "seventy",
+   "file": "Speech/jace/jace_vex_num_seventy",
+   "hash": "7e6a484b4a6bc649",
+   "bytes": 3779
+  },
+  {
+   "id": "jace:vex.num.eighty",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "eighty",
+   "file": "Speech/jace/jace_vex_num_eighty",
+   "hash": "9a55a4f22fa2f1a4",
+   "bytes": 3465
+  },
+  {
+   "id": "jace:vex.num.ninety",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "ninety",
+   "file": "Speech/jace/jace_vex_num_ninety",
+   "hash": "45bdefe9294c501e",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.num.hundred",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "hundred",
+   "file": "Speech/jace/jace_vex_num_hundred",
+   "hash": "d272adf8be02f4d0",
+   "bytes": 3779
+  },
+  {
+   "id": "jace:vex.num.thousand",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "thousand",
+   "file": "Speech/jace/jace_vex_num_thousand",
+   "hash": "881ce072c29bcd56",
+   "bytes": 4615
+  },
+  {
+   "id": "jace:vex.num.million",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "million",
+   "file": "Speech/jace/jace_vex_num_million",
+   "hash": "d4e4829c9c54ec83",
+   "bytes": 3674
+  },
+  {
+   "id": "jace:vex.num.percent",
+   "voice": "jace",
+   "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+   "model": "eleven_multilingual_v2",
+   "text": "percent",
+   "file": "Speech/jace/jace_vex_num_percent",
+   "hash": "dd178c1b675f3e4d",
+   "bytes": 4197
+  }
+ ]
+}

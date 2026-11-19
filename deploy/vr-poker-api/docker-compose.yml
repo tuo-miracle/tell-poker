@@ -1,0 +1,51 @@
+# Tell 語音中繼（tools/voice-proxy）＋ Cloudflare Tunnel（vr-poker-api.elebymax.com）。
+# 部署：tools/deploy-voice-api.sh（把程式碼同步到伺服器 ~/vr-poker-api，再 docker compose up -d）。
+# 金鑰不在這裡：伺服器上的 ~/vr-poker-api/secrets/（gemini.key、elevenlabs.key）與 ~/vr-poker-api/.env（VOICE_TOKENS、TUNNEL_TOKEN）。
+# 可寫資料：~/vr-poker-api/data（掛成 /data）：tts-usage.json（本月 ElevenLabs 用量）、telemetry/<UTC 日>/<裝置雜湊6>_<session>.ndjson（開發版遙測）。
+name: vr-poker-api
+services:
+  api:
+    image: node:24-alpine
+    working_dir: /app
+    command: ["node", "src/node-server.ts"]
+    volumes:
+      - ./voice-proxy:/app:ro
+      - ./secrets:/secrets:ro
+      - ./data:/data
+    environment:
+      HOST: 0.0.0.0
+      PORT: "8787"
+      VOICE_SECRETS_DIR: /secrets
+      VOICE_TOKENS: ${VOICE_TOKENS:?set in .env}
+      # 限流以「每台裝置」計（App 安裝時隨機產生的 id），全體每日上限只當預算保險。
+      # 成本：一句回話約 60–100 字 → ElevenLabs flash 每字 0.5 credit ≈ 30–50 credits/句。
+      #   每台 80 句/天 ≈ 2.4k–4k credits；全體 3000 句/天 ≈ 90k–150k credits/天。ElevenLabs credits 是每月方案額度：
+      #   額度不夠時在 .env 設 VOICE_DAILY_CAP（例：每月 100k credits ÷ 30 天 ÷ 40 ≈ 80 句/天）。
+      VOICE_DAILY_CAP: ${VOICE_DAILY_CAP:-3000}
+      VOICE_DEVICE_DAILY_CAP: ${VOICE_DEVICE_DAILY_CAP:-80}
+      VOICE_DEVICE_CAPACITY: ${VOICE_DEVICE_CAPACITY:-6}
+      VOICE_DEVICE_PER_SEC: ${VOICE_DEVICE_PER_SEC:-0.2}
+      DATA_DIR: /data
+      # ElevenLabs 即時回話的每月額度保險（UTC 月，用量存在 /data/tts-usage.json）。到預算就不配音、App 改說預錄句。
+      # 方案 20,000 credits/月；固定台詞重做（bake）也要從同一個額度扣，所以即時回話先給 15,000。升級方案後在 .env 改 TTS_MONTHLY_CREDIT_BUDGET。
+      TTS_MONTHLY_CREDIT_BUDGET: ${TTS_MONTHLY_CREDIT_BUDGET:-15000}
+      TTS_CREDIT_PER_CHAR: ${TTS_CREDIT_PER_CHAR:-0.5}   # eleven_flash_v2_5；換 multilingual_v2 要改 1
+      # 開發版遙測（只有測試版 App 會送）：每個 session 檔 2 MB、全部 200 MB（超過刪最舊的日子）；TELEMETRY=0 關閉
+      TELEMETRY: ${TELEMETRY:-1}
+      TELEMETRY_SESSION_MAX_BYTES: ${TELEMETRY_SESSION_MAX_BYTES:-2000000}
+      TELEMETRY_TOTAL_MAX_BYTES: ${TELEMETRY_TOTAL_MAX_BYTES:-200000000}
+    restart: unless-stopped
+    # 隱私權政策（docs/privacy.md）寫「log 有大小上限、自動覆寫」：log 只有時間、角色、intent、毫秒、裝置 id 雜湊前 6 碼，沒有音訊與逐字稿
+    logging:
+      driver: json-file
+      options: { max-size: "5m", max-file: "2" }
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:8787/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+  tunnel:
+    image: cloudflare/cloudflared:latest
+    command: ["tunnel", "--no-autoupdate", "run", "--token", "${TUNNEL_TOKEN:?set in .env}"]
+    depends_on: [api]
+    restart: unless-stopped

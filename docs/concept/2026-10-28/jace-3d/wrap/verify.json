@@ -1,0 +1,116 @@
+{
+ "armatures": 1,
+ "bones": 54,
+ "eye_bones": [
+  "mixamorig:LeftEye",
+  "mixamorig:RightEye"
+ ],
+ "eye_parent": {
+  "mixamorig:LeftEye": "mixamorig:Head",
+  "mixamorig:RightEye": "mixamorig:Head"
+ },
+ "meshes": {
+  "JaceFace": {
+   "tris": 1813,
+   "shape_keys": 52,
+   "skinned": true,
+   "vgroups": 54,
+   "mats": [
+    "jace_face",
+    "rb_inner",
+    "rb_eye"
+   ],
+   "keys": [
+    "browDownLeft",
+    "browDownRight",
+    "browInnerUp",
+    "browOuterUpLeft",
+    "browOuterUpRight",
+    "cheekPuff",
+    "cheekSquintLeft",
+    "cheekSquintRight",
+    "eyeBlinkLeft",
+    "eyeBlinkRight",
+    "eyeLookDownLeft",
+    "eyeLookDownRight",
+    "eyeLookInLeft",
+    "eyeLookInRight",
+    "eyeLookOutLeft",
+    "eyeLookOutRight",
+    "eyeLookUpLeft",
+    "eyeLookUpRight",
+    "eyeSquintLeft",
+    "eyeSquintRight",
+    "eyeWideLeft",
+    "eyeWideRight",
+    "jawForward",
+    "jawLeft",
+    "jawOpen",
+    "jawRight",
+    "mouthClose",
+    "mouthDimpleLeft",
+    "mouthDimpleRight",
+    "mouthFrownLeft",
+    "mouthFrownRight",
+    "mouthFunnel",
+    "mouthLeft",
+    "mouthLowerDownLeft",
+    "mouthLowerDownRight",
+    "mouthPressLeft",
+    "mouthPressRight",
+    "mouthPucker",
+    "mouthRight",
+    "mouthRollLower",
+    "mouthRollUpper",
+    "mouthShrugLower",
+    "mouthShrugUpper",
+    "mouthSmileLeft",
+    "mouthSmileRight",
+    "mouthStretchLeft",
+    "mouthStretchRight",
+    "mouthUpperUpLeft",
+    "mouthUpperUpRight",
+    "noseSneerLeft",
+    "noseSneerRight",
+    "tongueOut"
+   ]
+  },
+  "tripo_node_f45c7da0-f574-451b-ac40-861b87894033": {
+   "tris": 11495,
+   "shape_keys": 0,
+   "skinned": true,
+   "vgroups": 54,
+   "mats": [
+    "tripo_material_f45c7da0-f574-451b-ac40-861b87894033"
+   ],
+   "keys": []
+  },
+  "Icosphere": {
+   "tris": 80,
+   "shape_keys": 0,
+   "skinned": false,
+   "vgroups": 0,
+   "mats": [],
+   "keys": []
+  }
+ },
+ "total_tris": 13388,
+ "images": {
+  "face_final": [
+   2048,
+   2048
+  ],
+  "face_normal": [
+   2048,
+   2048
+  ],
+  "male_human_3d_model_basecolor": [
+   2048,
+   2048
+  ],
+  "rb_inner_eye": [
+   2048,
+   2048
+  ]
+ }
+}

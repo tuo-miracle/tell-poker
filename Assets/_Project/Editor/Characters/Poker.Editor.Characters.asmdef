@@ -1,0 +1,14 @@
+{
+    "name": "Poker.Editor.Characters",
+    "rootNamespace": "Poker.Editor.Characters",
+    "references": ["Poker.AI", "Poker.Characters", "Poker.Game", "Unity.RenderPipelines.Core.Runtime", "Unity.RenderPipelines.Universal.Runtime"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

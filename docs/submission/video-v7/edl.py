@@ -1,0 +1,26 @@
+# v6：依評審代理意見重排。手先入鏡；60 秒內講完他讀你、你騙他、你讀他；騙局用快慢對照證明 AI 有反應
+# 長泡泡的鏡頭不加底部字幕（遊戲內泡泡本身就是字幕），避免文字堆疊
+S=[
+ dict(id="01",src="224236",a=252.4,b=258.0,gain=4,tag=("You pulled your hand back",0.0,3.2),dlg=[("Rocco","Changed your mind? I saw that.",2.75,4.9)]),
+ dict(id="03",src="003317",a=266.0,b=269.8,title=True),
+ dict(id="06",src="234540",a=659.0,b=664.3,story=("Bare hands. No controllers.",0.1,2.3),story2=("Pinch chips. Toss them in.",2.4,5.1)),
+ dict(id="07",src="234540",a=99.2,b=105.1,story=("The dealer teaches you as you play.",0.4,5.6)),
+ dict(id="02",src="224236",a=583.2,b=586.1,gain=4,zoom=(1.12,35,35),tag=("You hesitated",0.15,2.7),dlg=[("Rocco","Thinking hard, huh? That's a tell.",0.3,2.7)]),
+ dict(id="10",src="234540",a=257.7,b=261.4,gain=6,tag=("You held your chips",0.2,3.4),dlg=[("Rocco","Heavy, huh? Put them in.",1.6,3.6)]),
+ dict(id="08",src="234540",a=483.2,b=487.2,gain=3,dlg=[("Rocco","Told you. I always tell you.",0.15,1.85)]),
+ dict(id="11",src="234540",a=193.2,b=198.1,story=("So lie to him.",0.3,4.7)),
+ dict(id="11b",src="234540",a=145.8,b=148.9,gain=4,story=("Bet fast. He reads strength.",0.15,3.0),dlg=[("Rocco","Quick bet. You've got it. I'm out.",0.25,3.0)]),
+ dict(id="12",src="230425",a=170.0,b=175.8,gain=4,story=("Bet slow. He reads weakness.",2.0,5.6),dlg=[("Rocco","Something wrong, champ?",0.15,1.6)]),
+ dict(id="13",src="230425",a=176.1,b=179.9,gain=4,zoom=(1.08,38,38),story=("What he reads changes how he plays.",1.8,3.7),dlg=[("Rocco","Took your time… you're bluffing. I call.",0.25,3.6)]),
+ dict(id="15",src="230425",a=188.2,b=193.1,gain=2,zoom=(1.08,48,62),capTop=True,dlg=[("Dot","Pot goes to you!",0.15,1.4),("Rocco","You played me!",2.1,3.3),("Dot","You fooled him.",3.75,4.85)]),
+ dict(id="15b",src="234540",a=188.5,b=190.4,capTop=True),
+ dict(id="17",src="003317",a=270.6,b=273.7,gain=4,zoom=(1.12,48,40),story=("Stare at them. They notice.",0.2,3.0),dlg=[("Rocco","Looking for a tell? Good luck.",0.45,3.0)]),
+ dict(id="18",src="003317",a=440.0,b=445.0,gain=3,zoom=(1.25,28,72),story=("Every showdown shows who was bluffing.",1.0,4.8),storyRight=True,dlg=[("","Rocco eats again!",0.0,1.5)]),
+ dict(id="19",src="003317",a=273.8,b=278.2,gain=4,zoom=(1.12,48,40),story=("They talk back.",0.2,4.2),dlg=[("Rocco","Sitting on 980, rookie. Thinking of trying to take 'em?",0.25,4.1)]),
+ dict(id="20",src="003317",a=183.5,b=186.3,dlg=[("Dot","The pot is currently 100.",0.5,2.5)]),
+ dict(id="21",src="234540",a=415.9,b=417.4,dlg=[("Dot","We have an all-in!",0.4,1.4)]),
+ dict(id="22",src="234540",a=419.2,b=423.6,dlg=[("Dot","And the river.",1.25,2.7)]),
+ dict(id="23",src="234540",a=423.7,b=428.0,gain=5,capTop=True,dlg=[("Dot","Pot goes to you!",0.1,1.0),("Rocco","Okay. That was a trick.",1.5,3.6)]),
+ dict(id="24",src="231222",a=371.85,b=373.4,gain=4,zoom=(1.2,65,62),dlg=[("Vex","Clever. Once.",0.1,1.5)]),
+ dict(id="25",end=True,dur=4.5),
+]

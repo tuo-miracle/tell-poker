@@ -1,0 +1,18 @@
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+23:16:08 | INFO: Data are loaded, start creating Blender stuff
+23:16:08 | INFO: Blender create Mesh node meshes[0]
+23:16:09 | INFO: glTF import finished in 0.48s
+/Users/laichanean/WebstormProject/vr-poker/docs/concept/2026-10-28/table-3d/render_turnaround.py:23: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  sc.world = bpy.data.worlds.new('w'); sc.world.use_nodes = True
+00:05.208  render           | Saved: 'table-3d/table-turnaround_front.png'
+00:06.105  render           | Saved: 'table-3d/table-turnaround_right.png'
+00:06.590  render           | Saved: 'table-3d/table-turnaround_back.png'
+00:06.999  render           | Saved: 'table-3d/table-turnaround_left.png'
+BOUNDS (-0.5, -0.312, 0.0) (0.5, 0.312, 0.39)
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

@@ -1,0 +1,20 @@
+{
+    "name": "Poker.Game",
+    "rootNamespace": "Poker.Game",
+    "references": [
+        "Poker.Core",
+        "Poker.AI",
+        "Poker.Gestures",
+        "Poker.Characters",
+        "Poker.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

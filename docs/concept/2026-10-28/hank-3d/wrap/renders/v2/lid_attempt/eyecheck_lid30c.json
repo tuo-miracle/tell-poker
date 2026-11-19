@@ -1,0 +1,61 @@
+{
+ "look": {
+  "level": {
+   "L": {
+    "iris": 0.617,
+    "pupil": 0.848
+   },
+   "R": {
+    "iris": 0.659,
+    "pupil": 0.938
+   }
+  },
+  "up15": {
+   "L": {
+    "iris": 0.431,
+    "pupil": 0.444
+   },
+   "R": {
+    "iris": 0.47,
+    "pupil": 0.536
+   }
+  },
+  "down15": {
+   "L": {
+    "iris": 0.825,
+    "pupil": 1.0
+   },
+   "R": {
+    "iris": 0.888,
+    "pupil": 1.0
+   }
+  }
+ },
+ "blink_exposed_rays": {
+  "blink": 1,
+  "blink_squint": 0,
+  "blink_lookdown": 103
+ },
+ "poke": {
+  "neutral": {
+   "n_over_0.1mm": 16,
+   "max_mm": 2.282
+  },
+  "blink": {
+   "n_over_0.1mm": 15,
+   "max_mm": 2.282
+  },
+  "halfblink": {
+   "n_over_0.1mm": 22,
+   "max_mm": 2.282
+  },
+  "squint": {
+   "n_over_0.1mm": 21,
+   "max_mm": 1.739
+  },
+  "wide": {
+   "n_over_0.1mm": 16,
+   "max_mm": 2.282
+  }
+ }
+}

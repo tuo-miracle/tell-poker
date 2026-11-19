@@ -1,0 +1,22 @@
+BlenderMCP: cannot start server in background mode (blender -b) - commands would never execute
+BlenderMCP: run Blender with a GUI, or use a virtual display: xvfb-run -a blender
+BlenderMCP addon registered
+BlenderMCP server stopped
+BlenderMCP addon unregistered
+23:17:08 | INFO: Data are loaded, start creating Blender stuff
+23:17:08 | INFO: Blender create Mesh node meshes[0]
+23:17:08 | INFO: glTF import finished in 0.22s
+DEC weld 100630 -> 93414
+DEC tris before 186824
+DEC ratio 0.0428 tris after 8002
+DEC after: boundary edges 26 non-manifold 52
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+23:17:14 | INFO: Starting glTF 2.0 export
+23:17:14 | INFO: Extracting primitive: meshes[0]
+23:17:15 | INFO: Primitives created: 1
+23:17:15 | INFO: Finished glTF 2.0 export in 0.0231170654296875 s
+
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 01:35:57)
+
+Blender quit

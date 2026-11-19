@@ -1,0 +1,14 @@
+{
+    "name": "Poker.Tests.Characters",
+    "rootNamespace": "Poker.Tests",
+    "references": ["Poker.AI", "Poker.Characters", "UnityEngine.TestRunner"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["nunit.framework.dll"],
+    "autoReferenced": false,
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

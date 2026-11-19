@@ -1,0 +1,13 @@
+{
+  "name": "tell-voice-proxy",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Voice chat relay for Tell (Gemini speech understanding + reply, ElevenLabs TTS). Fetch-handler style so it can move to Cloudflare Workers.",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "start": "node src/node-server.ts",
+    "test": "node --test \"test/*.test.ts\"",
+    "smoke": "node smoke/smoke.ts"
+  }
+}

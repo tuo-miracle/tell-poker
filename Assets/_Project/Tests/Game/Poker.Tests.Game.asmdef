@@ -1,0 +1,27 @@
+{
+    "name": "Poker.Tests.Game",
+    "rootNamespace": "Poker.Tests.Game",
+    "references": [
+        "Poker.Game",
+        "Poker.Core",
+        "Poker.AI",
+        "Poker.Gestures",
+        "Poker.Characters",
+        "Poker.Runtime",
+        "Poker.Tests.HandsKit",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
